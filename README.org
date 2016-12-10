@@ -1,0 +1,4 @@
+* Jupyter talk material
+
+** Ideas
+
