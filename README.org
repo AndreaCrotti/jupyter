@@ -1,3 +1,15 @@
+* Slides
+
+Slides are generated using the [[https://github.com/damianavila/RISE][RISE]] project, which is a jupyter
+notebook extension that can be enabled by doing 
+
+#+BEGIN_SRC sh
+  jupyter-nbextension install rise --py --sys-prefix
+  jupyter-nbextension enable rise --py --sys-prefix
+#+END_SRC
+
+After all the requirements are installed correctly.
+
 * Jupyter talk material
 
 ** Ideas

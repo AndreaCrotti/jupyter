@@ -10,3 +10,4 @@ plotly==1.12.12
 requests==2.12.3
 scipy==0.18.1
 SQLAlchemy==1.1.4
+rise==4.0.0b1
