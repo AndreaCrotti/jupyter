@@ -14,3 +14,8 @@ After all the requirements are installed correctly.
 
 ** Ideas
 
+- stock market analysis
+- personal ledger expenses (fill up a sample about that)
+- fun with maps and data representation.
+  Take a map of London, some data about cost of houses and put the two things together!
+- Representation of some graph database like connected people.
