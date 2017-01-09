@@ -1,0 +1,547 @@
+Year,ICD10_Code,ICD10_Description,Metric,Value
+2014,Total,Total,All persons,6831
+2014,F10,Mental and behavioural disorders due to use of alcohol,All persons,489
+2014,G31.2,Degeneration of nervous system due to alcohol,All persons,13
+2014,G62.1,Alcoholic polyneuropathy,All persons,0
+2014,I42.6,Alcoholic cardiomyopathy,All persons,84
+2014,K29.2,Alcoholic gastritis,All persons,5
+2014,K70,Alcoholic liver disease,All persons,4333
+2014,K73,Chronic hepatitis not elsewhere classified,All persons,5
+2014,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,All persons,1520
+2014,K86.0,Alcohol induced chronic pancreatitis,All persons,11
+2014,X45,Accidental poisoning by and exposure to alcohol,All persons,369
+2014,X65,Intentional self-poisoning by and exposure to alcohol,All persons,2
+2014,Y15,Poisoning by and exposure to alcohol undetermined intent,All persons,0
+2014,Total,Total,Male,4433
+2014,F10,Mental and behavioural disorders due to use of alcohol,Male,339
+2014,G31.2,Degeneration of nervous system due to alcohol,Male,12
+2014,G62.1,Alcoholic polyneuropathy,Male,0
+2014,I42.6,Alcoholic cardiomyopathy,Male,68
+2014,K29.2,Alcoholic gastritis,Male,5
+2014,K70,Alcoholic liver disease,Male,2845
+2014,K73,Chronic hepatitis not elsewhere classified,Male,1
+2014,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Male,911
+2014,K86.0,Alcohol induced chronic pancreatitis,Male,9
+2014,X45,Accidental poisoning by and exposure to alcohol,Male,242
+2014,X65,Intentional self-poisoning by and exposure to alcohol,Male,1
+2014,Y15,Poisoning by and exposure to alcohol undetermined intent,Male,0
+2014,Total,Total,Female,2398
+2014,F10,Mental and behavioural disorders due to use of alcohol,Female,150
+2014,G31.2,Degeneration of nervous system due to alcohol,Female,1
+2014,G62.1,Alcoholic polyneuropathy,Female,0
+2014,I42.6,Alcoholic cardiomyopathy,Female,16
+2014,K29.2,Alcoholic gastritis,Female,0
+2014,K70,Alcoholic liver disease,Female,1488
+2014,K73,Chronic hepatitis not elsewhere classified,Female,4
+2014,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Female,609
+2014,K86.0,Alcohol induced chronic pancreatitis,Female,2
+2014,X45,Accidental poisoning by and exposure to alcohol,Female,127
+2014,X65,Intentional self-poisoning by and exposure to alcohol,Female,1
+2014,Y15,Poisoning by and exposure to alcohol undetermined intent,Female,0
+2013,Total,Total,All persons,6592
+2013,F10,Mental and behavioural disorders due to use of alcohol,All persons,450
+2013,G31.2,Degeneration of nervous system due to alcohol,All persons,8
+2013,G62.1,Alcoholic polyneuropathy,All persons,0
+2013,I42.6,Alcoholic cardiomyopathy,All persons,107
+2013,K29.2,Alcoholic gastritis,All persons,3
+2013,K70,Alcoholic liver disease,All persons,4190
+2013,K73,Chronic hepatitis not elsewhere classified,All persons,10
+2013,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,All persons,1438
+2013,K86.0,Alcohol induced chronic pancreatitis,All persons,11
+2013,X45,Accidental poisoning by and exposure to alcohol,All persons,360
+2013,X65,Intentional self-poisoning by and exposure to alcohol,All persons,8
+2013,Y15,Poisoning by and exposure to alcohol undetermined intent,All persons,7
+2013,Total,Total,Male,4332
+2013,F10,Mental and behavioural disorders due to use of alcohol,Male,321
+2013,G31.2,Degeneration of nervous system due to alcohol,Male,5
+2013,G62.1,Alcoholic polyneuropathy,Male,0
+2013,I42.6,Alcoholic cardiomyopathy,Male,91
+2013,K29.2,Alcoholic gastritis,Male,3
+2013,K70,Alcoholic liver disease,Male,2786
+2013,K73,Chronic hepatitis not elsewhere classified,Male,4
+2013,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Male,871
+2013,K86.0,Alcohol induced chronic pancreatitis,Male,6
+2013,X45,Accidental poisoning by and exposure to alcohol,Male,235
+2013,X65,Intentional self-poisoning by and exposure to alcohol,Male,6
+2013,Y15,Poisoning by and exposure to alcohol undetermined intent,Male,4
+2013,Total,Total,Female,2260
+2013,F10,Mental and behavioural disorders due to use of alcohol,Female,129
+2013,G31.2,Degeneration of nervous system due to alcohol,Female,3
+2013,G62.1,Alcoholic polyneuropathy,Female,0
+2013,I42.6,Alcoholic cardiomyopathy,Female,16
+2013,K29.2,Alcoholic gastritis,Female,0
+2013,K70,Alcoholic liver disease,Female,1404
+2013,K73,Chronic hepatitis not elsewhere classified,Female,6
+2013,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Female,567
+2013,K86.0,Alcohol induced chronic pancreatitis,Female,5
+2013,X45,Accidental poisoning by and exposure to alcohol,Female,125
+2013,X65,Intentional self-poisoning by and exposure to alcohol,Female,2
+2013,Y15,Poisoning by and exposure to alcohol undetermined intent,Female,3
+2012,Total,Total,All persons,6495
+2012,F10,Mental and behavioural disorders due to use of alcohol,All persons,442
+2012,G31.2,Degeneration of nervous system due to alcohol,All persons,7
+2012,G62.1,Alcoholic polyneuropathy,All persons,0
+2012,I42.6,Alcoholic cardiomyopathy,All persons,95
+2012,K29.2,Alcoholic gastritis,All persons,2
+2012,K70,Alcoholic liver disease,All persons,4080
+2012,K73,Chronic hepatitis not elsewhere classified,All persons,4
+2012,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,All persons,1479
+2012,K86.0,Alcohol induced chronic pancreatitis,All persons,9
+2012,X45,Accidental poisoning by and exposure to alcohol,All persons,367
+2012,X65,Intentional self-poisoning by and exposure to alcohol,All persons,4
+2012,Y15,Poisoning by and exposure to alcohol undetermined intent,All persons,6
+2012,Total,Total,Male,4232
+2012,F10,Mental and behavioural disorders due to use of alcohol,Male,321
+2012,G31.2,Degeneration of nervous system due to alcohol,Male,4
+2012,G62.1,Alcoholic polyneuropathy,Male,0
+2012,I42.6,Alcoholic cardiomyopathy,Male,81
+2012,K29.2,Alcoholic gastritis,Male,1
+2012,K70,Alcoholic liver disease,Male,2651
+2012,K73,Chronic hepatitis not elsewhere classified,Male,0
+2012,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Male,910
+2012,K86.0,Alcohol induced chronic pancreatitis,Male,8
+2012,X45,Accidental poisoning by and exposure to alcohol,Male,249
+2012,X65,Intentional self-poisoning by and exposure to alcohol,Male,3
+2012,Y15,Poisoning by and exposure to alcohol undetermined intent,Male,4
+2012,Total,Total,Female,2263
+2012,F10,Mental and behavioural disorders due to use of alcohol,Female,121
+2012,G31.2,Degeneration of nervous system due to alcohol,Female,3
+2012,G62.1,Alcoholic polyneuropathy,Female,0
+2012,I42.6,Alcoholic cardiomyopathy,Female,14
+2012,K29.2,Alcoholic gastritis,Female,1
+2012,K70,Alcoholic liver disease,Female,1429
+2012,K73,Chronic hepatitis not elsewhere classified,Female,4
+2012,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Female,569
+2012,K86.0,Alcohol induced chronic pancreatitis,Female,1
+2012,X45,Accidental poisoning by and exposure to alcohol,Female,118
+2012,X65,Intentional self-poisoning by and exposure to alcohol,Female,1
+2012,Y15,Poisoning by and exposure to alcohol undetermined intent,Female,2
+2011,Total,Total,All persons,6775
+2011,F10,Mental and behavioural disorders due to use of alcohol,All persons,427
+2011,G31.2,Degeneration of nervous system due to alcohol,All persons,13
+2011,G62.1,Alcoholic polyneuropathy,All persons,3
+2011,I42.6,Alcoholic cardiomyopathy,All persons,106
+2011,K29.2,Alcoholic gastritis,All persons,9
+2011,K70,Alcoholic liver disease,All persons,4445
+2011,K73,Chronic hepatitis not elsewhere classified,All persons,3
+2011,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,All persons,1384
+2011,K86.0,Alcohol induced chronic pancreatitis,All persons,5
+2011,X45,Accidental poisoning by and exposure to alcohol,All persons,360
+2011,X65,Intentional self-poisoning by and exposure to alcohol,All persons,5
+2011,Y15,Poisoning by and exposure to alcohol undetermined intent,All persons,15
+2011,Total,Total,Male,4503
+2011,F10,Mental and behavioural disorders due to use of alcohol,Male,300
+2011,G31.2,Degeneration of nervous system due to alcohol,Male,8
+2011,G62.1,Alcoholic polyneuropathy,Male,3
+2011,I42.6,Alcoholic cardiomyopathy,Male,93
+2011,K29.2,Alcoholic gastritis,Male,6
+2011,K70,Alcoholic liver disease,Male,2946
+2011,K73,Chronic hepatitis not elsewhere classified,Male,0
+2011,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Male,874
+2011,K86.0,Alcohol induced chronic pancreatitis,Male,5
+2011,X45,Accidental poisoning by and exposure to alcohol,Male,257
+2011,X65,Intentional self-poisoning by and exposure to alcohol,Male,1
+2011,Y15,Poisoning by and exposure to alcohol undetermined intent,Male,10
+2011,Total,Total,Female,2272
+2011,F10,Mental and behavioural disorders due to use of alcohol,Female,127
+2011,G31.2,Degeneration of nervous system due to alcohol,Female,5
+2011,G62.1,Alcoholic polyneuropathy,Female,0
+2011,I42.6,Alcoholic cardiomyopathy,Female,13
+2011,K29.2,Alcoholic gastritis,Female,3
+2011,K70,Alcoholic liver disease,Female,1499
+2011,K73,Chronic hepatitis not elsewhere classified,Female,3
+2011,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Female,510
+2011,K86.0,Alcohol induced chronic pancreatitis,Female,0
+2011,X45,Accidental poisoning by and exposure to alcohol,Female,103
+2011,X65,Intentional self-poisoning by and exposure to alcohol,Female,4
+2011,Y15,Poisoning by and exposure to alcohol undetermined intent,Female,5
+2010,Total,Total,All persons,6669
+2010,F10,Mental and behavioural disorders due to use of alcohol,All persons,628
+2010,G31.2,Degeneration of nervous system due to alcohol,All persons,4
+2010,G62.1,Alcoholic polyneuropathy,All persons,0
+2010,I42.6,Alcoholic cardiomyopathy,All persons,73
+2010,K29.2,Alcoholic gastritis,All persons,4
+2010,K70,Alcoholic liver disease,All persons,4278
+2010,K73,Chronic hepatitis not elsewhere classified,All persons,50
+2010,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,All persons,1396
+2010,K86.0,Alcohol induced chronic pancreatitis,All persons,54
+2010,X45,Accidental poisoning by and exposure to alcohol,All persons,173
+2010,X65,Intentional self-poisoning by and exposure to alcohol,All persons,3
+2010,Y15,Poisoning by and exposure to alcohol undetermined intent,All persons,6
+2010,Total,Total,Male,4439
+2010,F10,Mental and behavioural disorders due to use of alcohol,Male,446
+2010,G31.2,Degeneration of nervous system due to alcohol,Male,3
+2010,G62.1,Alcoholic polyneuropathy,Male,0
+2010,I42.6,Alcoholic cardiomyopathy,Male,63
+2010,K29.2,Alcoholic gastritis,Male,4
+2010,K70,Alcoholic liver disease,Male,2881
+2010,K73,Chronic hepatitis not elsewhere classified,Male,6
+2010,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Male,871
+2010,K86.0,Alcohol induced chronic pancreatitis,Male,37
+2010,X45,Accidental poisoning by and exposure to alcohol,Male,120
+2010,X65,Intentional self-poisoning by and exposure to alcohol,Male,3
+2010,Y15,Poisoning by and exposure to alcohol undetermined intent,Male,5
+2010,Total,Total,Female,2230
+2010,F10,Mental and behavioural disorders due to use of alcohol,Female,182
+2010,G31.2,Degeneration of nervous system due to alcohol,Female,1
+2010,G62.1,Alcoholic polyneuropathy,Female,0
+2010,I42.6,Alcoholic cardiomyopathy,Female,10
+2010,K29.2,Alcoholic gastritis,Female,0
+2010,K70,Alcoholic liver disease,Female,1397
+2010,K73,Chronic hepatitis not elsewhere classified,Female,44
+2010,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Female,525
+2010,K86.0,Alcohol induced chronic pancreatitis,Female,17
+2010,X45,Accidental poisoning by and exposure to alcohol,Female,53
+2010,X65,Intentional self-poisoning by and exposure to alcohol,Female,0
+2010,Y15,Poisoning by and exposure to alcohol undetermined intent,Female,1
+2009,Total,Total,All persons,6582
+2009,F10,Mental and behavioural disorders due to use of alcohol,All persons,596
+2009,G31.2,Degeneration of nervous system due to alcohol,All persons,9
+2009,G62.1,Alcoholic polyneuropathy,All persons,0
+2009,I42.6,Alcoholic cardiomyopathy,All persons,98
+2009,K29.2,Alcoholic gastritis,All persons,4
+2009,K70,Alcoholic liver disease,All persons,4158
+2009,K73,Chronic hepatitis not elsewhere classified,All persons,70
+2009,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,All persons,1429
+2009,K86.0,Alcohol induced chronic pancreatitis,All persons,41
+2009,X45,Accidental poisoning by and exposure to alcohol,All persons,168
+2009,X65,Intentional self-poisoning by and exposure to alcohol,All persons,2
+2009,Y15,Poisoning by and exposure to alcohol undetermined intent,All persons,7
+2009,Total,Total,Male,4315
+2009,F10,Mental and behavioural disorders due to use of alcohol,Male,424
+2009,G31.2,Degeneration of nervous system due to alcohol,Male,6
+2009,G62.1,Alcoholic polyneuropathy,Male,0
+2009,I42.6,Alcoholic cardiomyopathy,Male,78
+2009,K29.2,Alcoholic gastritis,Male,3
+2009,K70,Alcoholic liver disease,Male,2755
+2009,K73,Chronic hepatitis not elsewhere classified,Male,23
+2009,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Male,874
+2009,K86.0,Alcohol induced chronic pancreatitis,Male,29
+2009,X45,Accidental poisoning by and exposure to alcohol,Male,117
+2009,X65,Intentional self-poisoning by and exposure to alcohol,Male,0
+2009,Y15,Poisoning by and exposure to alcohol undetermined intent,Male,6
+2009,Total,Total,Female,2267
+2009,F10,Mental and behavioural disorders due to use of alcohol,Female,172
+2009,G31.2,Degeneration of nervous system due to alcohol,Female,3
+2009,G62.1,Alcoholic polyneuropathy,Female,0
+2009,I42.6,Alcoholic cardiomyopathy,Female,20
+2009,K29.2,Alcoholic gastritis,Female,1
+2009,K70,Alcoholic liver disease,Female,1403
+2009,K73,Chronic hepatitis not elsewhere classified,Female,47
+2009,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Female,555
+2009,K86.0,Alcohol induced chronic pancreatitis,Female,12
+2009,X45,Accidental poisoning by and exposure to alcohol,Female,51
+2009,X65,Intentional self-poisoning by and exposure to alcohol,Female,2
+2009,Y15,Poisoning by and exposure to alcohol undetermined intent,Female,1
+2008,Total,Total,All persons,6771
+2008,F10,Mental and behavioural disorders due to use of alcohol,All persons,640
+2008,G31.2,Degeneration of nervous system due to alcohol,All persons,6
+2008,G62.1,Alcoholic polyneuropathy,All persons,0
+2008,I42.6,Alcoholic cardiomyopathy,All persons,80
+2008,K29.2,Alcoholic gastritis,All persons,3
+2008,K70,Alcoholic liver disease,All persons,4402
+2008,K73,Chronic hepatitis not elsewhere classified,All persons,61
+2008,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,All persons,1365
+2008,K86.0,Alcohol induced chronic pancreatitis,All persons,48
+2008,X45,Accidental poisoning by and exposure to alcohol,All persons,154
+2008,X65,Intentional self-poisoning by and exposure to alcohol,All persons,3
+2008,Y15,Poisoning by and exposure to alcohol undetermined intent,All persons,9
+2008,Total,Total,Male,4476
+2008,F10,Mental and behavioural disorders due to use of alcohol,Male,437
+2008,G31.2,Degeneration of nervous system due to alcohol,Male,2
+2008,G62.1,Alcoholic polyneuropathy,Male,0
+2008,I42.6,Alcoholic cardiomyopathy,Male,68
+2008,K29.2,Alcoholic gastritis,Male,2
+2008,K70,Alcoholic liver disease,Male,2968
+2008,K73,Chronic hepatitis not elsewhere classified,Male,16
+2008,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Male,827
+2008,K86.0,Alcohol induced chronic pancreatitis,Male,39
+2008,X45,Accidental poisoning by and exposure to alcohol,Male,110
+2008,X65,Intentional self-poisoning by and exposure to alcohol,Male,1
+2008,Y15,Poisoning by and exposure to alcohol undetermined intent,Male,6
+2008,Total,Total,Female,2295
+2008,F10,Mental and behavioural disorders due to use of alcohol,Female,203
+2008,G31.2,Degeneration of nervous system due to alcohol,Female,4
+2008,G62.1,Alcoholic polyneuropathy,Female,0
+2008,I42.6,Alcoholic cardiomyopathy,Female,12
+2008,K29.2,Alcoholic gastritis,Female,1
+2008,K70,Alcoholic liver disease,Female,1434
+2008,K73,Chronic hepatitis not elsewhere classified,Female,45
+2008,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Female,538
+2008,K86.0,Alcohol induced chronic pancreatitis,Female,9
+2008,X45,Accidental poisoning by and exposure to alcohol,Female,44
+2008,X65,Intentional self-poisoning by and exposure to alcohol,Female,2
+2008,Y15,Poisoning by and exposure to alcohol undetermined intent,Female,3
+2007,Total,Total,All persons,6544
+2007,F10,Mental and behavioural disorders due to use of alcohol,All persons,486
+2007,G31.2,Degeneration of nervous system due to alcohol,All persons,10
+2007,G62.1,Alcoholic polyneuropathy,All persons,1
+2007,I42.6,Alcoholic cardiomyopathy,All persons,76
+2007,K29.2,Alcoholic gastritis,All persons,9
+2007,K70,Alcoholic liver disease,All persons,4257
+2007,K73,Chronic hepatitis not elsewhere classified,All persons,68
+2007,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,All persons,1424
+2007,K86.0,Alcohol induced chronic pancreatitis,All persons,48
+2007,X45,Accidental poisoning by and exposure to alcohol,All persons,157
+2007,X65,Intentional self-poisoning by and exposure to alcohol,All persons,2
+2007,Y15,Poisoning by and exposure to alcohol undetermined intent,All persons,6
+2007,Total,Total,Male,4234
+2007,F10,Mental and behavioural disorders due to use of alcohol,Male,322
+2007,G31.2,Degeneration of nervous system due to alcohol,Male,6
+2007,G62.1,Alcoholic polyneuropathy,Male,1
+2007,I42.6,Alcoholic cardiomyopathy,Male,66
+2007,K29.2,Alcoholic gastritis,Male,6
+2007,K70,Alcoholic liver disease,Male,2816
+2007,K73,Chronic hepatitis not elsewhere classified,Male,10
+2007,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Male,860
+2007,K86.0,Alcohol induced chronic pancreatitis,Male,35
+2007,X45,Accidental poisoning by and exposure to alcohol,Male,106
+2007,X65,Intentional self-poisoning by and exposure to alcohol,Male,1
+2007,Y15,Poisoning by and exposure to alcohol undetermined intent,Male,5
+2007,Total,Total,Female,2310
+2007,F10,Mental and behavioural disorders due to use of alcohol,Female,164
+2007,G31.2,Degeneration of nervous system due to alcohol,Female,4
+2007,G62.1,Alcoholic polyneuropathy,Female,0
+2007,I42.6,Alcoholic cardiomyopathy,Female,10
+2007,K29.2,Alcoholic gastritis,Female,3
+2007,K70,Alcoholic liver disease,Female,1441
+2007,K73,Chronic hepatitis not elsewhere classified,Female,58
+2007,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Female,564
+2007,K86.0,Alcohol induced chronic pancreatitis,Female,13
+2007,X45,Accidental poisoning by and exposure to alcohol,Female,51
+2007,X65,Intentional self-poisoning by and exposure to alcohol,Female,1
+2007,Y15,Poisoning by and exposure to alcohol undetermined intent,Female,1
+2006,Total,Total,All persons,6517
+2006,F10,Mental and behavioural disorders due to use of alcohol,All persons,507
+2006,G31.2,Degeneration of nervous system due to alcohol,All persons,8
+2006,G62.1,Alcoholic polyneuropathy,All persons,1
+2006,I42.6,Alcoholic cardiomyopathy,All persons,83
+2006,K29.2,Alcoholic gastritis,All persons,4
+2006,K70,Alcoholic liver disease,All persons,4159
+2006,K73,Chronic hepatitis not elsewhere classified,All persons,68
+2006,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,All persons,1489
+2006,K86.0,Alcohol induced chronic pancreatitis,All persons,41
+2006,X45,Accidental poisoning by and exposure to alcohol,All persons,150
+2006,X65,Intentional self-poisoning by and exposure to alcohol,All persons,3
+2006,Y15,Poisoning by and exposure to alcohol undetermined intent,All persons,4
+2006,Total,Total,Male,4271
+2006,F10,Mental and behavioural disorders due to use of alcohol,Male,349
+2006,G31.2,Degeneration of nervous system due to alcohol,Male,8
+2006,G62.1,Alcoholic polyneuropathy,Male,1
+2006,I42.6,Alcoholic cardiomyopathy,Male,74
+2006,K29.2,Alcoholic gastritis,Male,3
+2006,K70,Alcoholic liver disease,Male,2768
+2006,K73,Chronic hepatitis not elsewhere classified,Male,13
+2006,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Male,918
+2006,K86.0,Alcohol induced chronic pancreatitis,Male,33
+2006,X45,Accidental poisoning by and exposure to alcohol,Male,97
+2006,X65,Intentional self-poisoning by and exposure to alcohol,Male,3
+2006,Y15,Poisoning by and exposure to alcohol undetermined intent,Male,4
+2006,Total,Total,Female,2246
+2006,F10,Mental and behavioural disorders due to use of alcohol,Female,158
+2006,G31.2,Degeneration of nervous system due to alcohol,Female,0
+2006,G62.1,Alcoholic polyneuropathy,Female,0
+2006,I42.6,Alcoholic cardiomyopathy,Female,9
+2006,K29.2,Alcoholic gastritis,Female,1
+2006,K70,Alcoholic liver disease,Female,1391
+2006,K73,Chronic hepatitis not elsewhere classified,Female,55
+2006,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Female,571
+2006,K86.0,Alcohol induced chronic pancreatitis,Female,8
+2006,X45,Accidental poisoning by and exposure to alcohol,Female,53
+2006,X65,Intentional self-poisoning by and exposure to alcohol,Female,0
+2006,Y15,Poisoning by and exposure to alcohol undetermined intent,Female,0
+2005,Total,Total,All persons,6197
+2005,F10,Mental and behavioural disorders due to use of alcohol,All persons,539
+2005,G31.2,Degeneration of nervous system due to alcohol,All persons,6
+2005,G62.1,Alcoholic polyneuropathy,All persons,0
+2005,I42.6,Alcoholic cardiomyopathy,All persons,75
+2005,K29.2,Alcoholic gastritis,All persons,1
+2005,K70,Alcoholic liver disease,All persons,3884
+2005,K73,Chronic hepatitis not elsewhere classified,All persons,58
+2005,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,All persons,1423
+2005,K86.0,Alcohol induced chronic pancreatitis,All persons,52
+2005,X45,Accidental poisoning by and exposure to alcohol,All persons,151
+2005,X65,Intentional self-poisoning by and exposure to alcohol,All persons,2
+2005,Y15,Poisoning by and exposure to alcohol undetermined intent,All persons,6
+2005,Total,Total,Male,4103
+2005,F10,Mental and behavioural disorders due to use of alcohol,Male,401
+2005,G31.2,Degeneration of nervous system due to alcohol,Male,4
+2005,G62.1,Alcoholic polyneuropathy,Male,0
+2005,I42.6,Alcoholic cardiomyopathy,Male,59
+2005,K29.2,Alcoholic gastritis,Male,0
+2005,K70,Alcoholic liver disease,Male,2609
+2005,K73,Chronic hepatitis not elsewhere classified,Male,12
+2005,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Male,868
+2005,K86.0,Alcohol induced chronic pancreatitis,Male,43
+2005,X45,Accidental poisoning by and exposure to alcohol,Male,100
+2005,X65,Intentional self-poisoning by and exposure to alcohol,Male,2
+2005,Y15,Poisoning by and exposure to alcohol undetermined intent,Male,5
+2005,Total,Total,Female,2094
+2005,F10,Mental and behavioural disorders due to use of alcohol,Female,138
+2005,G31.2,Degeneration of nervous system due to alcohol,Female,2
+2005,G62.1,Alcoholic polyneuropathy,Female,0
+2005,I42.6,Alcoholic cardiomyopathy,Female,16
+2005,K29.2,Alcoholic gastritis,Female,1
+2005,K70,Alcoholic liver disease,Female,1275
+2005,K73,Chronic hepatitis not elsewhere classified,Female,46
+2005,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Female,555
+2005,K86.0,Alcohol induced chronic pancreatitis,Female,9
+2005,X45,Accidental poisoning by and exposure to alcohol,Female,51
+2005,X65,Intentional self-poisoning by and exposure to alcohol,Female,0
+2005,Y15,Poisoning by and exposure to alcohol undetermined intent,Female,1
+2004,Total,Total,All persons,6036
+2004,F10,Mental and behavioural disorders due to use of alcohol,All persons,461
+2004,G31.2,Degeneration of nervous system due to alcohol,All persons,10
+2004,G62.1,Alcoholic polyneuropathy,All persons,0
+2004,I42.6,Alcoholic cardiomyopathy,All persons,94
+2004,K29.2,Alcoholic gastritis,All persons,2
+2004,K70,Alcoholic liver disease,All persons,3768
+2004,K73,Chronic hepatitis not elsewhere classified,All persons,63
+2004,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,All persons,1458
+2004,K86.0,Alcohol induced chronic pancreatitis,All persons,43
+2004,X45,Accidental poisoning by and exposure to alcohol,All persons,130
+2004,X65,Intentional self-poisoning by and exposure to alcohol,All persons,2
+2004,Y15,Poisoning by and exposure to alcohol undetermined intent,All persons,5
+2004,Total,Total,Male,3922
+2004,F10,Mental and behavioural disorders due to use of alcohol,Male,326
+2004,G31.2,Degeneration of nervous system due to alcohol,Male,7
+2004,G62.1,Alcoholic polyneuropathy,Male,0
+2004,I42.6,Alcoholic cardiomyopathy,Male,78
+2004,K29.2,Alcoholic gastritis,Male,1
+2004,K70,Alcoholic liver disease,Male,2465
+2004,K73,Chronic hepatitis not elsewhere classified,Male,14
+2004,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Male,900
+2004,K86.0,Alcohol induced chronic pancreatitis,Male,34
+2004,X45,Accidental poisoning by and exposure to alcohol,Male,91
+2004,X65,Intentional self-poisoning by and exposure to alcohol,Male,2
+2004,Y15,Poisoning by and exposure to alcohol undetermined intent,Male,4
+2004,Total,Total,Female,2114
+2004,F10,Mental and behavioural disorders due to use of alcohol,Female,135
+2004,G31.2,Degeneration of nervous system due to alcohol,Female,3
+2004,G62.1,Alcoholic polyneuropathy,Female,0
+2004,I42.6,Alcoholic cardiomyopathy,Female,16
+2004,K29.2,Alcoholic gastritis,Female,1
+2004,K70,Alcoholic liver disease,Female,1303
+2004,K73,Chronic hepatitis not elsewhere classified,Female,49
+2004,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Female,558
+2004,K86.0,Alcohol induced chronic pancreatitis,Female,9
+2004,X45,Accidental poisoning by and exposure to alcohol,Female,39
+2004,X65,Intentional self-poisoning by and exposure to alcohol,Female,0
+2004,Y15,Poisoning by and exposure to alcohol undetermined intent,Female,1
+2003,Total,Total,All persons,5984
+2003,F10,Mental and behavioural disorders due to use of alcohol,All persons,435
+2003,G31.2,Degeneration of nervous system due to alcohol,All persons,14
+2003,G62.1,Alcoholic polyneuropathy,All persons,1
+2003,I42.6,Alcoholic cardiomyopathy,All persons,99
+2003,K29.2,Alcoholic gastritis,All persons,2
+2003,K70,Alcoholic liver disease,All persons,3706
+2003,K73,Chronic hepatitis not elsewhere classified,All persons,58
+2003,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,All persons,1503
+2003,K86.0,Alcohol induced chronic pancreatitis,All persons,32
+2003,X45,Accidental poisoning by and exposure to alcohol,All persons,127
+2003,X65,Intentional self-poisoning by and exposure to alcohol,All persons,2
+2003,Y15,Poisoning by and exposure to alcohol undetermined intent,All persons,5
+2003,Total,Total,Male,3968
+2003,F10,Mental and behavioural disorders due to use of alcohol,Male,321
+2003,G31.2,Degeneration of nervous system due to alcohol,Male,12
+2003,G62.1,Alcoholic polyneuropathy,Male,0
+2003,I42.6,Alcoholic cardiomyopathy,Male,88
+2003,K29.2,Alcoholic gastritis,Male,0
+2003,K70,Alcoholic liver disease,Male,2514
+2003,K73,Chronic hepatitis not elsewhere classified,Male,14
+2003,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Male,905
+2003,K86.0,Alcohol induced chronic pancreatitis,Male,22
+2003,X45,Accidental poisoning by and exposure to alcohol,Male,86
+2003,X65,Intentional self-poisoning by and exposure to alcohol,Male,2
+2003,Y15,Poisoning by and exposure to alcohol undetermined intent,Male,4
+2003,Total,Total,Female,2016
+2003,F10,Mental and behavioural disorders due to use of alcohol,Female,114
+2003,G31.2,Degeneration of nervous system due to alcohol,Female,2
+2003,G62.1,Alcoholic polyneuropathy,Female,1
+2003,I42.6,Alcoholic cardiomyopathy,Female,11
+2003,K29.2,Alcoholic gastritis,Female,2
+2003,K70,Alcoholic liver disease,Female,1192
+2003,K73,Chronic hepatitis not elsewhere classified,Female,44
+2003,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Female,598
+2003,K86.0,Alcohol induced chronic pancreatitis,Female,10
+2003,X45,Accidental poisoning by and exposure to alcohol,Female,41
+2003,X65,Intentional self-poisoning by and exposure to alcohol,Female,0
+2003,Y15,Poisoning by and exposure to alcohol undetermined intent,Female,1
+2002,Total,Total,All persons,5592
+2002,F10,Mental and behavioural disorders due to use of alcohol,All persons,429
+2002,G31.2,Degeneration of nervous system due to alcohol,All persons,8
+2002,G62.1,Alcoholic polyneuropathy,All persons,0
+2002,I42.6,Alcoholic cardiomyopathy,All persons,123
+2002,K29.2,Alcoholic gastritis,All persons,4
+2002,K70,Alcoholic liver disease,All persons,3401
+2002,K73,Chronic hepatitis not elsewhere classified,All persons,73
+2002,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,All persons,1406
+2002,K86.0,Alcohol induced chronic pancreatitis,All persons,33
+2002,X45,Accidental poisoning by and exposure to alcohol,All persons,112
+2002,X65,Intentional self-poisoning by and exposure to alcohol,All persons,2
+2002,Y15,Poisoning by and exposure to alcohol undetermined intent,All persons,1
+2002,Total,Total,Male,3635
+2002,F10,Mental and behavioural disorders due to use of alcohol,Male,306
+2002,G31.2,Degeneration of nervous system due to alcohol,Male,6
+2002,G62.1,Alcoholic polyneuropathy,Male,0
+2002,I42.6,Alcoholic cardiomyopathy,Male,94
+2002,K29.2,Alcoholic gastritis,Male,4
+2002,K70,Alcoholic liver disease,Male,2278
+2002,K73,Chronic hepatitis not elsewhere classified,Male,16
+2002,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Male,835
+2002,K86.0,Alcohol induced chronic pancreatitis,Male,24
+2002,X45,Accidental poisoning by and exposure to alcohol,Male,70
+2002,X65,Intentional self-poisoning by and exposure to alcohol,Male,1
+2002,Y15,Poisoning by and exposure to alcohol undetermined intent,Male,1
+2002,Total,Total,Female,1957
+2002,F10,Mental and behavioural disorders due to use of alcohol,Female,123
+2002,G31.2,Degeneration of nervous system due to alcohol,Female,2
+2002,G62.1,Alcoholic polyneuropathy,Female,0
+2002,I42.6,Alcoholic cardiomyopathy,Female,29
+2002,K29.2,Alcoholic gastritis,Female,0
+2002,K70,Alcoholic liver disease,Female,1123
+2002,K73,Chronic hepatitis not elsewhere classified,Female,57
+2002,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Female,571
+2002,K86.0,Alcohol induced chronic pancreatitis,Female,9
+2002,X45,Accidental poisoning by and exposure to alcohol,Female,42
+2002,X65,Intentional self-poisoning by and exposure to alcohol,Female,1
+2002,Y15,Poisoning by and exposure to alcohol undetermined intent,Female,0
+2001,Total,Total,All persons,5479
+2001,F10,Mental and behavioural disorders due to use of alcohol,All persons,485
+2001,G31.2,Degeneration of nervous system due to alcohol,All persons,8
+2001,G62.1,Alcoholic polyneuropathy,All persons,0
+2001,I42.6,Alcoholic cardiomyopathy,All persons,107
+2001,K29.2,Alcoholic gastritis,All persons,3
+2001,K70,Alcoholic liver disease,All persons,3239
+2001,K73,Chronic hepatitis not elsewhere classified,All persons,69
+2001,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,All persons,1407
+2001,K86.0,Alcohol induced chronic pancreatitis,All persons,33
+2001,X45,Accidental poisoning by and exposure to alcohol,All persons,126
+2001,X65,Intentional self-poisoning by and exposure to alcohol,All persons,1
+2001,Y15,Poisoning by and exposure to alcohol undetermined intent,All persons,1
+2001,Total,Total,Male,3578
+2001,F10,Mental and behavioural disorders due to use of alcohol,Male,338
+2001,G31.2,Degeneration of nervous system due to alcohol,Male,7
+2001,G62.1,Alcoholic polyneuropathy,Male,0
+2001,I42.6,Alcoholic cardiomyopathy,Male,94
+2001,K29.2,Alcoholic gastritis,Male,1
+2001,K70,Alcoholic liver disease,Male,2148
+2001,K73,Chronic hepatitis not elsewhere classified,Male,21
+2001,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Male,859
+2001,K86.0,Alcohol induced chronic pancreatitis,Male,19
+2001,X45,Accidental poisoning by and exposure to alcohol,Male,90
+2001,X65,Intentional self-poisoning by and exposure to alcohol,Male,0
+2001,Y15,Poisoning by and exposure to alcohol undetermined intent,Male,1
+2001,Total,Total,Female,1901
+2001,F10,Mental and behavioural disorders due to use of alcohol,Female,147
+2001,G31.2,Degeneration of nervous system due to alcohol,Female,1
+2001,G62.1,Alcoholic polyneuropathy,Female,0
+2001,I42.6,Alcoholic cardiomyopathy,Female,13
+2001,K29.2,Alcoholic gastritis,Female,2
+2001,K70,Alcoholic liver disease,Female,1091
+2001,K73,Chronic hepatitis not elsewhere classified,Female,48
+2001,K74 (excluding K74.3 - K74.5 biliary cirrhosis),Fibrosis and cirrhosis of liver,Female,548
+2001,K86.0,Alcohol induced chronic pancreatitis,Female,14
+2001,X45,Accidental poisoning by and exposure to alcohol,Female,36
+2001,X65,Intentional self-poisoning by and exposure to alcohol,Female,1
+2001,Y15,Poisoning by and exposure to alcohol undetermined intent,Female,0

@@ -1,0 +1,745 @@
+ONS_Code,Org_Code,Org_Name,Year,Metric_Primary,Metric_Secondary,Value
+E92000001,921,ENGLAND,2015,Prescription items,Total,189005
+XXXXXXXXXX,XXX,Unattributable,2015,Prescription items,Total,1680
+E40000001,Y54,North of England,2015,Prescription items,Total,83817
+E39000001,Q44,Cheshire Warrington and Wirral,2015,Prescription items,Total,2847
+E39000002,Q45,Durham Darlington and Tees,2015,Prescription items,Total,6025
+E39000003,Q46,Greater Manchester,2015,Prescription items,Total,25881
+E39000004,Q47,Lancashire,2015,Prescription items,Total,5259
+E39000005,Q48,Merseyside,2015,Prescription items,Total,6642
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2015,Prescription items,Total,12979
+E39000007,Q50,North Yorkshire and Humber,2015,Prescription items,Total,5228
+E39000008,Q51,South Yorkshire and Bassetlaw,2015,Prescription items,Total,10272
+E39000009,Q52,West Yorkshire,2015,Prescription items,Total,8684
+E40000002,Y55,Midlands and East of England,2015,Prescription items,Total,47602
+E39000010,Q53,Arden Herefordshire and Worcestershire,2015,Prescription items,Total,3281
+E39000011,Q54,Birmingham and the Black Country,2015,Prescription items,Total,8394
+E39000012,Q55,Derbyshire and Nottinghamshire,2015,Prescription items,Total,4387
+E39000013,Q56,East Anglia,2015,Prescription items,Total,9566
+E39000014,Q57,Essex,2015,Prescription items,Total,5121
+E39000015,Q58,Hertfordshire and the South Midlands,2015,Prescription items,Total,6072
+E39000016,Q59,Leicestershire and Lincolnshire,2015,Prescription items,Total,2871
+E39000017,Q60,Shropshire and Staffordshire,2015,Prescription items,Total,7910
+E40000003,Y56,London,2015,Prescription items,Total,16607
+E39000018,Q71,London,2015,Prescription items,Total,16607
+E40000004,Y57,South of England,2015,Prescription items,Total,39299
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2015,Prescription items,Total,6450
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2015,Prescription items,Total,4224
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2015,Prescription items,Total,4676
+E39000022,Q67,Kent and Medway,2015,Prescription items,Total,4164
+E39000023,Q68,Surrey and Sussex,2015,Prescription items,Total,10185
+E39000024,Q69,Thames Valley,2015,Prescription items,Total,4426
+E39000025,Q70,Wessex,2015,Prescription items,Total,5174
+E92000001,921,ENGLAND,2015,Prescription items per 100000 population,Total,347.9690138
+XXXXXXXXXX,XXX,Unattributable,2015,Prescription items per 100000 population,Total,..
+E40000001,Y54,North of England,2015,Prescription items per 100000 population,Total,549.2943818
+E39000001,Q44,Cheshire Warrington and Wirral,2015,Prescription items per 100000 population,Total,230.7634322
+E39000002,Q45,Durham Darlington and Tees,2015,Prescription items per 100000 population,Total,508.8639454
+E39000003,Q46,Greater Manchester,2015,Prescription items per 100000 population,Total,935.6785613
+E39000004,Q47,Lancashire,2015,Prescription items per 100000 population,Total,357.2741187
+E39000005,Q48,Merseyside,2015,Prescription items per 100000 population,Total,555.094509
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2015,Prescription items per 100000 population,Total,669.4889157
+E39000007,Q50,North Yorkshire and Humber,2015,Prescription items per 100000 population,Total,312.2769397
+E39000008,Q51,South Yorkshire and Bassetlaw,2015,Prescription items per 100000 population,Total,694.0587436
+E39000009,Q52,West Yorkshire,2015,Prescription items per 100000 population,Total,375.2880349
+E40000002,Y55,Midlands and East of England,2015,Prescription items per 100000 population,Total,288.7276543
+E39000010,Q53,Arden Herefordshire and Worcestershire,2015,Prescription items per 100000 population,Total,198.655488
+E39000011,Q54,Birmingham and the Black Country,2015,Prescription items per 100000 population,Total,339.7104246
+E39000012,Q55,Derbyshire and Nottinghamshire,2015,Prescription items per 100000 population,Total,219.2818034
+E39000013,Q56,East Anglia,2015,Prescription items per 100000 population,Total,385.5008791
+E39000014,Q57,Essex,2015,Prescription items per 100000 population,Total,288.807402
+E39000015,Q58,Hertfordshire and the South Midlands,2015,Prescription items per 100000 population,Total,221.3462019
+E39000016,Q59,Leicestershire and Lincolnshire,2015,Prescription items per 100000 population,Total,161.7377314
+E39000017,Q60,Shropshire and Staffordshire,2015,Prescription items per 100000 population,Total,497.2487872
+E40000003,Y56,London,2015,Prescription items per 100000 population,Total,194.4912152
+E39000018,Q71,London,2015,Prescription items per 100000 population,Total,194.4912152
+E40000004,Y57,South of England,2015,Prescription items per 100000 population,Total,280.0653731
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2015,Prescription items per 100000 population,Total,430.7075089
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2015,Prescription items per 100000 population,Total,288.5653914
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2015,Prescription items per 100000 population,Total,273.8591593
+E39000022,Q67,Kent and Medway,2015,Prescription items per 100000 population,Total,233.3598039
+E39000023,Q68,Surrey and Sussex,2015,Prescription items per 100000 population,Total,369.610974
+E39000024,Q69,Thames Valley,2015,Prescription items per 100000 population,Total,212.7011314
+E39000025,Q70,Wessex,2015,Prescription items per 100000 population,Total,188.66122
+E92000001,921,ENGLAND,2015,Prescription items,Acamprosate Calcium,135292
+XXXXXXXXXX,XXX,Unattributable,2015,Prescription items,Acamprosate Calcium,1243
+E40000001,Y54,North of England,2015,Prescription items,Acamprosate Calcium,60813
+E39000001,Q44,Cheshire Warrington and Wirral,2015,Prescription items,Acamprosate Calcium,2374
+E39000002,Q45,Durham Darlington and Tees,2015,Prescription items,Acamprosate Calcium,4569
+E39000003,Q46,Greater Manchester,2015,Prescription items,Acamprosate Calcium,18840
+E39000004,Q47,Lancashire,2015,Prescription items,Acamprosate Calcium,4300
+E39000005,Q48,Merseyside,2015,Prescription items,Acamprosate Calcium,6064
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2015,Prescription items,Acamprosate Calcium,10669
+E39000007,Q50,North Yorkshire and Humber,2015,Prescription items,Acamprosate Calcium,3099
+E39000008,Q51,South Yorkshire and Bassetlaw,2015,Prescription items,Acamprosate Calcium,6619
+E39000009,Q52,West Yorkshire,2015,Prescription items,Acamprosate Calcium,4279
+E40000002,Y55,Midlands and East of England,2015,Prescription items,Acamprosate Calcium,32363
+E39000010,Q53,Arden Herefordshire and Worcestershire,2015,Prescription items,Acamprosate Calcium,2076
+E39000011,Q54,Birmingham and the Black Country,2015,Prescription items,Acamprosate Calcium,6052
+E39000012,Q55,Derbyshire and Nottinghamshire,2015,Prescription items,Acamprosate Calcium,1450
+E39000013,Q56,East Anglia,2015,Prescription items,Acamprosate Calcium,6138
+E39000014,Q57,Essex,2015,Prescription items,Acamprosate Calcium,4145
+E39000015,Q58,Hertfordshire and the South Midlands,2015,Prescription items,Acamprosate Calcium,4358
+E39000016,Q59,Leicestershire and Lincolnshire,2015,Prescription items,Acamprosate Calcium,1834
+E39000017,Q60,Shropshire and Staffordshire,2015,Prescription items,Acamprosate Calcium,6310
+E40000003,Y56,London,2015,Prescription items,Acamprosate Calcium,12533
+E39000018,Q71,London,2015,Prescription items,Acamprosate Calcium,12533
+E40000004,Y57,South of England,2015,Prescription items,Acamprosate Calcium,28340
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2015,Prescription items,Acamprosate Calcium,4642
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2015,Prescription items,Acamprosate Calcium,3116
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2015,Prescription items,Acamprosate Calcium,3295
+E39000022,Q67,Kent and Medway,2015,Prescription items,Acamprosate Calcium,3206
+E39000023,Q68,Surrey and Sussex,2015,Prescription items,Acamprosate Calcium,7827
+E39000024,Q69,Thames Valley,2015,Prescription items,Acamprosate Calcium,2456
+E39000025,Q70,Wessex,2015,Prescription items,Acamprosate Calcium,3798
+E92000001,921,ENGLAND,2015,Prescription items per 100000 population,Acamprosate Calcium,249.0803091
+XXXXXXXXXX,XXX,Unattributable,2015,Prescription items per 100000 population,Acamprosate Calcium,..
+E40000001,Y54,North of England,2015,Prescription items per 100000 population,Acamprosate Calcium,398.5377577
+E39000001,Q44,Cheshire Warrington and Wirral,2015,Prescription items per 100000 population,Acamprosate Calcium,192.4244426
+E39000002,Q45,Durham Darlington and Tees,2015,Prescription items per 100000 population,Acamprosate Calcium,385.892011
+E39000003,Q46,Greater Manchester,2015,Prescription items per 100000 population,Acamprosate Calcium,681.1245352
+E39000004,Q47,Lancashire,2015,Prescription items per 100000 population,Acamprosate Calcium,292.1237327
+E39000005,Q48,Merseyside,2015,Prescription items per 100000 population,Acamprosate Calcium,506.789085
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2015,Prescription items per 100000 population,Acamprosate Calcium,550.3334033
+E39000007,Q50,North Yorkshire and Humber,2015,Prescription items per 100000 population,Acamprosate Calcium,185.1083084
+E39000008,Q51,South Yorkshire and Bassetlaw,2015,Prescription items per 100000 population,Acamprosate Calcium,447.2327516
+E39000009,Q52,West Yorkshire,2015,Prescription items per 100000 population,Acamprosate Calcium,184.9214073
+E40000002,Y55,Midlands and East of England,2015,Prescription items per 100000 population,Acamprosate Calcium,196.2962287
+E39000010,Q53,Arden Herefordshire and Worcestershire,2015,Prescription items per 100000 population,Acamprosate Calcium,125.6960662
+E39000011,Q54,Birmingham and the Black Country,2015,Prescription items per 100000 population,Acamprosate Calcium,244.9282213
+E39000012,Q55,Derbyshire and Nottinghamshire,2015,Prescription items per 100000 population,Acamprosate Calcium,72.47745951
+E39000013,Q56,East Anglia,2015,Prescription items per 100000 population,Acamprosate Calcium,247.3556759
+E39000014,Q57,Essex,2015,Prescription items per 100000 population,Acamprosate Calcium,233.7642416
+E39000015,Q58,Hertfordshire and the South Midlands,2015,Prescription items per 100000 population,Acamprosate Calcium,158.8647477
+E39000016,Q59,Leicestershire and Lincolnshire,2015,Prescription items per 100000 population,Acamprosate Calcium,103.3183557
+E39000017,Q60,Shropshire and Staffordshire,2015,Prescription items per 100000 population,Acamprosate Calcium,396.6674902
+E40000003,Y56,London,2015,Prescription items per 100000 population,Acamprosate Calcium,146.7789727
+E39000018,Q71,London,2015,Prescription items per 100000 population,Acamprosate Calcium,146.7789727
+E40000004,Y57,South of England,2015,Prescription items per 100000 population,Acamprosate Calcium,201.9657669
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2015,Prescription items per 100000 population,Acamprosate Calcium,309.9758537
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2015,Prescription items per 100000 population,Acamprosate Calcium,212.8716287
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2015,Prescription items per 100000 population,Acamprosate Calcium,192.9781715
+E39000022,Q67,Kent and Medway,2015,Prescription items per 100000 population,Acamprosate Calcium,179.6713572
+E39000023,Q68,Surrey and Sussex,2015,Prescription items per 100000 population,Acamprosate Calcium,284.0397736
+E39000024,Q69,Thames Valley,2015,Prescription items per 100000 population,Acamprosate Calcium,118.0284633
+E39000025,Q70,Wessex,2015,Prescription items per 100000 population,Acamprosate Calcium,138.4876911
+E92000001,921,ENGLAND,2015,Prescription items,Disulfiram,49717
+XXXXXXXXXX,XXX,Unattributable,2015,Prescription items,Disulfiram,362
+E40000001,Y54,North of England,2015,Prescription items,Disulfiram,21625
+E39000001,Q44,Cheshire Warrington and Wirral,2015,Prescription items,Disulfiram,436
+E39000002,Q45,Durham Darlington and Tees,2015,Prescription items,Disulfiram,1376
+E39000003,Q46,Greater Manchester,2015,Prescription items,Disulfiram,6657
+E39000004,Q47,Lancashire,2015,Prescription items,Disulfiram,866
+E39000005,Q48,Merseyside,2015,Prescription items,Disulfiram,391
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2015,Prescription items,Disulfiram,2134
+E39000007,Q50,North Yorkshire and Humber,2015,Prescription items,Disulfiram,1990
+E39000008,Q51,South Yorkshire and Bassetlaw,2015,Prescription items,Disulfiram,3573
+E39000009,Q52,West Yorkshire,2015,Prescription items,Disulfiram,4202
+E40000002,Y55,Midlands and East of England,2015,Prescription items,Disulfiram,14270
+E39000010,Q53,Arden Herefordshire and Worcestershire,2015,Prescription items,Disulfiram,1040
+E39000011,Q54,Birmingham and the Black Country,2015,Prescription items,Disulfiram,2110
+E39000012,Q55,Derbyshire and Nottinghamshire,2015,Prescription items,Disulfiram,2912
+E39000013,Q56,East Anglia,2015,Prescription items,Disulfiram,3332
+E39000014,Q57,Essex,2015,Prescription items,Disulfiram,833
+E39000015,Q58,Hertfordshire and the South Midlands,2015,Prescription items,Disulfiram,1618
+E39000016,Q59,Leicestershire and Lincolnshire,2015,Prescription items,Disulfiram,928
+E39000017,Q60,Shropshire and Staffordshire,2015,Prescription items,Disulfiram,1497
+E40000003,Y56,London,2015,Prescription items,Disulfiram,3549
+E39000018,Q71,London,2015,Prescription items,Disulfiram,3549
+E40000004,Y57,South of England,2015,Prescription items,Disulfiram,9911
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2015,Prescription items,Disulfiram,1555
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2015,Prescription items,Disulfiram,1074
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2015,Prescription items,Disulfiram,1266
+E39000022,Q67,Kent and Medway,2015,Prescription items,Disulfiram,866
+E39000023,Q68,Surrey and Sussex,2015,Prescription items,Disulfiram,2121
+E39000024,Q69,Thames Valley,2015,Prescription items,Disulfiram,1847
+E39000025,Q70,Wessex,2015,Prescription items,Disulfiram,1182
+E92000001,921,ENGLAND,2015,Prescription items per 100000 population,Disulfiram,91.53184022
+XXXXXXXXXX,XXX,Unattributable,2015,Prescription items per 100000 population,Disulfiram,..
+E40000001,Y54,North of England,2015,Prescription items per 100000 population,Disulfiram,141.719353
+E39000001,Q44,Cheshire Warrington and Wirral,2015,Prescription items per 100000 population,Disulfiram,35.3399566
+E39000002,Q45,Durham Darlington and Tees,2015,Prescription items per 100000 population,Disulfiram,116.2152347
+E39000003,Q46,Greater Manchester,2015,Prescription items per 100000 population,Disulfiram,240.671233
+E39000004,Q47,Lancashire,2015,Prescription items per 100000 population,Disulfiram,58.83236106
+E39000005,Q48,Merseyside,2015,Prescription items per 100000 population,Disulfiram,32.67719859
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2015,Prescription items per 100000 population,Disulfiram,110.0769972
+E39000007,Q50,North Yorkshire and Humber,2015,Prescription items per 100000 population,Disulfiram,118.8659354
+E39000008,Q51,South Yorkshire and Bassetlaw,2015,Prescription items per 100000 population,Disulfiram,241.4205501
+E39000009,Q52,West Yorkshire,2015,Prescription items per 100000 population,Disulfiram,181.5937727
+E40000002,Y55,Midlands and East of England,2015,Prescription items per 100000 population,Disulfiram,86.55400251
+E39000010,Q53,Arden Herefordshire and Worcestershire,2015,Prescription items per 100000 population,Disulfiram,62.96912757
+E39000011,Q54,Birmingham and the Black Country,2015,Prescription items per 100000 population,Disulfiram,85.39301833
+E39000012,Q55,Derbyshire and Nottinghamshire,2015,Prescription items per 100000 population,Disulfiram,145.5547325
+E39000013,Q56,East Anglia,2015,Prescription items per 100000 population,Disulfiram,134.2764927
+E39000014,Q57,Essex,2015,Prescription items per 100000 population,Disulfiram,46.97843504
+E39000015,Q58,Hertfordshire and the South Midlands,2015,Prescription items per 100000 population,Disulfiram,58.98190954
+E39000016,Q59,Leicestershire and Lincolnshire,2015,Prescription items per 100000 population,Disulfiram,52.27886266
+E39000017,Q60,Shropshire and Staffordshire,2015,Prescription items per 100000 population,Disulfiram,94.10637604
+E40000003,Y56,London,2015,Prescription items per 100000 population,Disulfiram,41.56375762
+E39000018,Q71,London,2015,Prescription items per 100000 population,Disulfiram,41.56375762
+E40000004,Y57,South of England,2015,Prescription items per 100000 population,Disulfiram,70.63100619
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2015,Prescription items per 100000 population,Disulfiram,103.8372366
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2015,Prescription items per 100000 population,Disulfiram,73.37102992
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2015,Prescription items per 100000 population,Disulfiram,74.14578608
+E39000022,Q67,Kent and Medway,2015,Prescription items per 100000 population,Disulfiram,48.53256249
+E39000023,Q68,Surrey and Sussex,2015,Prescription items per 100000 population,Disulfiram,76.97053273
+E39000024,Q69,Thames Valley,2015,Prescription items per 100000 population,Disulfiram,88.76163344
+E39000025,Q70,Wessex,2015,Prescription items per 100000 population,Disulfiram,43.09964477
+E92000001,921,ENGLAND,2015,Prescription items,Nalmefene,3996
+XXXXXXXXXX,XXX,Unattributable,2015,Prescription items,Nalmefene,75
+E40000001,Y54,North of England,2015,Prescription items,Nalmefene,1379
+E39000001,Q44,Cheshire Warrington and Wirral,2015,Prescription items,Nalmefene,37
+E39000002,Q45,Durham Darlington and Tees,2015,Prescription items,Nalmefene,80
+E39000003,Q46,Greater Manchester,2015,Prescription items,Nalmefene,384
+E39000004,Q47,Lancashire,2015,Prescription items,Nalmefene,93
+E39000005,Q48,Merseyside,2015,Prescription items,Nalmefene,187
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2015,Prescription items,Nalmefene,176
+E39000007,Q50,North Yorkshire and Humber,2015,Prescription items,Nalmefene,139
+E39000008,Q51,South Yorkshire and Bassetlaw,2015,Prescription items,Nalmefene,80
+E39000009,Q52,West Yorkshire,2015,Prescription items,Nalmefene,203
+E40000002,Y55,Midlands and East of England,2015,Prescription items,Nalmefene,969
+E39000010,Q53,Arden Herefordshire and Worcestershire,2015,Prescription items,Nalmefene,165
+E39000011,Q54,Birmingham and the Black Country,2015,Prescription items,Nalmefene,232
+E39000012,Q55,Derbyshire and Nottinghamshire,2015,Prescription items,Nalmefene,25
+E39000013,Q56,East Anglia,2015,Prescription items,Nalmefene,96
+E39000014,Q57,Essex,2015,Prescription items,Nalmefene,143
+E39000015,Q58,Hertfordshire and the South Midlands,2015,Prescription items,Nalmefene,96
+E39000016,Q59,Leicestershire and Lincolnshire,2015,Prescription items,Nalmefene,109
+E39000017,Q60,Shropshire and Staffordshire,2015,Prescription items,Nalmefene,103
+E40000003,Y56,London,2015,Prescription items,Nalmefene,525
+E39000018,Q71,London,2015,Prescription items,Nalmefene,525
+E40000004,Y57,South of England,2015,Prescription items,Nalmefene,1048
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2015,Prescription items,Nalmefene,253
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2015,Prescription items,Nalmefene,34
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2015,Prescription items,Nalmefene,115
+E39000022,Q67,Kent and Medway,2015,Prescription items,Nalmefene,92
+E39000023,Q68,Surrey and Sussex,2015,Prescription items,Nalmefene,237
+E39000024,Q69,Thames Valley,2015,Prescription items,Nalmefene,123
+E39000025,Q70,Wessex,2015,Prescription items,Nalmefene,194
+E92000001,921,ENGLAND,2015,Prescription items per 100000 population,Nalmefene,7.356864523
+XXXXXXXXXX,XXX,Unattributable,2015,Prescription items per 100000 population,Nalmefene,..
+E40000001,Y54,North of England,2015,Prescription items per 100000 population,Nalmefene,9.037271108
+E39000001,Q44,Cheshire Warrington and Wirral,2015,Prescription items per 100000 population,Nalmefene,2.999033014
+E39000002,Q45,Durham Darlington and Tees,2015,Prescription items per 100000 population,Nalmefene,6.75669969
+E39000003,Q46,Greater Manchester,2015,Prescription items per 100000 population,Nalmefene,13.88279307
+E39000004,Q47,Lancashire,2015,Prescription items per 100000 population,Nalmefene,6.318024917
+E39000005,Q48,Merseyside,2015,Prescription items per 100000 population,Nalmefene,15.62822541
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2015,Prescription items per 100000 population,Nalmefene,9.078515229
+E39000007,Q50,North Yorkshire and Humber,2015,Prescription items per 100000 population,Nalmefene,8.302695987
+E39000008,Q51,South Yorkshire and Bassetlaw,2015,Prescription items per 100000 population,Nalmefene,5.405441929
+E39000009,Q52,West Yorkshire,2015,Prescription items per 100000 population,Nalmefene,8.772854799
+E40000002,Y55,Midlands and East of England,2015,Prescription items per 100000 population,Nalmefene,5.877423156
+E39000010,Q53,Arden Herefordshire and Worcestershire,2015,Prescription items per 100000 population,Nalmefene,9.990294278
+E39000011,Q54,Birmingham and the Black Country,2015,Prescription items per 100000 population,Nalmefene,9.389184954
+E39000012,Q55,Derbyshire and Nottinghamshire,2015,Prescription items per 100000 population,Nalmefene,1.249611371
+E39000013,Q56,East Anglia,2015,Prescription items per 100000 population,Nalmefene,3.868710474
+E39000014,Q57,Essex,2015,Prescription items per 100000 population,Nalmefene,8.064725343
+E39000015,Q58,Hertfordshire and the South Midlands,2015,Prescription items per 100000 population,Nalmefene,3.499544695
+E39000016,Q59,Leicestershire and Lincolnshire,2015,Prescription items per 100000 population,Nalmefene,6.140512964
+E39000017,Q60,Shropshire and Staffordshire,2015,Prescription items per 100000 population,Nalmefene,6.474920997
+E40000003,Y56,London,2015,Prescription items per 100000 population,Nalmefene,6.148484855
+E39000018,Q71,London,2015,Prescription items per 100000 population,Nalmefene,6.148484855
+E40000004,Y57,South of England,2015,Prescription items per 100000 population,Nalmefene,7.468599989
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2015,Prescription items per 100000 population,Nalmefene,16.89441856
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2015,Prescription items per 100000 population,Nalmefene,2.322732791
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2015,Prescription items per 100000 population,Nalmefene,6.735201737
+E39000022,Q67,Kent and Medway,2015,Prescription items per 100000 population,Nalmefene,5.155884237
+E39000023,Q68,Surrey and Sussex,2015,Prescription items per 100000 population,Nalmefene,8.600667731
+E39000024,Q69,Thames Valley,2015,Prescription items per 100000 population,Nalmefene,5.911034604
+E39000025,Q70,Wessex,2015,Prescription items per 100000 population,Nalmefene,7.073884168
+E92000001,921,ENGLAND,2014,Prescription items,Total,185251
+XXXXXXXXXX,XXX,Unattributable,2014,Prescription items,Total,2353
+E40000001,Y54,North of England,2014,Prescription items,Total,82591
+E39000001,Q44,Cheshire Warrington and Wirral,2014,Prescription items,Total,4137
+E39000002,Q45,Durham Darlington and Tees,2014,Prescription items,Total,6759
+E39000003,Q46,Greater Manchester,2014,Prescription items,Total,25948
+E39000004,Q47,Lancashire,2014,Prescription items,Total,5808
+E39000005,Q48,Merseyside,2014,Prescription items,Total,4838
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2014,Prescription items,Total,11761
+E39000007,Q50,North Yorkshire and Humber,2014,Prescription items,Total,5643
+E39000008,Q51,South Yorkshire and Bassetlaw,2014,Prescription items,Total,9708
+E39000009,Q52,West Yorkshire,2014,Prescription items,Total,7989
+E40000002,Y55,Midlands and East of England,2014,Prescription items,Total,49451
+E39000010,Q53,Arden Herefordshire and Worcestershire,2014,Prescription items,Total,3453
+E39000011,Q54,Birmingham and the Black Country,2014,Prescription items,Total,8263
+E39000012,Q55,Derbyshire and Nottinghamshire,2014,Prescription items,Total,4220
+E39000013,Q56,East Anglia,2014,Prescription items,Total,10289
+E39000014,Q57,Essex,2014,Prescription items,Total,5435
+E39000015,Q58,Hertfordshire and the South Midlands,2014,Prescription items,Total,6414
+E39000016,Q59,Leicestershire and Lincolnshire,2014,Prescription items,Total,3284
+E39000017,Q60,Shropshire and Staffordshire,2014,Prescription items,Total,8093
+E40000003,Y56,London,2014,Prescription items,Total,15122
+E39000018,Q71,London,2014,Prescription items,Total,15122
+E40000004,Y57,South of England,2014,Prescription items,Total,35734
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2014,Prescription items,Total,6334
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2014,Prescription items,Total,3522
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2014,Prescription items,Total,4818
+E39000022,Q67,Kent and Medway,2014,Prescription items,Total,3982
+E39000023,Q68,Surrey and Sussex,2014,Prescription items,Total,7243
+E39000024,Q69,Thames Valley,2014,Prescription items,Total,4725
+E39000025,Q70,Wessex,2014,Prescription items,Total,5110
+E92000001,921,ENGLAND,2014,Prescription items per 100000 population,Total,341.0576851
+XXXXXXXXXX,XXX,Unattributable,2014,Prescription items per 100000 population,Total,..
+E40000001,Y54,North of England,2014,Prescription items per 100000 population,Total,541.2597956
+E39000001,Q44,Cheshire Warrington and Wirral,2014,Prescription items per 100000 population,Total,335.324313
+E39000002,Q45,Durham Darlington and Tees,2014,Prescription items per 100000 population,Total,570.8566651
+E39000003,Q46,Greater Manchester,2014,Prescription items per 100000 population,Total,938.1008194
+E39000004,Q47,Lancashire,2014,Prescription items per 100000 population,Total,394.5708465
+E39000005,Q48,Merseyside,2014,Prescription items per 100000 population,Total,404.3280991
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2014,Prescription items per 100000 population,Total,606.6614637
+E39000007,Q50,North Yorkshire and Humber,2014,Prescription items per 100000 population,Total,337.0655644
+E39000008,Q51,South Yorkshire and Bassetlaw,2014,Prescription items per 100000 population,Total,655.950378
+E39000009,Q52,West Yorkshire,2014,Prescription items per 100000 population,Total,345.2528916
+E40000002,Y55,Midlands and East of England,2014,Prescription items per 100000 population,Total,299.9426754
+E39000010,Q53,Arden Herefordshire and Worcestershire,2014,Prescription items per 100000 population,Total,209.069613
+E39000011,Q54,Birmingham and the Black Country,2014,Prescription items per 100000 population,Total,334.4087727
+E39000012,Q55,Derbyshire and Nottinghamshire,2014,Prescription items per 100000 population,Total,210.9343994
+E39000013,Q56,East Anglia,2014,Prescription items per 100000 population,Total,414.6371049
+E39000014,Q57,Essex,2014,Prescription items per 100000 population,Total,306.5159597
+E39000015,Q58,Hertfordshire and the South Midlands,2014,Prescription items per 100000 population,Total,233.8133299
+E39000016,Q59,Leicestershire and Lincolnshire,2014,Prescription items per 100000 population,Total,185.0040787
+E39000017,Q60,Shropshire and Staffordshire,2014,Prescription items per 100000 population,Total,508.7527731
+E40000003,Y56,London,2014,Prescription items per 100000 population,Total,177.0997866
+E39000018,Q71,London,2014,Prescription items per 100000 population,Total,177.0997866
+E40000004,Y57,South of England,2014,Prescription items per 100000 population,Total,254.6593053
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2014,Prescription items per 100000 population,Total,422.9614513
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2014,Prescription items per 100000 population,Total,240.6077909
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2014,Prescription items per 100000 population,Total,282.1756693
+E39000022,Q67,Kent and Medway,2014,Prescription items per 100000 population,Total,223.1601199
+E39000023,Q68,Surrey and Sussex,2014,Prescription items per 100000 population,Total,262.846567
+E39000024,Q69,Thames Valley,2014,Prescription items per 100000 population,Total,227.0702317
+E39000025,Q70,Wessex,2014,Prescription items per 100000 population,Total,186.3275675
+E92000001,921,ENGLAND,2014,Prescription items,Acamprosate Calcium,132744
+XXXXXXXXXX,XXX,Unattributable,2014,Prescription items,Acamprosate Calcium,1558
+E40000001,Y54,North of England,2014,Prescription items,Acamprosate Calcium,59696
+E39000001,Q44,Cheshire Warrington and Wirral,2014,Prescription items,Acamprosate Calcium,3523
+E39000002,Q45,Durham Darlington and Tees,2014,Prescription items,Acamprosate Calcium,5139
+E39000003,Q46,Greater Manchester,2014,Prescription items,Acamprosate Calcium,19109
+E39000004,Q47,Lancashire,2014,Prescription items,Acamprosate Calcium,4758
+E39000005,Q48,Merseyside,2014,Prescription items,Acamprosate Calcium,4326
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2014,Prescription items,Acamprosate Calcium,9732
+E39000007,Q50,North Yorkshire and Humber,2014,Prescription items,Acamprosate Calcium,3264
+E39000008,Q51,South Yorkshire and Bassetlaw,2014,Prescription items,Acamprosate Calcium,5840
+E39000009,Q52,West Yorkshire,2014,Prescription items,Acamprosate Calcium,4005
+E40000002,Y55,Midlands and East of England,2014,Prescription items,Acamprosate Calcium,33544
+E39000010,Q53,Arden Herefordshire and Worcestershire,2014,Prescription items,Acamprosate Calcium,2062
+E39000011,Q54,Birmingham and the Black Country,2014,Prescription items,Acamprosate Calcium,6658
+E39000012,Q55,Derbyshire and Nottinghamshire,2014,Prescription items,Acamprosate Calcium,1295
+E39000013,Q56,East Anglia,2014,Prescription items,Acamprosate Calcium,6122
+E39000014,Q57,Essex,2014,Prescription items,Acamprosate Calcium,4201
+E39000015,Q58,Hertfordshire and the South Midlands,2014,Prescription items,Acamprosate Calcium,4575
+E39000016,Q59,Leicestershire and Lincolnshire,2014,Prescription items,Acamprosate Calcium,2386
+E39000017,Q60,Shropshire and Staffordshire,2014,Prescription items,Acamprosate Calcium,6245
+E40000003,Y56,London,2014,Prescription items,Acamprosate Calcium,11828
+E39000018,Q71,London,2014,Prescription items,Acamprosate Calcium,11828
+E40000004,Y57,South of England,2014,Prescription items,Acamprosate Calcium,26118
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2014,Prescription items,Acamprosate Calcium,4610
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2014,Prescription items,Acamprosate Calcium,2452
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2014,Prescription items,Acamprosate Calcium,3525
+E39000022,Q67,Kent and Medway,2014,Prescription items,Acamprosate Calcium,3188
+E39000023,Q68,Surrey and Sussex,2014,Prescription items,Acamprosate Calcium,5928
+E39000024,Q69,Thames Valley,2014,Prescription items,Acamprosate Calcium,2450
+E39000025,Q70,Wessex,2014,Prescription items,Acamprosate Calcium,3965
+E92000001,921,ENGLAND,2014,Prescription items per 100000 population,Acamprosate Calcium,244.3892954
+XXXXXXXXXX,XXX,Unattributable,2014,Prescription items per 100000 population,Acamprosate Calcium,..
+E40000001,Y54,North of England,2014,Prescription items per 100000 population,Acamprosate Calcium,391.2175026
+E39000001,Q44,Cheshire Warrington and Wirral,2014,Prescription items per 100000 population,Acamprosate Calcium,285.5565759
+E39000002,Q45,Durham Darlington and Tees,2014,Prescription items per 100000 population,Acamprosate Calcium,434.0334963
+E39000003,Q46,Greater Manchester,2014,Prescription items per 100000 population,Acamprosate Calcium,690.8497209
+E39000004,Q47,Lancashire,2014,Prescription items per 100000 population,Acamprosate Calcium,323.2383071
+E39000005,Q48,Merseyside,2014,Prescription items per 100000 population,Acamprosate Calcium,361.5385194
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2014,Prescription items per 100000 population,Acamprosate Calcium,502.0006262
+E39000007,Q50,North Yorkshire and Humber,2014,Prescription items per 100000 population,Acamprosate Calcium,194.9640266
+E39000008,Q51,South Yorkshire and Bassetlaw,2014,Prescription items per 100000 population,Acamprosate Calcium,394.5972608
+E39000009,Q52,West Yorkshire,2014,Prescription items per 100000 population,Acamprosate Calcium,173.0802141
+E40000002,Y55,Midlands and East of England,2014,Prescription items per 100000 population,Acamprosate Calcium,203.4595277
+E39000010,Q53,Arden Herefordshire and Worcestershire,2014,Prescription items per 100000 population,Acamprosate Calcium,124.8484049
+E39000011,Q54,Birmingham and the Black Country,2014,Prescription items per 100000 population,Acamprosate Calcium,269.4534199
+E39000012,Q55,Derbyshire and Nottinghamshire,2014,Prescription items per 100000 population,Acamprosate Calcium,64.72986901
+E39000013,Q56,East Anglia,2014,Prescription items per 100000 population,Acamprosate Calcium,246.7108909
+E39000014,Q57,Essex,2014,Prescription items per 100000 population,Acamprosate Calcium,236.9224557
+E39000015,Q58,Hertfordshire and the South Midlands,2014,Prescription items per 100000 population,Acamprosate Calcium,166.7751769
+E39000016,Q59,Leicestershire and Lincolnshire,2014,Prescription items per 100000 population,Acamprosate Calcium,134.4152654
+E39000017,Q60,Shropshire and Staffordshire,2014,Prescription items per 100000 population,Acamprosate Calcium,392.581375
+E40000003,Y56,London,2014,Prescription items per 100000 population,Acamprosate Calcium,138.5224359
+E39000018,Q71,London,2014,Prescription items per 100000 population,Acamprosate Calcium,138.5224359
+E40000004,Y57,South of England,2014,Prescription items per 100000 population,Acamprosate Calcium,186.1306245
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2014,Prescription items per 100000 population,Acamprosate Calcium,307.8390102
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2014,Prescription items per 100000 population,Acamprosate Calcium,167.5100236
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2014,Prescription items per 100000 population,Acamprosate Calcium,206.448575
+E39000022,Q67,Kent and Medway,2014,Prescription items per 100000 population,Acamprosate Calcium,178.6625973
+E39000023,Q68,Surrey and Sussex,2014,Prescription items per 100000 population,Acamprosate Calcium,215.1255625
+E39000024,Q69,Thames Valley,2014,Prescription items per 100000 population,Acamprosate Calcium,117.7401202
+E39000025,Q70,Wessex,2014,Prescription items per 100000 population,Acamprosate Calcium,144.5770656
+E92000001,921,ENGLAND,2014,Prescription items,Disulfiram,51179
+XXXXXXXXXX,XXX,Unattributable,2014,Prescription items,Disulfiram,778
+E40000001,Y54,North of England,2014,Prescription items,Disulfiram,22526
+E39000001,Q44,Cheshire Warrington and Wirral,2014,Prescription items,Disulfiram,598
+E39000002,Q45,Durham Darlington and Tees,2014,Prescription items,Disulfiram,1596
+E39000003,Q46,Greater Manchester,2014,Prescription items,Disulfiram,6746
+E39000004,Q47,Lancashire,2014,Prescription items,Disulfiram,1022
+E39000005,Q48,Merseyside,2014,Prescription items,Disulfiram,489
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2014,Prescription items,Disulfiram,1982
+E39000007,Q50,North Yorkshire and Humber,2014,Prescription items,Disulfiram,2341
+E39000008,Q51,South Yorkshire and Bassetlaw,2014,Prescription items,Disulfiram,3854
+E39000009,Q52,West Yorkshire,2014,Prescription items,Disulfiram,3898
+E40000002,Y55,Midlands and East of England,2014,Prescription items,Disulfiram,15607
+E39000010,Q53,Arden Herefordshire and Worcestershire,2014,Prescription items,Disulfiram,1332
+E39000011,Q54,Birmingham and the Black Country,2014,Prescription items,Disulfiram,1555
+E39000012,Q55,Derbyshire and Nottinghamshire,2014,Prescription items,Disulfiram,2917
+E39000013,Q56,East Anglia,2014,Prescription items,Disulfiram,4141
+E39000014,Q57,Essex,2014,Prescription items,Disulfiram,1157
+E39000015,Q58,Hertfordshire and the South Midlands,2014,Prescription items,Disulfiram,1825
+E39000016,Q59,Leicestershire and Lincolnshire,2014,Prescription items,Disulfiram,883
+E39000017,Q60,Shropshire and Staffordshire,2014,Prescription items,Disulfiram,1797
+E40000003,Y56,London,2014,Prescription items,Disulfiram,3117
+E39000018,Q71,London,2014,Prescription items,Disulfiram,3117
+E40000004,Y57,South of England,2014,Prescription items,Disulfiram,9151
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2014,Prescription items,Disulfiram,1634
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2014,Prescription items,Disulfiram,1042
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2014,Prescription items,Disulfiram,1241
+E39000022,Q67,Kent and Medway,2014,Prescription items,Disulfiram,732
+E39000023,Q68,Surrey and Sussex,2014,Prescription items,Disulfiram,1218
+E39000024,Q69,Thames Valley,2014,Prescription items,Disulfiram,2225
+E39000025,Q70,Wessex,2014,Prescription items,Disulfiram,1059
+E92000001,921,ENGLAND,2014,Prescription items per 100000 population,Disulfiram,94.22346583
+XXXXXXXXXX,XXX,Unattributable,2014,Prescription items per 100000 population,Disulfiram,..
+E40000001,Y54,North of England,2014,Prescription items per 100000 population,Disulfiram,147.6240529
+E39000001,Q44,Cheshire Warrington and Wirral,2014,Prescription items per 100000 population,Disulfiram,48.47085791
+E39000002,Q45,Durham Darlington and Tees,2014,Prescription items per 100000 population,Disulfiram,134.7961588
+E39000003,Q46,Greater Manchester,2014,Prescription items per 100000 population,Disulfiram,243.8888596
+E39000004,Q47,Lancashire,2014,Prescription items per 100000 population,Disulfiram,69.43033834
+E39000005,Q48,Merseyside,2014,Prescription items per 100000 population,Disulfiram,40.86739158
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2014,Prescription items per 100000 population,Disulfiram,102.2364613
+E39000007,Q50,North Yorkshire and Humber,2014,Prescription items per 100000 population,Disulfiram,139.831736
+E39000008,Q51,South Yorkshire and Bassetlaw,2014,Prescription items per 100000 population,Disulfiram,260.4071649
+E39000009,Q52,West Yorkshire,2014,Prescription items per 100000 population,Disulfiram,168.4560986
+E40000002,Y55,Midlands and East of England,2014,Prescription items per 100000 population,Disulfiram,94.66351207
+E39000010,Q53,Arden Herefordshire and Worcestershire,2014,Prescription items per 100000 population,Disulfiram,80.64892108
+E39000011,Q54,Birmingham and the Black Country,2014,Prescription items per 100000 population,Disulfiram,62.93182157
+E39000012,Q55,Derbyshire and Nottinghamshire,2014,Prescription items per 100000 population,Disulfiram,145.8046548
+E39000013,Q56,East Anglia,2014,Prescription items per 100000 population,Disulfiram,166.8784383
+E39000014,Q57,Essex,2014,Prescription items per 100000 population,Disulfiram,65.25095959
+E39000015,Q58,Hertfordshire and the South Midlands,2014,Prescription items per 100000 population,Disulfiram,66.52780279
+E39000016,Q59,Leicestershire and Lincolnshire,2014,Prescription items per 100000 population,Disulfiram,49.7437885
+E39000017,Q60,Shropshire and Staffordshire,2014,Prescription items per 100000 population,Disulfiram,112.9653692
+E40000003,Y56,London,2014,Prescription items per 100000 population,Disulfiram,36.50443294
+E39000018,Q71,London,2014,Prescription items per 100000 population,Disulfiram,36.50443294
+E40000004,Y57,South of England,2014,Prescription items per 100000 population,Disulfiram,65.21484589
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2014,Prescription items per 100000 population,Disulfiram,109.1125689
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2014,Prescription items per 100000 population,Disulfiram,71.18492847
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2014,Prescription items per 100000 population,Disulfiram,72.68161179
+E39000022,Q67,Kent and Medway,2014,Prescription items per 100000 population,Disulfiram,41.02290502
+E39000023,Q68,Surrey and Sussex,2014,Prescription items per 100000 population,Disulfiram,44.20089999
+E39000024,Q69,Thames Valley,2014,Prescription items per 100000 population,Disulfiram,106.927252
+E39000025,Q70,Wessex,2014,Prescription items per 100000 population,Disulfiram,38.61465636
+E92000001,921,ENGLAND,2014,Prescription items,Nalmefene,1328
+XXXXXXXXXX,XXX,Unattributable,2014,Prescription items,Nalmefene,17
+E40000001,Y54,North of England,2014,Prescription items,Nalmefene,369
+E39000001,Q44,Cheshire Warrington and Wirral,2014,Prescription items,Nalmefene,16
+E39000002,Q45,Durham Darlington and Tees,2014,Prescription items,Nalmefene,24
+E39000003,Q46,Greater Manchester,2014,Prescription items,Nalmefene,93
+E39000004,Q47,Lancashire,2014,Prescription items,Nalmefene,28
+E39000005,Q48,Merseyside,2014,Prescription items,Nalmefene,23
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2014,Prescription items,Nalmefene,47
+E39000007,Q50,North Yorkshire and Humber,2014,Prescription items,Nalmefene,38
+E39000008,Q51,South Yorkshire and Bassetlaw,2014,Prescription items,Nalmefene,14
+E39000009,Q52,West Yorkshire,2014,Prescription items,Nalmefene,86
+E40000002,Y55,Midlands and East of England,2014,Prescription items,Nalmefene,300
+E39000010,Q53,Arden Herefordshire and Worcestershire,2014,Prescription items,Nalmefene,59
+E39000011,Q54,Birmingham and the Black Country,2014,Prescription items,Nalmefene,50
+E39000012,Q55,Derbyshire and Nottinghamshire,2014,Prescription items,Nalmefene,8
+E39000013,Q56,East Anglia,2014,Prescription items,Nalmefene,26
+E39000014,Q57,Essex,2014,Prescription items,Nalmefene,77
+E39000015,Q58,Hertfordshire and the South Midlands,2014,Prescription items,Nalmefene,14
+E39000016,Q59,Leicestershire and Lincolnshire,2014,Prescription items,Nalmefene,15
+E39000017,Q60,Shropshire and Staffordshire,2014,Prescription items,Nalmefene,51
+E40000003,Y56,London,2014,Prescription items,Nalmefene,177
+E39000018,Q71,London,2014,Prescription items,Nalmefene,177
+E40000004,Y57,South of England,2014,Prescription items,Nalmefene,465
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2014,Prescription items,Nalmefene,90
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2014,Prescription items,Nalmefene,28
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2014,Prescription items,Nalmefene,52
+E39000022,Q67,Kent and Medway,2014,Prescription items,Nalmefene,62
+E39000023,Q68,Surrey and Sussex,2014,Prescription items,Nalmefene,97
+E39000024,Q69,Thames Valley,2014,Prescription items,Nalmefene,50
+E39000025,Q70,Wessex,2014,Prescription items,Nalmefene,86
+E92000001,921,ENGLAND,2014,Prescription items per 100000 population,Nalmefene,2.444923946
+XXXXXXXXXX,XXX,Unattributable,2014,Prescription items per 100000 population,Nalmefene,..
+E40000001,Y54,North of England,2014,Prescription items per 100000 population,Nalmefene,2.418240057
+E39000001,Q44,Cheshire Warrington and Wirral,2014,Prescription items per 100000 population,Nalmefene,1.296879141
+E39000002,Q45,Durham Darlington and Tees,2014,Prescription items per 100000 population,Nalmefene,2.027009907
+E39000003,Q46,Greater Manchester,2014,Prescription items per 100000 population,Nalmefene,3.362238947
+E39000004,Q47,Lancashire,2014,Prescription items per 100000 population,Nalmefene,1.90220105
+E39000005,Q48,Merseyside,2014,Prescription items per 100000 population,Nalmefene,1.922188152
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2014,Prescription items per 100000 population,Nalmefene,2.424376226
+E39000007,Q50,North Yorkshire and Humber,2014,Prescription items per 100000 population,Nalmefene,2.269801781
+E39000008,Q51,South Yorkshire and Bassetlaw,2014,Prescription items per 100000 population,Nalmefene,0.945952338
+E39000009,Q52,West Yorkshire,2014,Prescription items per 100000 population,Nalmefene,3.71657888
+E40000002,Y55,Midlands and East of England,2014,Prescription items per 100000 population,Nalmefene,1.819635652
+E39000010,Q53,Arden Herefordshire and Worcestershire,2014,Prescription items per 100000 population,Nalmefene,3.572287045
+E39000011,Q54,Birmingham and the Black Country,2014,Prescription items per 100000 population,Nalmefene,2.02353124
+E39000012,Q55,Derbyshire and Nottinghamshire,2014,Prescription items per 100000 population,Nalmefene,0.399875639
+E39000013,Q56,East Anglia,2014,Prescription items per 100000 population,Nalmefene,1.047775753
+E39000014,Q57,Essex,2014,Prescription items per 100000 population,Nalmefene,4.342544415
+E39000015,Q58,Hertfordshire and the South Midlands,2014,Prescription items per 100000 population,Nalmefene,0.510350268
+E39000016,Q59,Leicestershire and Lincolnshire,2014,Prescription items per 100000 population,Nalmefene,0.84502472
+E39000017,Q60,Shropshire and Staffordshire,2014,Prescription items per 100000 population,Nalmefene,3.206028843
+E40000003,Y56,London,2014,Prescription items per 100000 population,Nalmefene,2.072917751
+E39000018,Q71,London,2014,Prescription items per 100000 population,Nalmefene,2.072917751
+E40000004,Y57,South of England,2014,Prescription items per 100000 population,Nalmefene,3.313834919
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2014,Prescription items per 100000 population,Nalmefene,6.009872217
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2014,Prescription items per 100000 population,Nalmefene,1.912838769
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2014,Prescription items per 100000 population,Nalmefene,3.045482524
+E39000022,Q67,Kent and Medway,2014,Prescription items per 100000 population,Nalmefene,3.474617638
+E39000023,Q68,Surrey and Sussex,2014,Prescription items per 100000 population,Nalmefene,3.520104514
+E39000024,Q69,Thames Valley,2014,Prescription items per 100000 population,Nalmefene,2.402859595
+E39000025,Q70,Wessex,2014,Prescription items per 100000 population,Nalmefene,3.135845559
+E92000001,921,ENGLAND,2013,Prescription items,Total,174260
+XXXXXXXXXX,XXX,Unattributable,2013,Prescription items,Total,2270
+E40000001,Y54,North of England,2013,Prescription items,Total,77261
+E39000001,Q44,Cheshire Warrington and Wirral,2013,Prescription items,Total,3180
+E39000002,Q45,Durham Darlington and Tees,2013,Prescription items,Total,6060
+E39000003,Q46,Greater Manchester,2013,Prescription items,Total,25227
+E39000004,Q47,Lancashire,2013,Prescription items,Total,5969
+E39000005,Q48,Merseyside,2013,Prescription items,Total,2736
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2013,Prescription items,Total,10433
+E39000007,Q50,North Yorkshire and Humber,2013,Prescription items,Total,5951
+E39000008,Q51,South Yorkshire and Bassetlaw,2013,Prescription items,Total,9985
+E39000009,Q52,West Yorkshire,2013,Prescription items,Total,7720
+E40000002,Y55,Midlands and East of England,2013,Prescription items,Total,48428
+E39000010,Q53,Arden Herefordshire and Worcestershire,2013,Prescription items,Total,4216
+E39000011,Q54,Birmingham and the Black Country,2013,Prescription items,Total,7739
+E39000012,Q55,Derbyshire and Nottinghamshire,2013,Prescription items,Total,3880
+E39000013,Q56,East Anglia,2013,Prescription items,Total,9548
+E39000014,Q57,Essex,2013,Prescription items,Total,5326
+E39000015,Q58,Hertfordshire and the South Midlands,2013,Prescription items,Total,6767
+E39000016,Q59,Leicestershire and Lincolnshire,2013,Prescription items,Total,3442
+E39000017,Q60,Shropshire and Staffordshire,2013,Prescription items,Total,7510
+E40000003,Y56,London,2013,Prescription items,Total,14029
+E39000018,Q71,London,2013,Prescription items,Total,14029
+E40000004,Y57,South of England,2013,Prescription items,Total,32272
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2013,Prescription items,Total,5407
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2013,Prescription items,Total,2983
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2013,Prescription items,Total,4367
+E39000022,Q67,Kent and Medway,2013,Prescription items,Total,3339
+E39000023,Q68,Surrey and Sussex,2013,Prescription items,Total,6484
+E39000024,Q69,Thames Valley,2013,Prescription items,Total,4993
+E39000025,Q70,Wessex,2013,Prescription items,Total,4699
+E92000001,921,ENGLAND,2013,Prescription items per 100000 population,Total,323.5075781
+XXXXXXXXXX,XXX,Unattributable,2013,Prescription items per 100000 population,Total,..
+E40000001,Y54,North of England,2013,Prescription items per 100000 population,Total,508.3567544
+E39000001,Q44,Cheshire Warrington and Wirral,2013,Prescription items per 100000 population,Total,258.7181087
+E39000002,Q45,Durham Darlington and Tees,2013,Prescription items per 100000 population,Total,513.081895
+E39000003,Q46,Greater Manchester,2013,Prescription items per 100000 population,Total,918.0050829
+E39000004,Q47,Lancashire,2013,Prescription items per 100000 population,Total,406.3737154
+E39000005,Q48,Merseyside,2013,Prescription items per 100000 population,Total,229.4793771
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2013,Prescription items per 100000 population,Total,539.585554
+E39000007,Q50,North Yorkshire and Humber,2013,Prescription items per 100000 population,Total,355.958309
+E39000008,Q51,South Yorkshire and Bassetlaw,2013,Prescription items per 100000 population,Total,678.4177545
+E39000009,Q52,West Yorkshire,2013,Prescription items per 100000 population,Total,335.4095124
+E40000002,Y55,Midlands and East of England,2013,Prescription items per 100000 population,Total,296.3364921
+E39000010,Q53,Arden Herefordshire and Worcestershire,2013,Prescription items per 100000 population,Total,257.5767018
+E39000011,Q54,Birmingham and the Black Country,2013,Prescription items per 100000 population,Total,315.4057298
+E39000012,Q55,Derbyshire and Nottinghamshire,2013,Prescription items per 100000 population,Total,195.1806477
+E39000013,Q56,East Anglia,2013,Prescription items per 100000 population,Total,387.9666937
+E39000014,Q57,Essex,2013,Prescription items per 100000 population,Total,303.8130073
+E39000015,Q58,Hertfordshire and the South Midlands,2013,Prescription items per 100000 population,Total,249.8813737
+E39000016,Q59,Leicestershire and Lincolnshire,2013,Prescription items per 100000 population,Total,195.8523903
+E39000017,Q60,Shropshire and Staffordshire,2013,Prescription items per 100000 population,Total,474.0404468
+E40000003,Y56,London,2013,Prescription items per 100000 population,Total,166.6837956
+E39000018,Q71,London,2013,Prescription items per 100000 population,Total,166.6837956
+E40000004,Y57,South of England,2013,Prescription items per 100000 population,Total,232.0247002
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2013,Prescription items per 100000 population,Total,364.1791085
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2013,Prescription items per 100000 population,Total,205.6053122
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2013,Prescription items per 100000 population,Total,257.9639807
+E39000022,Q67,Kent and Medway,2013,Prescription items per 100000 population,Total,189.2195304
+E39000023,Q68,Surrey and Sussex,2013,Prescription items per 100000 population,Total,237.3345037
+E39000024,Q69,Thames Valley,2013,Prescription items per 100000 population,Total,242.2635068
+E39000025,Q70,Wessex,2013,Prescription items per 100000 population,Total,172.5771621
+E92000001,921,ENGLAND,2013,Prescription items,Acamprosate Calcium,121539
+XXXXXXXXXX,XXX,Unattributable,2013,Prescription items,Acamprosate Calcium,1267
+E40000001,Y54,North of England,2013,Prescription items,Acamprosate Calcium,54504
+E39000001,Q44,Cheshire Warrington and Wirral,2013,Prescription items,Acamprosate Calcium,2568
+E39000002,Q45,Durham Darlington and Tees,2013,Prescription items,Acamprosate Calcium,4400
+E39000003,Q46,Greater Manchester,2013,Prescription items,Acamprosate Calcium,18626
+E39000004,Q47,Lancashire,2013,Prescription items,Acamprosate Calcium,4892
+E39000005,Q48,Merseyside,2013,Prescription items,Acamprosate Calcium,2297
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2013,Prescription items,Acamprosate Calcium,8468
+E39000007,Q50,North Yorkshire and Humber,2013,Prescription items,Acamprosate Calcium,3472
+E39000008,Q51,South Yorkshire and Bassetlaw,2013,Prescription items,Acamprosate Calcium,5942
+E39000009,Q52,West Yorkshire,2013,Prescription items,Acamprosate Calcium,3839
+E40000002,Y55,Midlands and East of England,2013,Prescription items,Acamprosate Calcium,31523
+E39000010,Q53,Arden Herefordshire and Worcestershire,2013,Prescription items,Acamprosate Calcium,2529
+E39000011,Q54,Birmingham and the Black Country,2013,Prescription items,Acamprosate Calcium,6077
+E39000012,Q55,Derbyshire and Nottinghamshire,2013,Prescription items,Acamprosate Calcium,1106
+E39000013,Q56,East Anglia,2013,Prescription items,Acamprosate Calcium,5043
+E39000014,Q57,Essex,2013,Prescription items,Acamprosate Calcium,4158
+E39000015,Q58,Hertfordshire and the South Midlands,2013,Prescription items,Acamprosate Calcium,4623
+E39000016,Q59,Leicestershire and Lincolnshire,2013,Prescription items,Acamprosate Calcium,2405
+E39000017,Q60,Shropshire and Staffordshire,2013,Prescription items,Acamprosate Calcium,5582
+E40000003,Y56,London,2013,Prescription items,Acamprosate Calcium,11046
+E39000018,Q71,London,2013,Prescription items,Acamprosate Calcium,11046
+E40000004,Y57,South of England,2013,Prescription items,Acamprosate Calcium,23199
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2013,Prescription items,Acamprosate Calcium,3797
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2013,Prescription items,Acamprosate Calcium,1927
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2013,Prescription items,Acamprosate Calcium,3114
+E39000022,Q67,Kent and Medway,2013,Prescription items,Acamprosate Calcium,2504
+E39000023,Q68,Surrey and Sussex,2013,Prescription items,Acamprosate Calcium,5526
+E39000024,Q69,Thames Valley,2013,Prescription items,Acamprosate Calcium,2590
+E39000025,Q70,Wessex,2013,Prescription items,Acamprosate Calcium,3741
+E92000001,921,ENGLAND,2013,Prescription items per 100000 population,Acamprosate Calcium,225.6328907
+XXXXXXXXXX,XXX,Unattributable,2013,Prescription items per 100000 population,Acamprosate Calcium,..
+E40000001,Y54,North of England,2013,Prescription items per 100000 population,Acamprosate Calcium,358.6217696
+E39000001,Q44,Cheshire Warrington and Wirral,2013,Prescription items per 100000 population,Acamprosate Calcium,208.9270765
+E39000002,Q45,Durham Darlington and Tees,2013,Prescription items per 100000 population,Acamprosate Calcium,372.5347092
+E39000003,Q46,Greater Manchester,2013,Prescription items per 100000 population,Acamprosate Calcium,677.7961182
+E39000004,Q47,Lancashire,2013,Prescription items per 100000 population,Acamprosate Calcium,333.0507984
+E39000005,Q48,Merseyside,2013,Prescription items per 100000 population,Acamprosate Calcium,192.6586729
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2013,Prescription items per 100000 population,Acamprosate Calcium,437.9574879
+E39000007,Q50,North Yorkshire and Humber,2013,Prescription items per 100000 population,Acamprosate Calcium,207.6772389
+E39000008,Q51,South Yorkshire and Bassetlaw,2013,Prescription items per 100000 population,Acamprosate Calcium,403.7214118
+E39000009,Q52,West Yorkshire,2013,Prescription items per 100000 population,Acamprosate Calcium,166.7923728
+E40000002,Y55,Midlands and East of England,2013,Prescription items per 100000 population,Acamprosate Calcium,192.8928562
+E39000010,Q53,Arden Herefordshire and Worcestershire,2013,Prescription items per 100000 population,Acamprosate Calcium,154.509364
+E39000011,Q54,Birmingham and the Black Country,2013,Prescription items per 100000 population,Acamprosate Calcium,247.6703217
+E39000012,Q55,Derbyshire and Nottinghamshire,2013,Prescription items per 100000 population,Acamprosate Calcium,55.63654546
+E39000013,Q56,East Anglia,2013,Prescription items per 100000 population,Acamprosate Calcium,204.913703
+E39000014,Q57,Essex,2013,Prescription items per 100000 population,Acamprosate Calcium,237.186347
+E39000015,Q58,Hertfordshire and the South Midlands,2013,Prescription items per 100000 population,Acamprosate Calcium,170.7110375
+E39000016,Q59,Leicestershire and Lincolnshire,2013,Prescription items per 100000 population,Acamprosate Calcium,136.8463099
+E39000017,Q60,Shropshire and Staffordshire,2013,Prescription items per 100000 population,Acamprosate Calcium,352.3427129
+E40000003,Y56,London,2013,Prescription items per 100000 population,Acamprosate Calcium,131.241657
+E39000018,Q71,London,2013,Prescription items per 100000 population,Acamprosate Calcium,131.241657
+E40000004,Y57,South of England,2013,Prescription items per 100000 population,Acamprosate Calcium,166.7929171
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2013,Prescription items per 100000 population,Acamprosate Calcium,255.7403505
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2013,Prescription items per 100000 population,Acamprosate Calcium,132.819791
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2013,Prescription items per 100000 population,Acamprosate Calcium,183.9477527
+E39000022,Q67,Kent and Medway,2013,Prescription items per 100000 population,Acamprosate Calcium,141.9004804
+E39000023,Q68,Surrey and Sussex,2013,Prescription items per 100000 population,Acamprosate Calcium,202.2687334
+E39000024,Q69,Thames Valley,2013,Prescription items per 100000 population,Acamprosate Calcium,125.6684323
+E39000025,Q70,Wessex,2013,Prescription items per 100000 population,Acamprosate Calcium,137.3933099
+E92000001,921,ENGLAND,2013,Prescription items,Disulfiram,52544
+XXXXXXXXXX,XXX,Unattributable,2013,Prescription items,Disulfiram,1000
+E40000001,Y54,North of England,2013,Prescription items,Disulfiram,22715
+E39000001,Q44,Cheshire Warrington and Wirral,2013,Prescription items,Disulfiram,606
+E39000002,Q45,Durham Darlington and Tees,2013,Prescription items,Disulfiram,1659
+E39000003,Q46,Greater Manchester,2013,Prescription items,Disulfiram,6601
+E39000004,Q47,Lancashire,2013,Prescription items,Disulfiram,1076
+E39000005,Q48,Merseyside,2013,Prescription items,Disulfiram,438
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2013,Prescription items,Disulfiram,1959
+E39000007,Q50,North Yorkshire and Humber,2013,Prescription items,Disulfiram,2475
+E39000008,Q51,South Yorkshire and Bassetlaw,2013,Prescription items,Disulfiram,4039
+E39000009,Q52,West Yorkshire,2013,Prescription items,Disulfiram,3862
+E40000002,Y55,Midlands and East of England,2013,Prescription items,Disulfiram,16878
+E39000010,Q53,Arden Herefordshire and Worcestershire,2013,Prescription items,Disulfiram,1682
+E39000011,Q54,Birmingham and the Black Country,2013,Prescription items,Disulfiram,1659
+E39000012,Q55,Derbyshire and Nottinghamshire,2013,Prescription items,Disulfiram,2772
+E39000013,Q56,East Anglia,2013,Prescription items,Disulfiram,4503
+E39000014,Q57,Essex,2013,Prescription items,Disulfiram,1166
+E39000015,Q58,Hertfordshire and the South Midlands,2013,Prescription items,Disulfiram,2142
+E39000016,Q59,Leicestershire and Lincolnshire,2013,Prescription items,Disulfiram,1036
+E39000017,Q60,Shropshire and Staffordshire,2013,Prescription items,Disulfiram,1918
+E40000003,Y56,London,2013,Prescription items,Disulfiram,2942
+E39000018,Q71,London,2013,Prescription items,Disulfiram,2942
+E40000004,Y57,South of England,2013,Prescription items,Disulfiram,9009
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2013,Prescription items,Disulfiram,1597
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2013,Prescription items,Disulfiram,1054
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2013,Prescription items,Disulfiram,1248
+E39000022,Q67,Kent and Medway,2013,Prescription items,Disulfiram,825
+E39000023,Q68,Surrey and Sussex,2013,Prescription items,Disulfiram,942
+E39000024,Q69,Thames Valley,2013,Prescription items,Disulfiram,2395
+E39000025,Q70,Wessex,2013,Prescription items,Disulfiram,948
+E92000001,921,ENGLAND,2013,Prescription items per 100000 population,Disulfiram,97.5460931
+XXXXXXXXXX,XXX,Unattributable,2013,Prescription items per 100000 population,Disulfiram,..
+E40000001,Y54,North of England,2013,Prescription items per 100000 population,Disulfiram,149.458636
+E39000001,Q44,Cheshire Warrington and Wirral,2013,Prescription items per 100000 population,Disulfiram,49.30288487
+E39000002,Q45,Durham Darlington and Tees,2013,Prescription items per 100000 population,Disulfiram,140.4625188
+E39000003,Q46,Greater Manchester,2013,Prescription items per 100000 population,Disulfiram,240.2089647
+E39000004,Q47,Lancashire,2013,Prescription items per 100000 population,Disulfiram,73.25483628
+E39000005,Q48,Merseyside,2013,Prescription items per 100000 population,Disulfiram,36.7368301
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2013,Prescription items per 100000 population,Disulfiram,101.3177514
+E39000007,Q50,North Yorkshire and Humber,2013,Prescription items per 100000 population,Disulfiram,148.0418106
+E39000008,Q51,South Yorkshire and Bassetlaw,2013,Prescription items per 100000 population,Disulfiram,274.4245679
+E39000009,Q52,West Yorkshire,2013,Prescription items per 100000 population,Disulfiram,167.7916499
+E40000002,Y55,Midlands and East of England,2013,Prescription items per 100000 population,Disulfiram,103.2784198
+E39000010,Q53,Arden Herefordshire and Worcestershire,2013,Prescription items per 100000 population,Disulfiram,102.7618625
+E39000011,Q54,Birmingham and the Black Country,2013,Prescription items per 100000 population,Disulfiram,67.61314197
+E39000012,Q55,Derbyshire and Nottinghamshire,2013,Prescription items per 100000 population,Disulfiram,139.4434937
+E39000013,Q56,East Anglia,2013,Prescription items per 100000 population,Disulfiram,182.9717241
+E39000014,Q57,Essex,2013,Prescription items per 100000 population,Disulfiram,66.5125735
+E39000015,Q58,Hertfordshire and the South Midlands,2013,Prescription items per 100000 population,Disulfiram,79.09648331
+E39000016,Q59,Leicestershire and Lincolnshire,2013,Prescription items per 100000 population,Disulfiram,58.94917966
+E39000017,Q60,Shropshire and Staffordshire,2013,Prescription items per 100000 population,Disulfiram,121.0665216
+E40000003,Y56,London,2013,Prescription items per 100000 population,Disulfiram,34.95500227
+E39000018,Q71,London,2013,Prescription items per 100000 population,Disulfiram,34.95500227
+E40000004,Y57,South of England,2013,Prescription items per 100000 population,Disulfiram,64.7716449
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2013,Prescription items per 100000 population,Disulfiram,107.5631656
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2013,Prescription items per 100000 population,Disulfiram,72.64766983
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2013,Prescription items per 100000 population,Disulfiram,73.72087199
+E39000022,Q67,Kent and Medway,2013,Prescription items per 100000 population,Disulfiram,46.75235476
+E39000023,Q68,Surrey and Sussex,2013,Prescription items per 100000 population,Disulfiram,34.48012067
+E39000024,Q69,Thames Valley,2013,Prescription items per 100000 population,Disulfiram,116.2069094
+E39000025,Q70,Wessex,2013,Prescription items per 100000 population,Disulfiram,34.81658856
+E92000001,921,ENGLAND,2013,Prescription items,Nalmefene,177
+XXXXXXXXXX,XXX,Unattributable,2013,Prescription items,Nalmefene,3
+E40000001,Y54,North of England,2013,Prescription items,Nalmefene,42
+E39000001,Q44,Cheshire Warrington and Wirral,2013,Prescription items,Nalmefene,6
+E39000002,Q45,Durham Darlington and Tees,2013,Prescription items,Nalmefene,1
+E39000003,Q46,Greater Manchester,2013,Prescription items,Nalmefene,
+E39000004,Q47,Lancashire,2013,Prescription items,Nalmefene,1
+E39000005,Q48,Merseyside,2013,Prescription items,Nalmefene,1
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2013,Prescription items,Nalmefene,6
+E39000007,Q50,North Yorkshire and Humber,2013,Prescription items,Nalmefene,4
+E39000008,Q51,South Yorkshire and Bassetlaw,2013,Prescription items,Nalmefene,4
+E39000009,Q52,West Yorkshire,2013,Prescription items,Nalmefene,19
+E40000002,Y55,Midlands and East of England,2013,Prescription items,Nalmefene,27
+E39000010,Q53,Arden Herefordshire and Worcestershire,2013,Prescription items,Nalmefene,5
+E39000011,Q54,Birmingham and the Black Country,2013,Prescription items,Nalmefene,3
+E39000012,Q55,Derbyshire and Nottinghamshire,2013,Prescription items,Nalmefene,2
+E39000013,Q56,East Anglia,2013,Prescription items,Nalmefene,2
+E39000014,Q57,Essex,2013,Prescription items,Nalmefene,2
+E39000015,Q58,Hertfordshire and the South Midlands,2013,Prescription items,Nalmefene,2
+E39000016,Q59,Leicestershire and Lincolnshire,2013,Prescription items,Nalmefene,1
+E39000017,Q60,Shropshire and Staffordshire,2013,Prescription items,Nalmefene,10
+E40000003,Y56,London,2013,Prescription items,Nalmefene,41
+E39000018,Q71,London,2013,Prescription items,Nalmefene,41
+E40000004,Y57,South of England,2013,Prescription items,Nalmefene,64
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2013,Prescription items,Nalmefene,13
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2013,Prescription items,Nalmefene,2
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2013,Prescription items,Nalmefene,5
+E39000022,Q67,Kent and Medway,2013,Prescription items,Nalmefene,10
+E39000023,Q68,Surrey and Sussex,2013,Prescription items,Nalmefene,16
+E39000024,Q69,Thames Valley,2013,Prescription items,Nalmefene,8
+E39000025,Q70,Wessex,2013,Prescription items,Nalmefene,10
+E92000001,921,ENGLAND,2013,Prescription items per 100000 population,Nalmefene,0.328594292
+XXXXXXXXXX,XXX,Unattributable,2013,Prescription items per 100000 population,Nalmefene,..
+E40000001,Y54,North of England,2013,Prescription items per 100000 population,Nalmefene,0.276348788
+E39000001,Q44,Cheshire Warrington and Wirral,2013,Prescription items per 100000 population,Nalmefene,0.488147375
+E39000002,Q45,Durham Darlington and Tees,2013,Prescription items per 100000 population,Nalmefene,0.084666979
+E39000003,Q46,Greater Manchester,2013,Prescription items per 100000 population,Nalmefene,0
+E39000004,Q47,Lancashire,2013,Prescription items per 100000 population,Nalmefene,0.068080703
+E39000005,Q48,Merseyside,2013,Prescription items per 100000 population,Nalmefene,0.083874041
+E39000006,Q49,Cumbria Northumberland Tyne and Wear,2013,Prescription items per 100000 population,Nalmefene,0.310314706
+E39000007,Q50,North Yorkshire and Humber,2013,Prescription items per 100000 population,Nalmefene,0.239259492
+E39000008,Q51,South Yorkshire and Bassetlaw,2013,Prescription items per 100000 population,Nalmefene,0.271774764
+E39000009,Q52,West Yorkshire,2013,Prescription items per 100000 population,Nalmefene,0.825489733
+E40000002,Y55,Midlands and East of England,2013,Prescription items per 100000 population,Nalmefene,0.1652161
+E39000010,Q53,Arden Herefordshire and Worcestershire,2013,Prescription items per 100000 population,Nalmefene,0.305475216
+E39000011,Q54,Birmingham and the Black Country,2013,Prescription items per 100000 population,Nalmefene,0.12226608
+E39000012,Q55,Derbyshire and Nottinghamshire,2013,Prescription items per 100000 population,Nalmefene,0.100608581
+E39000013,Q56,East Anglia,2013,Prescription items per 100000 population,Nalmefene,0.081266589
+E39000014,Q57,Essex,2013,Prescription items per 100000 population,Nalmefene,0.114086747
+E39000015,Q58,Hertfordshire and the South Midlands,2013,Prescription items per 100000 population,Nalmefene,0.073852926
+E39000016,Q59,Leicestershire and Lincolnshire,2013,Prescription items per 100000 population,Nalmefene,0.056900753
+E39000017,Q60,Shropshire and Staffordshire,2013,Prescription items per 100000 population,Nalmefene,0.631212313
+E40000003,Y56,London,2013,Prescription items per 100000 population,Nalmefene,0.487136333
+E39000018,Q71,London,2013,Prescription items per 100000 population,Nalmefene,0.487136333
+E40000004,Y57,South of England,2013,Prescription items per 100000 population,Nalmefene,0.460138226
+E39000019,Q64,Bath Gloucestershire Swindon and Wiltshire,2013,Prescription items per 100000 population,Nalmefene,0.875592456
+E39000020,Q65,Bristol North Somerset Somerset and South Gloucestershire,2013,Prescription items per 100000 population,Nalmefene,0.137851366
+E39000021,Q66,Devon Cornwall and Isles of Scilly,2013,Prescription items per 100000 population,Nalmefene,0.295356058
+E39000022,Q67,Kent and Medway,2013,Prescription items per 100000 population,Nalmefene,0.566695209
+E39000023,Q68,Surrey and Sussex,2013,Prescription items per 100000 population,Nalmefene,0.585649608
+E39000024,Q69,Thames Valley,2013,Prescription items per 100000 population,Nalmefene,0.388165042
+E39000025,Q70,Wessex,2013,Prescription items per 100000 population,Nalmefene,0.367263592

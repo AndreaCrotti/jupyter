@@ -1,0 +1,2179 @@
+Year,Org_Type,ONS_Code,Org_Code,Org_Name,Classification,Metric_Primary,Value
+2014/15,National,E92000001,ENG,England,FAE_Primary_Obesity,All persons,9130
+2014/15,National,U,U,Unknown,FAE_Primary_Obesity,All persons,0
+2014/15,CommissioningRegion,E40000001,Y54,North of England,FAE_Primary_Obesity,All persons,3338
+2014/15,AreaTeam,E39000001,Q44,"Cheshire, Warrington and Wirral",FAE_Primary_Obesity,All persons,156
+2014/15,CCG,E38000056,01C,NHS Eastern Cheshire ,FAE_Primary_Obesity,All persons,13
+2014/15,CCG,E38000151,01R,NHS South Cheshire ,FAE_Primary_Obesity,All persons,20
+2014/15,CCG,E38000189,02D,NHS Vale Royal ,FAE_Primary_Obesity,All persons,12
+2014/15,CCG,E38000194,02E,NHS Warrington ,FAE_Primary_Obesity,All persons,19
+2014/15,CCG,E38000196,02F,NHS West Cheshire ,FAE_Primary_Obesity,All persons,62
+2014/15,CCG,E38000208,12F,NHS Wirral ,FAE_Primary_Obesity,All persons,30
+2014/15,AreaTeam,E39000002,Q45,"Durham, Darlington and Tees",FAE_Primary_Obesity,All persons,950
+2014/15,CCG,E38000042,00C,NHS Darlington ,FAE_Primary_Obesity,All persons,54
+2014/15,CCG,E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",FAE_Primary_Obesity,All persons,288
+2014/15,CCG,E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,FAE_Primary_Obesity,All persons,218
+2014/15,CCG,E38000116,00J,NHS North Durham ,FAE_Primary_Obesity,All persons,219
+2014/15,CCG,E38000162,00M,NHS South Tees ,FAE_Primary_Obesity,All persons,171
+2014/15,AreaTeam,E39000003,Q46,Greater Manchester,FAE_Primary_Obesity,All persons,313
+2014/15,CCG,E38000016,00T,NHS Bolton ,FAE_Primary_Obesity,All persons,30
+2014/15,CCG,E38000024,00V,NHS Bury ,FAE_Primary_Obesity,All persons,20
+2014/15,CCG,E38000032,00W,NHS Central Manchester ,FAE_Primary_Obesity,All persons,31
+2014/15,CCG,E38000080,01D,"NHS Heywood, Middleton & Rochdale ",FAE_Primary_Obesity,All persons,49
+2014/15,CCG,E38000123,01M,NHS North Manchester ,FAE_Primary_Obesity,All persons,22
+2014/15,CCG,E38000135,00Y,NHS Oldham ,FAE_Primary_Obesity,All persons,25
+2014/15,CCG,E38000143,01G,NHS Salford ,FAE_Primary_Obesity,All persons,17
+2014/15,CCG,E38000158,01N,NHS South Manchester ,FAE_Primary_Obesity,All persons,20
+2014/15,CCG,E38000174,01W,NHS Stockport ,FAE_Primary_Obesity,All persons,16
+2014/15,CCG,E38000182,01Y,NHS Tameside and Glossop ,FAE_Primary_Obesity,All persons,16
+2014/15,CCG,E38000187,02A,NHS Trafford ,FAE_Primary_Obesity,All persons,22
+2014/15,CCG,E38000205,02H,NHS Wigan Borough ,FAE_Primary_Obesity,All persons,45
+2014/15,AreaTeam,E39000004,Q47,Lancashire,FAE_Primary_Obesity,All persons,140
+2014/15,CCG,E38000014,00Q,NHS Blackburn with Darwen ,FAE_Primary_Obesity,All persons,29
+2014/15,CCG,E38000015,00R,NHS Blackpool ,FAE_Primary_Obesity,All persons,28
+2014/15,CCG,E38000034,00X,NHS Chorley and South Ribble ,FAE_Primary_Obesity,All persons,13
+2014/15,CCG,E38000050,01A,NHS East Lancashire ,FAE_Primary_Obesity,All persons,35
+2014/15,CCG,E38000060,02M,NHS Fylde & Wyre ,FAE_Primary_Obesity,All persons,10
+2014/15,CCG,E38000065,01E,NHS Greater Preston ,FAE_Primary_Obesity,All persons,11
+2014/15,CCG,E38000093,01K,NHS Lancashire North ,FAE_Primary_Obesity,All persons,*
+2014/15,CCG,E38000200,02G,NHS West Lancashire ,FAE_Primary_Obesity,All persons,*
+2014/15,AreaTeam,E39000005,Q48,Merseyside,FAE_Primary_Obesity,All persons,209
+2014/15,CCG,E38000068,01F,NHS Halton ,FAE_Primary_Obesity,All persons,21
+2014/15,CCG,E38000091,01J,NHS Knowsley ,FAE_Primary_Obesity,All persons,37
+2014/15,CCG,E38000101,99A,NHS Liverpool ,FAE_Primary_Obesity,All persons,81
+2014/15,CCG,E38000161,01T,NHS South Sefton ,FAE_Primary_Obesity,All persons,33
+2014/15,CCG,E38000170,01V,NHS Southport and Formby ,FAE_Primary_Obesity,All persons,13
+2014/15,CCG,E38000172,01X,NHS St Helens ,FAE_Primary_Obesity,All persons,24
+2014/15,AreaTeam,E39000006,Q49,"Cumbria, Northumberland, Tyne and Wear",FAE_Primary_Obesity,All persons,950
+2014/15,CCG,E38000041,01H,NHS Cumbria ,FAE_Primary_Obesity,All persons,71
+2014/15,CCG,E38000061,00F,NHS Gateshead ,FAE_Primary_Obesity,All persons,138
+2014/15,CCG,E38000111,00G,NHS Newcastle North and East ,FAE_Primary_Obesity,All persons,32
+2014/15,CCG,E38000112,00H,NHS Newcastle West ,FAE_Primary_Obesity,All persons,48
+2014/15,CCG,E38000127,99C,NHS North Tyneside ,FAE_Primary_Obesity,All persons,56
+2014/15,CCG,E38000130,00L,NHS Northumberland ,FAE_Primary_Obesity,All persons,78
+2014/15,CCG,E38000163,00N,NHS South Tyneside ,FAE_Primary_Obesity,All persons,152
+2014/15,CCG,E38000176,00P,NHS Sunderland ,FAE_Primary_Obesity,All persons,375
+2014/15,AreaTeam,E39000007,Q50,North Yorkshire and Humber,FAE_Primary_Obesity,All persons,203
+2014/15,CCG,E38000052,02Y,NHS East Riding of Yorkshire ,FAE_Primary_Obesity,All persons,24
+2014/15,CCG,E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",FAE_Primary_Obesity,All persons,34
+2014/15,CCG,E38000073,03E,NHS Harrogate and Rural District ,FAE_Primary_Obesity,All persons,21
+2014/15,CCG,E38000085,03F,NHS Hull ,FAE_Primary_Obesity,All persons,28
+2014/15,CCG,E38000119,03H,NHS North East Lincolnshire ,FAE_Primary_Obesity,All persons,11
+2014/15,CCG,E38000122,03K,NHS North Lincolnshire ,FAE_Primary_Obesity,All persons,17
+2014/15,CCG,E38000145,03M,NHS Scarborough and Ryedale ,FAE_Primary_Obesity,All persons,23
+2014/15,CCG,E38000188,03Q,NHS Vale of York ,FAE_Primary_Obesity,All persons,45
+2014/15,AreaTeam,E39000008,Q51,South Yorkshire and Bassetlaw,FAE_Primary_Obesity,All persons,170
+2014/15,CCG,E38000006,02P,NHS Barnsley ,FAE_Primary_Obesity,All persons,33
+2014/15,CCG,E38000008,02Q,NHS Bassetlaw ,FAE_Primary_Obesity,All persons,10
+2014/15,CCG,E38000044,02X,NHS Doncaster ,FAE_Primary_Obesity,All persons,49
+2014/15,CCG,E38000141,03L,NHS Rotherham ,FAE_Primary_Obesity,All persons,10
+2014/15,CCG,E38000146,03N,NHS Sheffield ,FAE_Primary_Obesity,All persons,68
+2014/15,AreaTeam,E39000009,Q52,West Yorkshire,FAE_Primary_Obesity,All persons,247
+2014/15,CCG,E38000001,02N,"NHS Airedale, Wharfedale and Craven ",FAE_Primary_Obesity,All persons,19
+2014/15,CCG,E38000018,02W,NHS Bradford City ,FAE_Primary_Obesity,All persons,10
+2014/15,CCG,E38000019,02R,NHS Bradford Districts ,FAE_Primary_Obesity,All persons,36
+2014/15,CCG,E38000025,02T,NHS Calderdale ,FAE_Primary_Obesity,All persons,30
+2014/15,CCG,E38000064,03A,NHS Greater Huddersfield ,FAE_Primary_Obesity,All persons,27
+2014/15,CCG,E38000094,02V,NHS Leeds North ,FAE_Primary_Obesity,All persons,6
+2014/15,CCG,E38000095,03G,NHS Leeds South and East ,FAE_Primary_Obesity,All persons,31
+2014/15,CCG,E38000096,03C,NHS Leeds West ,FAE_Primary_Obesity,All persons,19
+2014/15,CCG,E38000121,03J,NHS North Kirklees ,FAE_Primary_Obesity,All persons,18
+2014/15,CCG,E38000190,03R,NHS Wakefield ,FAE_Primary_Obesity,All persons,51
+2014/15,CommissioningRegion,E40000002,Y55,Midlands and East of England,FAE_Primary_Obesity,All persons,1793
+2014/15,AreaTeam,E39000010,Q53,"Arden, Herefordshire and Worcestershire",FAE_Primary_Obesity,All persons,172
+2014/15,CCG,E38000038,05A,NHS Coventry and Rugby ,FAE_Primary_Obesity,All persons,38
+2014/15,CCG,E38000078,05F,NHS Herefordshire ,FAE_Primary_Obesity,All persons,24
+2014/15,CCG,E38000139,05J,NHS Redditch and Bromsgrove ,FAE_Primary_Obesity,All persons,21
+2014/15,CCG,E38000164,05R,NHS South Warwickshire ,FAE_Primary_Obesity,All persons,18
+2014/15,CCG,E38000166,05T,NHS South Worcestershire ,FAE_Primary_Obesity,All persons,33
+2014/15,CCG,E38000195,05H,NHS Warwickshire North ,FAE_Primary_Obesity,All persons,22
+2014/15,CCG,E38000211,06D,NHS Wyre Forest ,FAE_Primary_Obesity,All persons,16
+2014/15,AreaTeam,E39000011,Q54,Birmingham and the Black Country,FAE_Primary_Obesity,All persons,359
+2014/15,CCG,E38000012,13P,NHS Birmingham CrossCity ,FAE_Primary_Obesity,All persons,90
+2014/15,CCG,E38000013,04X,NHS Birmingham South and Central ,FAE_Primary_Obesity,All persons,34
+2014/15,CCG,E38000046,05C,NHS Dudley ,FAE_Primary_Obesity,All persons,34
+2014/15,CCG,E38000144,05L,NHS Sandwell and West Birmingham ,FAE_Primary_Obesity,All persons,103
+2014/15,CCG,E38000149,05P,NHS Solihull ,FAE_Primary_Obesity,All persons,21
+2014/15,CCG,E38000191,05Y,NHS Walsall ,FAE_Primary_Obesity,All persons,36
+2014/15,CCG,E38000210,06A,NHS Wolverhampton ,FAE_Primary_Obesity,All persons,41
+2014/15,AreaTeam,E39000012,Q55,Derbyshire and Nottinghamshire,FAE_Primary_Obesity,All persons,142
+2014/15,CCG,E38000058,03X,NHS Erewash ,FAE_Primary_Obesity,All persons,*
+2014/15,CCG,E38000071,03Y,NHS Hardwick ,FAE_Primary_Obesity,All persons,12
+2014/15,CCG,E38000103,04E,NHS Mansfield & Ashfield ,FAE_Primary_Obesity,All persons,15
+2014/15,CCG,E38000109,04H,NHS Newark & Sherwood ,FAE_Primary_Obesity,All persons,12
+2014/15,CCG,E38000115,04J,NHS North Derbyshire ,FAE_Primary_Obesity,All persons,32
+2014/15,CCG,E38000132,04K,NHS Nottingham City ,FAE_Primary_Obesity,All persons,16
+2014/15,CCG,E38000133,04L,NHS Nottingham North & East ,FAE_Primary_Obesity,All persons,10
+2014/15,CCG,E38000134,04M,NHS Nottingham West ,FAE_Primary_Obesity,All persons,9
+2014/15,CCG,E38000142,04N,NHS Rushcliffe ,FAE_Primary_Obesity,All persons,*
+2014/15,CCG,E38000169,04R,NHS Southern Derbyshire ,FAE_Primary_Obesity,All persons,26
+2014/15,AreaTeam,E39000013,Q56,East Anglia,FAE_Primary_Obesity,All persons,200
+2014/15,CCG,E38000026,06H,NHS Cambridgeshire and Peterborough ,FAE_Primary_Obesity,All persons,63
+2014/15,CCG,E38000063,06M,NHS Great Yarmouth & Waveney ,FAE_Primary_Obesity,All persons,25
+2014/15,CCG,E38000086,06L,NHS Ipswich and East Suffolk ,FAE_Primary_Obesity,All persons,26
+2014/15,CCG,E38000124,06V,NHS North Norfolk ,FAE_Primary_Obesity,All persons,20
+2014/15,CCG,E38000131,06W,NHS Norwich ,FAE_Primary_Obesity,All persons,21
+2014/15,CCG,E38000159,06Y,NHS South Norfolk ,FAE_Primary_Obesity,All persons,17
+2014/15,CCG,E38000203,07J,NHS West Norfolk ,FAE_Primary_Obesity,All persons,16
+2014/15,CCG,E38000204,07K,NHS West Suffolk ,FAE_Primary_Obesity,All persons,12
+2014/15,AreaTeam,E39000014,Q57,Essex,FAE_Primary_Obesity,All persons,165
+2014/15,CCG,E38000007,99E,NHS Basildon and Brentwood ,FAE_Primary_Obesity,All persons,28
+2014/15,CCG,E38000030,99F,"NHS Castle Point, Rayleigh and Rochford ",FAE_Primary_Obesity,All persons,18
+2014/15,CCG,E38000106,06Q,NHS Mid Essex ,FAE_Primary_Obesity,All persons,14
+2014/15,CCG,E38000117,06T,NHS North East Essex ,FAE_Primary_Obesity,All persons,19
+2014/15,CCG,E38000168,99G,NHS Southend ,FAE_Primary_Obesity,All persons,26
+2014/15,CCG,E38000185,07G,NHS Thurrock ,FAE_Primary_Obesity,All persons,37
+2014/15,CCG,E38000197,07H,NHS West Essex ,FAE_Primary_Obesity,All persons,23
+2014/15,AreaTeam,E39000015,Q58,Hertfordshire and the South Midlands,FAE_Primary_Obesity,All persons,272
+2014/15,CCG,E38000010,06F,NHS Bedfordshire ,FAE_Primary_Obesity,All persons,38
+2014/15,CCG,E38000037,03V,NHS Corby2 ,FAE_Primary_Obesity,All persons,*
+2014/15,CCG,E38000049,06K,NHS East and North Hertfordshire ,FAE_Primary_Obesity,All persons,62
+2014/15,CCG,E38000079,06N,NHS Herts Valleys ,FAE_Primary_Obesity,All persons,67
+2014/15,CCG,E38000102,06P,NHS Luton ,FAE_Primary_Obesity,All persons,38
+2014/15,CCG,E38000107,04F,NHS Milton Keynes ,FAE_Primary_Obesity,All persons,*
+2014/15,CCG,E38000108,04G,NHS Nene ,FAE_Primary_Obesity,All persons,41
+2014/15,AreaTeam,E39000016,Q59,Leicestershire and Lincolnshire,FAE_Primary_Obesity,All persons,99
+2014/15,CCG,E38000051,03W,NHS East Leicestershire and Rutland ,FAE_Primary_Obesity,All persons,8
+2014/15,CCG,E38000097,04C,NHS Leicester City ,FAE_Primary_Obesity,All persons,15
+2014/15,CCG,E38000099,03T,NHS Lincolnshire East ,FAE_Primary_Obesity,All persons,25
+2014/15,CCG,E38000100,04D,NHS Lincolnshire West ,FAE_Primary_Obesity,All persons,16
+2014/15,CCG,E38000157,99D,NHS South Lincolnshire ,FAE_Primary_Obesity,All persons,14
+2014/15,CCG,E38000165,04Q,NHS South West Lincolnshire ,FAE_Primary_Obesity,All persons,6
+2014/15,CCG,E38000201,04V,NHS West Leicestershire ,FAE_Primary_Obesity,All persons,15
+2014/15,AreaTeam,E39000017,Q60,Shropshire and Staffordshire,FAE_Primary_Obesity,All persons,384
+2014/15,CCG,E38000028,04Y,NHS Cannock Chase ,FAE_Primary_Obesity,All persons,9
+2014/15,CCG,E38000053,05D,NHS East Staffordshire ,FAE_Primary_Obesity,All persons,*
+2014/15,CCG,E38000126,05G,NHS North Staffordshire ,FAE_Primary_Obesity,All persons,62
+2014/15,CCG,E38000147,05N,NHS Shropshire ,FAE_Primary_Obesity,All persons,58
+2014/15,CCG,E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,FAE_Primary_Obesity,All persons,*
+2014/15,CCG,E38000173,05V,NHS Stafford and Surrounds ,FAE_Primary_Obesity,All persons,17
+2014/15,CCG,E38000175,05W,NHS Stoke on Trent ,FAE_Primary_Obesity,All persons,126
+2014/15,CCG,E38000183,05X,NHS Telford & Wrekin ,FAE_Primary_Obesity,All persons,94
+2014/15,CommissioningRegion,E40000003,Y56,London,FAE_Primary_Obesity,All persons,2059
+2014/15,AreaTeam,E39000018,Q71,London,FAE_Primary_Obesity,All persons,2059
+2014/15,CCG,E38000004,07L,NHS Barking & Dagenham ,FAE_Primary_Obesity,All persons,52
+2014/15,CCG,E38000005,07M,NHS Barnet ,FAE_Primary_Obesity,All persons,107
+2014/15,CCG,E38000011,07N,NHS Bexley ,FAE_Primary_Obesity,All persons,71
+2014/15,CCG,E38000020,07P,NHS Brent ,FAE_Primary_Obesity,All persons,102
+2014/15,CCG,E38000023,07Q,NHS Bromley ,FAE_Primary_Obesity,All persons,77
+2014/15,CCG,E38000027,07R,NHS Camden ,FAE_Primary_Obesity,All persons,67
+2014/15,CCG,E38000031,09A,NHS Central London (Westminster) ,FAE_Primary_Obesity,All persons,39
+2014/15,CCG,E38000035,07T,NHS City and Hackney ,FAE_Primary_Obesity,All persons,76
+2014/15,CCG,E38000040,07V,NHS Croydon ,FAE_Primary_Obesity,All persons,83
+2014/15,CCG,E38000048,07W,NHS Ealing ,FAE_Primary_Obesity,All persons,104
+2014/15,CCG,E38000057,07X,NHS Enfield ,FAE_Primary_Obesity,All persons,61
+2014/15,CCG,E38000066,08A,NHS Greenwich ,FAE_Primary_Obesity,All persons,84
+2014/15,CCG,E38000070,08C,NHS Hammersmith and Fulham ,FAE_Primary_Obesity,All persons,43
+2014/15,CCG,E38000072,08D,NHS Haringey ,FAE_Primary_Obesity,All persons,47
+2014/15,CCG,E38000074,08E,NHS Harrow ,FAE_Primary_Obesity,All persons,54
+2014/15,CCG,E38000077,08F,NHS Havering ,FAE_Primary_Obesity,All persons,31
+2014/15,CCG,E38000082,08G,NHS Hillingdon ,FAE_Primary_Obesity,All persons,78
+2014/15,CCG,E38000084,07Y,NHS Hounslow ,FAE_Primary_Obesity,All persons,83
+2014/15,CCG,E38000088,08H,NHS Islington ,FAE_Primary_Obesity,All persons,45
+2014/15,CCG,E38000090,08J,NHS Kingston ,FAE_Primary_Obesity,All persons,25
+2014/15,CCG,E38000092,08K,NHS Lambeth ,FAE_Primary_Obesity,All persons,99
+2014/15,CCG,E38000098,08L,NHS Lewisham ,FAE_Primary_Obesity,All persons,113
+2014/15,CCG,E38000105,08R,NHS Merton ,FAE_Primary_Obesity,All persons,38
+2014/15,CCG,E38000113,08M,NHS Newham ,FAE_Primary_Obesity,All persons,56
+2014/15,CCG,E38000138,08N,NHS Redbridge ,FAE_Primary_Obesity,All persons,32
+2014/15,CCG,E38000140,08P,NHS Richmond ,FAE_Primary_Obesity,All persons,25
+2014/15,CCG,E38000171,08Q,NHS Southwark ,FAE_Primary_Obesity,All persons,124
+2014/15,CCG,E38000179,08T,NHS Sutton ,FAE_Primary_Obesity,All persons,49
+2014/15,CCG,E38000186,08V,NHS Tower Hamlets ,FAE_Primary_Obesity,All persons,45
+2014/15,CCG,E38000192,08W,NHS Waltham Forest ,FAE_Primary_Obesity,All persons,48
+2014/15,CCG,E38000193,08X,NHS Wandsworth ,FAE_Primary_Obesity,All persons,59
+2014/15,CCG,E38000202,08Y,"NHS West London (Kensington and Chelsea, Queen’s Park and Paddington) ",FAE_Primary_Obesity,All persons,42
+2014/15,CommissioningRegion,E40000004,Y57,South of England,FAE_Primary_Obesity,All persons,1940
+2014/15,AreaTeam,E39000019,Q64,"Bath, Gloucestershire, Swindon and Wiltshire",FAE_Primary_Obesity,All persons,109
+2014/15,CCG,E38000009,11E,NHS Bath and North East Somerset ,FAE_Primary_Obesity,All persons,15
+2014/15,CCG,E38000062,11M,NHS Gloucestershire ,FAE_Primary_Obesity,All persons,38
+2014/15,CCG,E38000181,12D,NHS Swindon ,FAE_Primary_Obesity,All persons,25
+2014/15,CCG,E38000206,99N,NHS Wiltshire ,FAE_Primary_Obesity,All persons,31
+2014/15,AreaTeam,E39000020,Q65,"Bristol, North Somerset, Somerset and South Gloucestershire",FAE_Primary_Obesity,All persons,136
+2014/15,CCG,E38000022,11H,NHS Bristol ,FAE_Primary_Obesity,All persons,47
+2014/15,CCG,E38000125,11T,NHS North Somerset ,FAE_Primary_Obesity,All persons,14
+2014/15,CCG,E38000150,11X,NHS Somerset ,FAE_Primary_Obesity,All persons,51
+2014/15,CCG,E38000155,12A,NHS South Gloucestershire ,FAE_Primary_Obesity,All persons,24
+2014/15,AreaTeam,E39000021,Q66,"Devon, Cornwall and Isles of Scilly",FAE_Primary_Obesity,All persons,400
+2014/15,CCG,E38000089,11N,NHS Kernow ,FAE_Primary_Obesity,All persons,194
+2014/15,CCG,E38000129,99P,"NHS North, East, West Devon ",FAE_Primary_Obesity,All persons,179
+2014/15,CCG,E38000152,99Q,NHS South Devon and Torbay ,FAE_Primary_Obesity,All persons,27
+2014/15,AreaTeam,E39000022,Q67,Kent and Medway,FAE_Primary_Obesity,All persons,331
+2014/15,CCG,E38000002,09C,NHS Ashford ,FAE_Primary_Obesity,All persons,15
+2014/15,CCG,E38000029,09E,NHS Canterbury and Coastal ,FAE_Primary_Obesity,All persons,29
+2014/15,CCG,E38000043,09J,"NHS Dartford, Gravesham and Swanley ",FAE_Primary_Obesity,All persons,76
+2014/15,CCG,E38000104,09W,NHS Medway ,FAE_Primary_Obesity,All persons,66
+2014/15,CCG,E38000156,10A,NHS South Kent Coast ,FAE_Primary_Obesity,All persons,42
+2014/15,CCG,E38000180,10D,NHS Swale ,FAE_Primary_Obesity,All persons,29
+2014/15,CCG,E38000184,10E,NHS Thanet ,FAE_Primary_Obesity,All persons,27
+2014/15,CCG,E38000199,99J,NHS West Kent ,FAE_Primary_Obesity,All persons,47
+2014/15,AreaTeam,E39000023,Q68,Surrey and Sussex,FAE_Primary_Obesity,All persons,401
+2014/15,CCG,E38000021,09D,NHS Brighton & Hove ,FAE_Primary_Obesity,All persons,32
+2014/15,CCG,E38000036,09G,NHS Coastal West Sussex ,FAE_Primary_Obesity,All persons,87
+2014/15,CCG,E38000039,09H,NHS Crawley ,FAE_Primary_Obesity,All persons,27
+2014/15,CCG,E38000054,09L,NHS East Surrey ,FAE_Primary_Obesity,All persons,23
+2014/15,CCG,E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",FAE_Primary_Obesity,All persons,36
+2014/15,CCG,E38000067,09N,NHS Guildford and Waverley,FAE_Primary_Obesity,All persons,24
+2014/15,CCG,E38000076,09P,NHS Hastings & Rother ,FAE_Primary_Obesity,All persons,26
+2014/15,CCG,E38000081,99K,NHS High Weald Lewes Havens ,FAE_Primary_Obesity,All persons,29
+2014/15,CCG,E38000083,09X,NHS Horsham and Mid Sussex ,FAE_Primary_Obesity,All persons,28
+2014/15,CCG,E38000128,09Y,NHS North West Surrey ,FAE_Primary_Obesity,All persons,50
+2014/15,CCG,E38000177,99H,NHS Surrey Downs ,FAE_Primary_Obesity,All persons,31
+2014/15,CCG,E38000178,10C,NHS Surrey Heath ,FAE_Primary_Obesity,All persons,8
+2014/15,AreaTeam,E39000024,Q69,Thames Valley,FAE_Primary_Obesity,All persons,188
+2014/15,CCG,E38000003,10Y,NHS Aylesbury Vale ,FAE_Primary_Obesity,All persons,13
+2014/15,CCG,E38000017,10G,NHS Bracknell and Ascot ,FAE_Primary_Obesity,All persons,8
+2014/15,CCG,E38000033,10H,NHS Chiltern2,FAE_Primary_Obesity,All persons,20
+2014/15,CCG,E38000110,10M,NHS Newbury and District ,FAE_Primary_Obesity,All persons,14
+2014/15,CCG,E38000114,10N,NHS North & West Reading ,FAE_Primary_Obesity,All persons,13
+2014/15,CCG,E38000136,10Q,NHS Oxfordshire ,FAE_Primary_Obesity,All persons,70
+2014/15,CCG,E38000148,10T,NHS Slough ,FAE_Primary_Obesity,All persons,14
+2014/15,CCG,E38000160,10W,NHS South Reading ,FAE_Primary_Obesity,All persons,15
+2014/15,CCG,E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",FAE_Primary_Obesity,All persons,7
+2014/15,CCG,E38000209,11D,NHS Wokingham ,FAE_Primary_Obesity,All persons,14
+2014/15,AreaTeam,E39000025,Q70,Wessex,FAE_Primary_Obesity,All persons,375
+2014/15,CCG,E38000045,11J,NHS Dorset ,FAE_Primary_Obesity,All persons,62
+2014/15,CCG,E38000059,10K,NHS Fareham and Gosport ,FAE_Primary_Obesity,All persons,27
+2014/15,CCG,E38000087,10L,NHS Isle of Wight ,FAE_Primary_Obesity,All persons,10
+2014/15,CCG,E38000118,99M,NHS North East Hampshire and Farnham ,FAE_Primary_Obesity,All persons,23
+2014/15,CCG,E38000120,10J,NHS North Hampshire ,FAE_Primary_Obesity,All persons,28
+2014/15,CCG,E38000137,10R,NHS Portsmouth ,FAE_Primary_Obesity,All persons,77
+2014/15,CCG,E38000154,10V,NHS South Eastern Hampshire ,FAE_Primary_Obesity,All persons,36
+2014/15,CCG,E38000167,10X,NHS Southampton ,FAE_Primary_Obesity,All persons,55
+2014/15,CCG,E38000198,11A,NHS West Hampshire ,FAE_Primary_Obesity,All persons,57
+2014/15,National,E92000001,,England,FAE_Primary_Obesity,Male,9130
+2014/15,National,U,U,Unknown,FAE_Primary_Obesity,Male,0
+2014/15,CommissioningRegion,E40000001,Y54,North of England,FAE_Primary_Obesity,Male,3338
+2014/15,AreaTeam,E39000001,Q44,"Cheshire, Warrington and Wirral",FAE_Primary_Obesity,Male,156
+2014/15,CCG,E38000056,01C,NHS Eastern Cheshire ,FAE_Primary_Obesity,Male,13
+2014/15,CCG,E38000151,01R,NHS South Cheshire ,FAE_Primary_Obesity,Male,20
+2014/15,CCG,E38000189,02D,NHS Vale Royal ,FAE_Primary_Obesity,Male,12
+2014/15,CCG,E38000194,02E,NHS Warrington ,FAE_Primary_Obesity,Male,19
+2014/15,CCG,E38000196,02F,NHS West Cheshire ,FAE_Primary_Obesity,Male,62
+2014/15,CCG,E38000208,12F,NHS Wirral ,FAE_Primary_Obesity,Male,30
+2014/15,AreaTeam,E39000002,Q45,"Durham, Darlington and Tees",FAE_Primary_Obesity,Male,950
+2014/15,CCG,E38000042,00C,NHS Darlington ,FAE_Primary_Obesity,Male,54
+2014/15,CCG,E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",FAE_Primary_Obesity,Male,288
+2014/15,CCG,E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,FAE_Primary_Obesity,Male,218
+2014/15,CCG,E38000116,00J,NHS North Durham ,FAE_Primary_Obesity,Male,219
+2014/15,CCG,E38000162,00M,NHS South Tees ,FAE_Primary_Obesity,Male,171
+2014/15,AreaTeam,E39000003,Q46,Greater Manchester,FAE_Primary_Obesity,Male,313
+2014/15,CCG,E38000016,00T,NHS Bolton ,FAE_Primary_Obesity,Male,30
+2014/15,CCG,E38000024,00V,NHS Bury ,FAE_Primary_Obesity,Male,20
+2014/15,CCG,E38000032,00W,NHS Central Manchester ,FAE_Primary_Obesity,Male,31
+2014/15,CCG,E38000080,01D,"NHS Heywood, Middleton & Rochdale ",FAE_Primary_Obesity,Male,49
+2014/15,CCG,E38000123,01M,NHS North Manchester ,FAE_Primary_Obesity,Male,22
+2014/15,CCG,E38000135,00Y,NHS Oldham ,FAE_Primary_Obesity,Male,25
+2014/15,CCG,E38000143,01G,NHS Salford ,FAE_Primary_Obesity,Male,17
+2014/15,CCG,E38000158,01N,NHS South Manchester ,FAE_Primary_Obesity,Male,20
+2014/15,CCG,E38000174,01W,NHS Stockport ,FAE_Primary_Obesity,Male,16
+2014/15,CCG,E38000182,01Y,NHS Tameside and Glossop ,FAE_Primary_Obesity,Male,16
+2014/15,CCG,E38000187,02A,NHS Trafford ,FAE_Primary_Obesity,Male,22
+2014/15,CCG,E38000205,02H,NHS Wigan Borough ,FAE_Primary_Obesity,Male,45
+2014/15,AreaTeam,E39000004,Q47,Lancashire,FAE_Primary_Obesity,Male,140
+2014/15,CCG,E38000014,00Q,NHS Blackburn with Darwen ,FAE_Primary_Obesity,Male,29
+2014/15,CCG,E38000015,00R,NHS Blackpool ,FAE_Primary_Obesity,Male,28
+2014/15,CCG,E38000034,00X,NHS Chorley and South Ribble ,FAE_Primary_Obesity,Male,13
+2014/15,CCG,E38000050,01A,NHS East Lancashire ,FAE_Primary_Obesity,Male,35
+2014/15,CCG,E38000060,02M,NHS Fylde & Wyre ,FAE_Primary_Obesity,Male,10
+2014/15,CCG,E38000065,01E,NHS Greater Preston ,FAE_Primary_Obesity,Male,11
+2014/15,CCG,E38000093,01K,NHS Lancashire North ,FAE_Primary_Obesity,Male,*
+2014/15,CCG,E38000200,02G,NHS West Lancashire ,FAE_Primary_Obesity,Male,*
+2014/15,AreaTeam,E39000005,Q48,Merseyside,FAE_Primary_Obesity,Male,209
+2014/15,CCG,E38000068,01F,NHS Halton ,FAE_Primary_Obesity,Male,21
+2014/15,CCG,E38000091,01J,NHS Knowsley ,FAE_Primary_Obesity,Male,37
+2014/15,CCG,E38000101,99A,NHS Liverpool ,FAE_Primary_Obesity,Male,81
+2014/15,CCG,E38000161,01T,NHS South Sefton ,FAE_Primary_Obesity,Male,33
+2014/15,CCG,E38000170,01V,NHS Southport and Formby ,FAE_Primary_Obesity,Male,13
+2014/15,CCG,E38000172,01X,NHS St Helens ,FAE_Primary_Obesity,Male,24
+2014/15,AreaTeam,E39000006,Q49,"Cumbria, Northumberland, Tyne and Wear",FAE_Primary_Obesity,Male,950
+2014/15,CCG,E38000041,01H,NHS Cumbria ,FAE_Primary_Obesity,Male,71
+2014/15,CCG,E38000061,00F,NHS Gateshead ,FAE_Primary_Obesity,Male,138
+2014/15,CCG,E38000111,00G,NHS Newcastle North and East ,FAE_Primary_Obesity,Male,32
+2014/15,CCG,E38000112,00H,NHS Newcastle West ,FAE_Primary_Obesity,Male,48
+2014/15,CCG,E38000127,99C,NHS North Tyneside ,FAE_Primary_Obesity,Male,56
+2014/15,CCG,E38000130,00L,NHS Northumberland ,FAE_Primary_Obesity,Male,78
+2014/15,CCG,E38000163,00N,NHS South Tyneside ,FAE_Primary_Obesity,Male,152
+2014/15,CCG,E38000176,00P,NHS Sunderland ,FAE_Primary_Obesity,Male,375
+2014/15,AreaTeam,E39000007,Q50,North Yorkshire and Humber,FAE_Primary_Obesity,Male,203
+2014/15,CCG,E38000052,02Y,NHS East Riding of Yorkshire ,FAE_Primary_Obesity,Male,24
+2014/15,CCG,E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",FAE_Primary_Obesity,Male,34
+2014/15,CCG,E38000073,03E,NHS Harrogate and Rural District ,FAE_Primary_Obesity,Male,21
+2014/15,CCG,E38000085,03F,NHS Hull ,FAE_Primary_Obesity,Male,28
+2014/15,CCG,E38000119,03H,NHS North East Lincolnshire ,FAE_Primary_Obesity,Male,11
+2014/15,CCG,E38000122,03K,NHS North Lincolnshire ,FAE_Primary_Obesity,Male,17
+2014/15,CCG,E38000145,03M,NHS Scarborough and Ryedale ,FAE_Primary_Obesity,Male,23
+2014/15,CCG,E38000188,03Q,NHS Vale of York ,FAE_Primary_Obesity,Male,45
+2014/15,AreaTeam,E39000008,Q51,South Yorkshire and Bassetlaw,FAE_Primary_Obesity,Male,170
+2014/15,CCG,E38000006,02P,NHS Barnsley ,FAE_Primary_Obesity,Male,33
+2014/15,CCG,E38000008,02Q,NHS Bassetlaw ,FAE_Primary_Obesity,Male,10
+2014/15,CCG,E38000044,02X,NHS Doncaster ,FAE_Primary_Obesity,Male,49
+2014/15,CCG,E38000141,03L,NHS Rotherham ,FAE_Primary_Obesity,Male,10
+2014/15,CCG,E38000146,03N,NHS Sheffield ,FAE_Primary_Obesity,Male,68
+2014/15,AreaTeam,E39000009,Q52,West Yorkshire,FAE_Primary_Obesity,Male,247
+2014/15,CCG,E38000001,02N,"NHS Airedale, Wharfedale and Craven ",FAE_Primary_Obesity,Male,19
+2014/15,CCG,E38000018,02W,NHS Bradford City ,FAE_Primary_Obesity,Male,10
+2014/15,CCG,E38000019,02R,NHS Bradford Districts ,FAE_Primary_Obesity,Male,36
+2014/15,CCG,E38000025,02T,NHS Calderdale ,FAE_Primary_Obesity,Male,30
+2014/15,CCG,E38000064,03A,NHS Greater Huddersfield ,FAE_Primary_Obesity,Male,27
+2014/15,CCG,E38000094,02V,NHS Leeds North ,FAE_Primary_Obesity,Male,6
+2014/15,CCG,E38000095,03G,NHS Leeds South and East ,FAE_Primary_Obesity,Male,31
+2014/15,CCG,E38000096,03C,NHS Leeds West ,FAE_Primary_Obesity,Male,19
+2014/15,CCG,E38000121,03J,NHS North Kirklees ,FAE_Primary_Obesity,Male,18
+2014/15,CCG,E38000190,03R,NHS Wakefield ,FAE_Primary_Obesity,Male,51
+2014/15,CommissioningRegion,E40000002,Y55,Midlands and East of England,FAE_Primary_Obesity,Male,1793
+2014/15,AreaTeam,E39000010,Q53,"Arden, Herefordshire and Worcestershire",FAE_Primary_Obesity,Male,172
+2014/15,CCG,E38000038,05A,NHS Coventry and Rugby ,FAE_Primary_Obesity,Male,38
+2014/15,CCG,E38000078,05F,NHS Herefordshire ,FAE_Primary_Obesity,Male,24
+2014/15,CCG,E38000139,05J,NHS Redditch and Bromsgrove ,FAE_Primary_Obesity,Male,21
+2014/15,CCG,E38000164,05R,NHS South Warwickshire ,FAE_Primary_Obesity,Male,18
+2014/15,CCG,E38000166,05T,NHS South Worcestershire ,FAE_Primary_Obesity,Male,33
+2014/15,CCG,E38000195,05H,NHS Warwickshire North ,FAE_Primary_Obesity,Male,22
+2014/15,CCG,E38000211,06D,NHS Wyre Forest ,FAE_Primary_Obesity,Male,16
+2014/15,AreaTeam,E39000011,Q54,Birmingham and the Black Country,FAE_Primary_Obesity,Male,359
+2014/15,CCG,E38000012,13P,NHS Birmingham CrossCity ,FAE_Primary_Obesity,Male,90
+2014/15,CCG,E38000013,04X,NHS Birmingham South and Central ,FAE_Primary_Obesity,Male,34
+2014/15,CCG,E38000046,05C,NHS Dudley ,FAE_Primary_Obesity,Male,34
+2014/15,CCG,E38000144,05L,NHS Sandwell and West Birmingham ,FAE_Primary_Obesity,Male,103
+2014/15,CCG,E38000149,05P,NHS Solihull ,FAE_Primary_Obesity,Male,21
+2014/15,CCG,E38000191,05Y,NHS Walsall ,FAE_Primary_Obesity,Male,36
+2014/15,CCG,E38000210,06A,NHS Wolverhampton ,FAE_Primary_Obesity,Male,41
+2014/15,AreaTeam,E39000012,Q55,Derbyshire and Nottinghamshire,FAE_Primary_Obesity,Male,142
+2014/15,CCG,E38000058,03X,NHS Erewash ,FAE_Primary_Obesity,Male,*
+2014/15,CCG,E38000071,03Y,NHS Hardwick ,FAE_Primary_Obesity,Male,12
+2014/15,CCG,E38000103,04E,NHS Mansfield & Ashfield ,FAE_Primary_Obesity,Male,15
+2014/15,CCG,E38000109,04H,NHS Newark & Sherwood ,FAE_Primary_Obesity,Male,12
+2014/15,CCG,E38000115,04J,NHS North Derbyshire ,FAE_Primary_Obesity,Male,32
+2014/15,CCG,E38000132,04K,NHS Nottingham City ,FAE_Primary_Obesity,Male,16
+2014/15,CCG,E38000133,04L,NHS Nottingham North & East ,FAE_Primary_Obesity,Male,10
+2014/15,CCG,E38000134,04M,NHS Nottingham West ,FAE_Primary_Obesity,Male,9
+2014/15,CCG,E38000142,04N,NHS Rushcliffe ,FAE_Primary_Obesity,Male,*
+2014/15,CCG,E38000169,04R,NHS Southern Derbyshire ,FAE_Primary_Obesity,Male,26
+2014/15,AreaTeam,E39000013,Q56,East Anglia,FAE_Primary_Obesity,Male,200
+2014/15,CCG,E38000026,06H,NHS Cambridgeshire and Peterborough ,FAE_Primary_Obesity,Male,63
+2014/15,CCG,E38000063,06M,NHS Great Yarmouth & Waveney ,FAE_Primary_Obesity,Male,25
+2014/15,CCG,E38000086,06L,NHS Ipswich and East Suffolk ,FAE_Primary_Obesity,Male,26
+2014/15,CCG,E38000124,06V,NHS North Norfolk ,FAE_Primary_Obesity,Male,20
+2014/15,CCG,E38000131,06W,NHS Norwich ,FAE_Primary_Obesity,Male,21
+2014/15,CCG,E38000159,06Y,NHS South Norfolk ,FAE_Primary_Obesity,Male,17
+2014/15,CCG,E38000203,07J,NHS West Norfolk ,FAE_Primary_Obesity,Male,16
+2014/15,CCG,E38000204,07K,NHS West Suffolk ,FAE_Primary_Obesity,Male,12
+2014/15,AreaTeam,E39000014,Q57,Essex,FAE_Primary_Obesity,Male,165
+2014/15,CCG,E38000007,99E,NHS Basildon and Brentwood ,FAE_Primary_Obesity,Male,28
+2014/15,CCG,E38000030,99F,"NHS Castle Point, Rayleigh and Rochford ",FAE_Primary_Obesity,Male,18
+2014/15,CCG,E38000106,06Q,NHS Mid Essex ,FAE_Primary_Obesity,Male,14
+2014/15,CCG,E38000117,06T,NHS North East Essex ,FAE_Primary_Obesity,Male,19
+2014/15,CCG,E38000168,99G,NHS Southend ,FAE_Primary_Obesity,Male,26
+2014/15,CCG,E38000185,07G,NHS Thurrock ,FAE_Primary_Obesity,Male,37
+2014/15,CCG,E38000197,07H,NHS West Essex ,FAE_Primary_Obesity,Male,23
+2014/15,AreaTeam,E39000015,Q58,Hertfordshire and the South Midlands,FAE_Primary_Obesity,Male,272
+2014/15,CCG,E38000010,06F,NHS Bedfordshire ,FAE_Primary_Obesity,Male,38
+2014/15,CCG,E38000037,03V,NHS Corby2 ,FAE_Primary_Obesity,Male,*
+2014/15,CCG,E38000049,06K,NHS East and North Hertfordshire ,FAE_Primary_Obesity,Male,62
+2014/15,CCG,E38000079,06N,NHS Herts Valleys ,FAE_Primary_Obesity,Male,67
+2014/15,CCG,E38000102,06P,NHS Luton ,FAE_Primary_Obesity,Male,38
+2014/15,CCG,E38000107,04F,NHS Milton Keynes ,FAE_Primary_Obesity,Male,*
+2014/15,CCG,E38000108,04G,NHS Nene ,FAE_Primary_Obesity,Male,41
+2014/15,AreaTeam,E39000016,Q59,Leicestershire and Lincolnshire,FAE_Primary_Obesity,Male,99
+2014/15,CCG,E38000051,03W,NHS East Leicestershire and Rutland ,FAE_Primary_Obesity,Male,8
+2014/15,CCG,E38000097,04C,NHS Leicester City ,FAE_Primary_Obesity,Male,15
+2014/15,CCG,E38000099,03T,NHS Lincolnshire East ,FAE_Primary_Obesity,Male,25
+2014/15,CCG,E38000100,04D,NHS Lincolnshire West ,FAE_Primary_Obesity,Male,16
+2014/15,CCG,E38000157,99D,NHS South Lincolnshire ,FAE_Primary_Obesity,Male,14
+2014/15,CCG,E38000165,04Q,NHS South West Lincolnshire ,FAE_Primary_Obesity,Male,6
+2014/15,CCG,E38000201,04V,NHS West Leicestershire ,FAE_Primary_Obesity,Male,15
+2014/15,AreaTeam,E39000017,Q60,Shropshire and Staffordshire,FAE_Primary_Obesity,Male,384
+2014/15,CCG,E38000028,04Y,NHS Cannock Chase ,FAE_Primary_Obesity,Male,9
+2014/15,CCG,E38000053,05D,NHS East Staffordshire ,FAE_Primary_Obesity,Male,*
+2014/15,CCG,E38000126,05G,NHS North Staffordshire ,FAE_Primary_Obesity,Male,62
+2014/15,CCG,E38000147,05N,NHS Shropshire ,FAE_Primary_Obesity,Male,58
+2014/15,CCG,E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,FAE_Primary_Obesity,Male,*
+2014/15,CCG,E38000173,05V,NHS Stafford and Surrounds ,FAE_Primary_Obesity,Male,17
+2014/15,CCG,E38000175,05W,NHS Stoke on Trent ,FAE_Primary_Obesity,Male,126
+2014/15,CCG,E38000183,05X,NHS Telford & Wrekin ,FAE_Primary_Obesity,Male,94
+2014/15,CommissioningRegion,E40000003,Y56,London,FAE_Primary_Obesity,Male,2059
+2014/15,AreaTeam,E39000018,Q71,London,FAE_Primary_Obesity,Male,2059
+2014/15,CCG,E38000004,07L,NHS Barking & Dagenham ,FAE_Primary_Obesity,Male,52
+2014/15,CCG,E38000005,07M,NHS Barnet ,FAE_Primary_Obesity,Male,107
+2014/15,CCG,E38000011,07N,NHS Bexley ,FAE_Primary_Obesity,Male,71
+2014/15,CCG,E38000020,07P,NHS Brent ,FAE_Primary_Obesity,Male,102
+2014/15,CCG,E38000023,07Q,NHS Bromley ,FAE_Primary_Obesity,Male,77
+2014/15,CCG,E38000027,07R,NHS Camden ,FAE_Primary_Obesity,Male,67
+2014/15,CCG,E38000031,09A,NHS Central London (Westminster) ,FAE_Primary_Obesity,Male,39
+2014/15,CCG,E38000035,07T,NHS City and Hackney ,FAE_Primary_Obesity,Male,76
+2014/15,CCG,E38000040,07V,NHS Croydon ,FAE_Primary_Obesity,Male,83
+2014/15,CCG,E38000048,07W,NHS Ealing ,FAE_Primary_Obesity,Male,104
+2014/15,CCG,E38000057,07X,NHS Enfield ,FAE_Primary_Obesity,Male,61
+2014/15,CCG,E38000066,08A,NHS Greenwich ,FAE_Primary_Obesity,Male,84
+2014/15,CCG,E38000070,08C,NHS Hammersmith and Fulham ,FAE_Primary_Obesity,Male,43
+2014/15,CCG,E38000072,08D,NHS Haringey ,FAE_Primary_Obesity,Male,47
+2014/15,CCG,E38000074,08E,NHS Harrow ,FAE_Primary_Obesity,Male,54
+2014/15,CCG,E38000077,08F,NHS Havering ,FAE_Primary_Obesity,Male,31
+2014/15,CCG,E38000082,08G,NHS Hillingdon ,FAE_Primary_Obesity,Male,78
+2014/15,CCG,E38000084,07Y,NHS Hounslow ,FAE_Primary_Obesity,Male,83
+2014/15,CCG,E38000088,08H,NHS Islington ,FAE_Primary_Obesity,Male,45
+2014/15,CCG,E38000090,08J,NHS Kingston ,FAE_Primary_Obesity,Male,25
+2014/15,CCG,E38000092,08K,NHS Lambeth ,FAE_Primary_Obesity,Male,99
+2014/15,CCG,E38000098,08L,NHS Lewisham ,FAE_Primary_Obesity,Male,113
+2014/15,CCG,E38000105,08R,NHS Merton ,FAE_Primary_Obesity,Male,38
+2014/15,CCG,E38000113,08M,NHS Newham ,FAE_Primary_Obesity,Male,56
+2014/15,CCG,E38000138,08N,NHS Redbridge ,FAE_Primary_Obesity,Male,32
+2014/15,CCG,E38000140,08P,NHS Richmond ,FAE_Primary_Obesity,Male,25
+2014/15,CCG,E38000171,08Q,NHS Southwark ,FAE_Primary_Obesity,Male,124
+2014/15,CCG,E38000179,08T,NHS Sutton ,FAE_Primary_Obesity,Male,49
+2014/15,CCG,E38000186,08V,NHS Tower Hamlets ,FAE_Primary_Obesity,Male,45
+2014/15,CCG,E38000192,08W,NHS Waltham Forest ,FAE_Primary_Obesity,Male,48
+2014/15,CCG,E38000193,08X,NHS Wandsworth ,FAE_Primary_Obesity,Male,59
+2014/15,CCG,E38000202,08Y,"NHS West London (Kensington and Chelsea, Queen’s Park and Paddington) ",FAE_Primary_Obesity,Male,42
+2014/15,CommissioningRegion,E40000004,Y57,South of England,FAE_Primary_Obesity,Male,1940
+2014/15,AreaTeam,E39000019,Q64,"Bath, Gloucestershire, Swindon and Wiltshire",FAE_Primary_Obesity,Male,109
+2014/15,CCG,E38000009,11E,NHS Bath and North East Somerset ,FAE_Primary_Obesity,Male,15
+2014/15,CCG,E38000062,11M,NHS Gloucestershire ,FAE_Primary_Obesity,Male,38
+2014/15,CCG,E38000181,12D,NHS Swindon ,FAE_Primary_Obesity,Male,25
+2014/15,CCG,E38000206,99N,NHS Wiltshire ,FAE_Primary_Obesity,Male,31
+2014/15,AreaTeam,E39000020,Q65,"Bristol, North Somerset, Somerset and South Gloucestershire",FAE_Primary_Obesity,Male,136
+2014/15,CCG,E38000022,11H,NHS Bristol ,FAE_Primary_Obesity,Male,47
+2014/15,CCG,E38000125,11T,NHS North Somerset ,FAE_Primary_Obesity,Male,14
+2014/15,CCG,E38000150,11X,NHS Somerset ,FAE_Primary_Obesity,Male,51
+2014/15,CCG,E38000155,12A,NHS South Gloucestershire ,FAE_Primary_Obesity,Male,24
+2014/15,AreaTeam,E39000021,Q66,"Devon, Cornwall and Isles of Scilly",FAE_Primary_Obesity,Male,400
+2014/15,CCG,E38000089,11N,NHS Kernow ,FAE_Primary_Obesity,Male,194
+2014/15,CCG,E38000129,99P,"NHS North, East, West Devon ",FAE_Primary_Obesity,Male,179
+2014/15,CCG,E38000152,99Q,NHS South Devon and Torbay ,FAE_Primary_Obesity,Male,27
+2014/15,AreaTeam,E39000022,Q67,Kent and Medway,FAE_Primary_Obesity,Male,331
+2014/15,CCG,E38000002,09C,NHS Ashford ,FAE_Primary_Obesity,Male,15
+2014/15,CCG,E38000029,09E,NHS Canterbury and Coastal ,FAE_Primary_Obesity,Male,29
+2014/15,CCG,E38000043,09J,"NHS Dartford, Gravesham and Swanley ",FAE_Primary_Obesity,Male,76
+2014/15,CCG,E38000104,09W,NHS Medway ,FAE_Primary_Obesity,Male,66
+2014/15,CCG,E38000156,10A,NHS South Kent Coast ,FAE_Primary_Obesity,Male,42
+2014/15,CCG,E38000180,10D,NHS Swale ,FAE_Primary_Obesity,Male,29
+2014/15,CCG,E38000184,10E,NHS Thanet ,FAE_Primary_Obesity,Male,27
+2014/15,CCG,E38000199,99J,NHS West Kent ,FAE_Primary_Obesity,Male,47
+2014/15,AreaTeam,E39000023,Q68,Surrey and Sussex,FAE_Primary_Obesity,Male,401
+2014/15,CCG,E38000021,09D,NHS Brighton & Hove ,FAE_Primary_Obesity,Male,32
+2014/15,CCG,E38000036,09G,NHS Coastal West Sussex ,FAE_Primary_Obesity,Male,87
+2014/15,CCG,E38000039,09H,NHS Crawley ,FAE_Primary_Obesity,Male,27
+2014/15,CCG,E38000054,09L,NHS East Surrey ,FAE_Primary_Obesity,Male,23
+2014/15,CCG,E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",FAE_Primary_Obesity,Male,36
+2014/15,CCG,E38000067,09N,NHS Guildford and Waverley,FAE_Primary_Obesity,Male,24
+2014/15,CCG,E38000076,09P,NHS Hastings & Rother ,FAE_Primary_Obesity,Male,26
+2014/15,CCG,E38000081,99K,NHS High Weald Lewes Havens ,FAE_Primary_Obesity,Male,29
+2014/15,CCG,E38000083,09X,NHS Horsham and Mid Sussex ,FAE_Primary_Obesity,Male,28
+2014/15,CCG,E38000128,09Y,NHS North West Surrey ,FAE_Primary_Obesity,Male,50
+2014/15,CCG,E38000177,99H,NHS Surrey Downs ,FAE_Primary_Obesity,Male,31
+2014/15,CCG,E38000178,10C,NHS Surrey Heath ,FAE_Primary_Obesity,Male,8
+2014/15,AreaTeam,E39000024,Q69,Thames Valley,FAE_Primary_Obesity,Male,188
+2014/15,CCG,E38000003,10Y,NHS Aylesbury Vale ,FAE_Primary_Obesity,Male,13
+2014/15,CCG,E38000017,10G,NHS Bracknell and Ascot ,FAE_Primary_Obesity,Male,8
+2014/15,CCG,E38000033,10H,NHS Chiltern2,FAE_Primary_Obesity,Male,20
+2014/15,CCG,E38000110,10M,NHS Newbury and District ,FAE_Primary_Obesity,Male,14
+2014/15,CCG,E38000114,10N,NHS North & West Reading ,FAE_Primary_Obesity,Male,13
+2014/15,CCG,E38000136,10Q,NHS Oxfordshire ,FAE_Primary_Obesity,Male,70
+2014/15,CCG,E38000148,10T,NHS Slough ,FAE_Primary_Obesity,Male,14
+2014/15,CCG,E38000160,10W,NHS South Reading ,FAE_Primary_Obesity,Male,15
+2014/15,CCG,E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",FAE_Primary_Obesity,Male,7
+2014/15,CCG,E38000209,11D,NHS Wokingham ,FAE_Primary_Obesity,Male,14
+2014/15,AreaTeam,E39000025,Q70,Wessex,FAE_Primary_Obesity,Male,375
+2014/15,CCG,E38000045,11J,NHS Dorset ,FAE_Primary_Obesity,Male,62
+2014/15,CCG,E38000059,10K,NHS Fareham and Gosport ,FAE_Primary_Obesity,Male,27
+2014/15,CCG,E38000087,10L,NHS Isle of Wight ,FAE_Primary_Obesity,Male,10
+2014/15,CCG,E38000118,99M,NHS North East Hampshire and Farnham ,FAE_Primary_Obesity,Male,23
+2014/15,CCG,E38000120,10J,NHS North Hampshire ,FAE_Primary_Obesity,Male,28
+2014/15,CCG,E38000137,10R,NHS Portsmouth ,FAE_Primary_Obesity,Male,77
+2014/15,CCG,E38000154,10V,NHS South Eastern Hampshire ,FAE_Primary_Obesity,Male,36
+2014/15,CCG,E38000167,10X,NHS Southampton ,FAE_Primary_Obesity,Male,55
+2014/15,CCG,E38000198,11A,NHS West Hampshire ,FAE_Primary_Obesity,Male,57
+2014/15,National,E92000001,,England,FAE_Primary_Obesity,Female,9130
+2014/15,National,U,U,Unknown,FAE_Primary_Obesity,Female,0
+2014/15,CommissioningRegion,E40000001,Y54,North of England,FAE_Primary_Obesity,Female,3338
+2014/15,AreaTeam,E39000001,Q44,"Cheshire, Warrington and Wirral",FAE_Primary_Obesity,Female,156
+2014/15,CCG,E38000056,01C,NHS Eastern Cheshire ,FAE_Primary_Obesity,Female,13
+2014/15,CCG,E38000151,01R,NHS South Cheshire ,FAE_Primary_Obesity,Female,20
+2014/15,CCG,E38000189,02D,NHS Vale Royal ,FAE_Primary_Obesity,Female,12
+2014/15,CCG,E38000194,02E,NHS Warrington ,FAE_Primary_Obesity,Female,19
+2014/15,CCG,E38000196,02F,NHS West Cheshire ,FAE_Primary_Obesity,Female,62
+2014/15,CCG,E38000208,12F,NHS Wirral ,FAE_Primary_Obesity,Female,30
+2014/15,AreaTeam,E39000002,Q45,"Durham, Darlington and Tees",FAE_Primary_Obesity,Female,950
+2014/15,CCG,E38000042,00C,NHS Darlington ,FAE_Primary_Obesity,Female,54
+2014/15,CCG,E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",FAE_Primary_Obesity,Female,288
+2014/15,CCG,E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,FAE_Primary_Obesity,Female,218
+2014/15,CCG,E38000116,00J,NHS North Durham ,FAE_Primary_Obesity,Female,219
+2014/15,CCG,E38000162,00M,NHS South Tees ,FAE_Primary_Obesity,Female,171
+2014/15,AreaTeam,E39000003,Q46,Greater Manchester,FAE_Primary_Obesity,Female,313
+2014/15,CCG,E38000016,00T,NHS Bolton ,FAE_Primary_Obesity,Female,30
+2014/15,CCG,E38000024,00V,NHS Bury ,FAE_Primary_Obesity,Female,20
+2014/15,CCG,E38000032,00W,NHS Central Manchester ,FAE_Primary_Obesity,Female,31
+2014/15,CCG,E38000080,01D,"NHS Heywood, Middleton & Rochdale ",FAE_Primary_Obesity,Female,49
+2014/15,CCG,E38000123,01M,NHS North Manchester ,FAE_Primary_Obesity,Female,22
+2014/15,CCG,E38000135,00Y,NHS Oldham ,FAE_Primary_Obesity,Female,25
+2014/15,CCG,E38000143,01G,NHS Salford ,FAE_Primary_Obesity,Female,17
+2014/15,CCG,E38000158,01N,NHS South Manchester ,FAE_Primary_Obesity,Female,20
+2014/15,CCG,E38000174,01W,NHS Stockport ,FAE_Primary_Obesity,Female,16
+2014/15,CCG,E38000182,01Y,NHS Tameside and Glossop ,FAE_Primary_Obesity,Female,16
+2014/15,CCG,E38000187,02A,NHS Trafford ,FAE_Primary_Obesity,Female,22
+2014/15,CCG,E38000205,02H,NHS Wigan Borough ,FAE_Primary_Obesity,Female,45
+2014/15,AreaTeam,E39000004,Q47,Lancashire,FAE_Primary_Obesity,Female,140
+2014/15,CCG,E38000014,00Q,NHS Blackburn with Darwen ,FAE_Primary_Obesity,Female,29
+2014/15,CCG,E38000015,00R,NHS Blackpool ,FAE_Primary_Obesity,Female,28
+2014/15,CCG,E38000034,00X,NHS Chorley and South Ribble ,FAE_Primary_Obesity,Female,13
+2014/15,CCG,E38000050,01A,NHS East Lancashire ,FAE_Primary_Obesity,Female,35
+2014/15,CCG,E38000060,02M,NHS Fylde & Wyre ,FAE_Primary_Obesity,Female,10
+2014/15,CCG,E38000065,01E,NHS Greater Preston ,FAE_Primary_Obesity,Female,11
+2014/15,CCG,E38000093,01K,NHS Lancashire North ,FAE_Primary_Obesity,Female,*
+2014/15,CCG,E38000200,02G,NHS West Lancashire ,FAE_Primary_Obesity,Female,*
+2014/15,AreaTeam,E39000005,Q48,Merseyside,FAE_Primary_Obesity,Female,209
+2014/15,CCG,E38000068,01F,NHS Halton ,FAE_Primary_Obesity,Female,21
+2014/15,CCG,E38000091,01J,NHS Knowsley ,FAE_Primary_Obesity,Female,37
+2014/15,CCG,E38000101,99A,NHS Liverpool ,FAE_Primary_Obesity,Female,81
+2014/15,CCG,E38000161,01T,NHS South Sefton ,FAE_Primary_Obesity,Female,33
+2014/15,CCG,E38000170,01V,NHS Southport and Formby ,FAE_Primary_Obesity,Female,13
+2014/15,CCG,E38000172,01X,NHS St Helens ,FAE_Primary_Obesity,Female,24
+2014/15,AreaTeam,E39000006,Q49,"Cumbria, Northumberland, Tyne and Wear",FAE_Primary_Obesity,Female,950
+2014/15,CCG,E38000041,01H,NHS Cumbria ,FAE_Primary_Obesity,Female,71
+2014/15,CCG,E38000061,00F,NHS Gateshead ,FAE_Primary_Obesity,Female,138
+2014/15,CCG,E38000111,00G,NHS Newcastle North and East ,FAE_Primary_Obesity,Female,32
+2014/15,CCG,E38000112,00H,NHS Newcastle West ,FAE_Primary_Obesity,Female,48
+2014/15,CCG,E38000127,99C,NHS North Tyneside ,FAE_Primary_Obesity,Female,56
+2014/15,CCG,E38000130,00L,NHS Northumberland ,FAE_Primary_Obesity,Female,78
+2014/15,CCG,E38000163,00N,NHS South Tyneside ,FAE_Primary_Obesity,Female,152
+2014/15,CCG,E38000176,00P,NHS Sunderland ,FAE_Primary_Obesity,Female,375
+2014/15,AreaTeam,E39000007,Q50,North Yorkshire and Humber,FAE_Primary_Obesity,Female,203
+2014/15,CCG,E38000052,02Y,NHS East Riding of Yorkshire ,FAE_Primary_Obesity,Female,24
+2014/15,CCG,E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",FAE_Primary_Obesity,Female,34
+2014/15,CCG,E38000073,03E,NHS Harrogate and Rural District ,FAE_Primary_Obesity,Female,21
+2014/15,CCG,E38000085,03F,NHS Hull ,FAE_Primary_Obesity,Female,28
+2014/15,CCG,E38000119,03H,NHS North East Lincolnshire ,FAE_Primary_Obesity,Female,11
+2014/15,CCG,E38000122,03K,NHS North Lincolnshire ,FAE_Primary_Obesity,Female,17
+2014/15,CCG,E38000145,03M,NHS Scarborough and Ryedale ,FAE_Primary_Obesity,Female,23
+2014/15,CCG,E38000188,03Q,NHS Vale of York ,FAE_Primary_Obesity,Female,45
+2014/15,AreaTeam,E39000008,Q51,South Yorkshire and Bassetlaw,FAE_Primary_Obesity,Female,170
+2014/15,CCG,E38000006,02P,NHS Barnsley ,FAE_Primary_Obesity,Female,33
+2014/15,CCG,E38000008,02Q,NHS Bassetlaw ,FAE_Primary_Obesity,Female,10
+2014/15,CCG,E38000044,02X,NHS Doncaster ,FAE_Primary_Obesity,Female,49
+2014/15,CCG,E38000141,03L,NHS Rotherham ,FAE_Primary_Obesity,Female,10
+2014/15,CCG,E38000146,03N,NHS Sheffield ,FAE_Primary_Obesity,Female,68
+2014/15,AreaTeam,E39000009,Q52,West Yorkshire,FAE_Primary_Obesity,Female,247
+2014/15,CCG,E38000001,02N,"NHS Airedale, Wharfedale and Craven ",FAE_Primary_Obesity,Female,19
+2014/15,CCG,E38000018,02W,NHS Bradford City ,FAE_Primary_Obesity,Female,10
+2014/15,CCG,E38000019,02R,NHS Bradford Districts ,FAE_Primary_Obesity,Female,36
+2014/15,CCG,E38000025,02T,NHS Calderdale ,FAE_Primary_Obesity,Female,30
+2014/15,CCG,E38000064,03A,NHS Greater Huddersfield ,FAE_Primary_Obesity,Female,27
+2014/15,CCG,E38000094,02V,NHS Leeds North ,FAE_Primary_Obesity,Female,6
+2014/15,CCG,E38000095,03G,NHS Leeds South and East ,FAE_Primary_Obesity,Female,31
+2014/15,CCG,E38000096,03C,NHS Leeds West ,FAE_Primary_Obesity,Female,19
+2014/15,CCG,E38000121,03J,NHS North Kirklees ,FAE_Primary_Obesity,Female,18
+2014/15,CCG,E38000190,03R,NHS Wakefield ,FAE_Primary_Obesity,Female,51
+2014/15,CommissioningRegion,E40000002,Y55,Midlands and East of England,FAE_Primary_Obesity,Female,1793
+2014/15,AreaTeam,E39000010,Q53,"Arden, Herefordshire and Worcestershire",FAE_Primary_Obesity,Female,172
+2014/15,CCG,E38000038,05A,NHS Coventry and Rugby ,FAE_Primary_Obesity,Female,38
+2014/15,CCG,E38000078,05F,NHS Herefordshire ,FAE_Primary_Obesity,Female,24
+2014/15,CCG,E38000139,05J,NHS Redditch and Bromsgrove ,FAE_Primary_Obesity,Female,21
+2014/15,CCG,E38000164,05R,NHS South Warwickshire ,FAE_Primary_Obesity,Female,18
+2014/15,CCG,E38000166,05T,NHS South Worcestershire ,FAE_Primary_Obesity,Female,33
+2014/15,CCG,E38000195,05H,NHS Warwickshire North ,FAE_Primary_Obesity,Female,22
+2014/15,CCG,E38000211,06D,NHS Wyre Forest ,FAE_Primary_Obesity,Female,16
+2014/15,AreaTeam,E39000011,Q54,Birmingham and the Black Country,FAE_Primary_Obesity,Female,359
+2014/15,CCG,E38000012,13P,NHS Birmingham CrossCity ,FAE_Primary_Obesity,Female,90
+2014/15,CCG,E38000013,04X,NHS Birmingham South and Central ,FAE_Primary_Obesity,Female,34
+2014/15,CCG,E38000046,05C,NHS Dudley ,FAE_Primary_Obesity,Female,34
+2014/15,CCG,E38000144,05L,NHS Sandwell and West Birmingham ,FAE_Primary_Obesity,Female,103
+2014/15,CCG,E38000149,05P,NHS Solihull ,FAE_Primary_Obesity,Female,21
+2014/15,CCG,E38000191,05Y,NHS Walsall ,FAE_Primary_Obesity,Female,36
+2014/15,CCG,E38000210,06A,NHS Wolverhampton ,FAE_Primary_Obesity,Female,41
+2014/15,AreaTeam,E39000012,Q55,Derbyshire and Nottinghamshire,FAE_Primary_Obesity,Female,142
+2014/15,CCG,E38000058,03X,NHS Erewash ,FAE_Primary_Obesity,Female,*
+2014/15,CCG,E38000071,03Y,NHS Hardwick ,FAE_Primary_Obesity,Female,12
+2014/15,CCG,E38000103,04E,NHS Mansfield & Ashfield ,FAE_Primary_Obesity,Female,15
+2014/15,CCG,E38000109,04H,NHS Newark & Sherwood ,FAE_Primary_Obesity,Female,12
+2014/15,CCG,E38000115,04J,NHS North Derbyshire ,FAE_Primary_Obesity,Female,32
+2014/15,CCG,E38000132,04K,NHS Nottingham City ,FAE_Primary_Obesity,Female,16
+2014/15,CCG,E38000133,04L,NHS Nottingham North & East ,FAE_Primary_Obesity,Female,10
+2014/15,CCG,E38000134,04M,NHS Nottingham West ,FAE_Primary_Obesity,Female,9
+2014/15,CCG,E38000142,04N,NHS Rushcliffe ,FAE_Primary_Obesity,Female,*
+2014/15,CCG,E38000169,04R,NHS Southern Derbyshire ,FAE_Primary_Obesity,Female,26
+2014/15,AreaTeam,E39000013,Q56,East Anglia,FAE_Primary_Obesity,Female,200
+2014/15,CCG,E38000026,06H,NHS Cambridgeshire and Peterborough ,FAE_Primary_Obesity,Female,63
+2014/15,CCG,E38000063,06M,NHS Great Yarmouth & Waveney ,FAE_Primary_Obesity,Female,25
+2014/15,CCG,E38000086,06L,NHS Ipswich and East Suffolk ,FAE_Primary_Obesity,Female,26
+2014/15,CCG,E38000124,06V,NHS North Norfolk ,FAE_Primary_Obesity,Female,20
+2014/15,CCG,E38000131,06W,NHS Norwich ,FAE_Primary_Obesity,Female,21
+2014/15,CCG,E38000159,06Y,NHS South Norfolk ,FAE_Primary_Obesity,Female,17
+2014/15,CCG,E38000203,07J,NHS West Norfolk ,FAE_Primary_Obesity,Female,16
+2014/15,CCG,E38000204,07K,NHS West Suffolk ,FAE_Primary_Obesity,Female,12
+2014/15,AreaTeam,E39000014,Q57,Essex,FAE_Primary_Obesity,Female,165
+2014/15,CCG,E38000007,99E,NHS Basildon and Brentwood ,FAE_Primary_Obesity,Female,28
+2014/15,CCG,E38000030,99F,"NHS Castle Point, Rayleigh and Rochford ",FAE_Primary_Obesity,Female,18
+2014/15,CCG,E38000106,06Q,NHS Mid Essex ,FAE_Primary_Obesity,Female,14
+2014/15,CCG,E38000117,06T,NHS North East Essex ,FAE_Primary_Obesity,Female,19
+2014/15,CCG,E38000168,99G,NHS Southend ,FAE_Primary_Obesity,Female,26
+2014/15,CCG,E38000185,07G,NHS Thurrock ,FAE_Primary_Obesity,Female,37
+2014/15,CCG,E38000197,07H,NHS West Essex ,FAE_Primary_Obesity,Female,23
+2014/15,AreaTeam,E39000015,Q58,Hertfordshire and the South Midlands,FAE_Primary_Obesity,Female,272
+2014/15,CCG,E38000010,06F,NHS Bedfordshire ,FAE_Primary_Obesity,Female,38
+2014/15,CCG,E38000037,03V,NHS Corby2 ,FAE_Primary_Obesity,Female,*
+2014/15,CCG,E38000049,06K,NHS East and North Hertfordshire ,FAE_Primary_Obesity,Female,62
+2014/15,CCG,E38000079,06N,NHS Herts Valleys ,FAE_Primary_Obesity,Female,67
+2014/15,CCG,E38000102,06P,NHS Luton ,FAE_Primary_Obesity,Female,38
+2014/15,CCG,E38000107,04F,NHS Milton Keynes ,FAE_Primary_Obesity,Female,*
+2014/15,CCG,E38000108,04G,NHS Nene ,FAE_Primary_Obesity,Female,41
+2014/15,AreaTeam,E39000016,Q59,Leicestershire and Lincolnshire,FAE_Primary_Obesity,Female,99
+2014/15,CCG,E38000051,03W,NHS East Leicestershire and Rutland ,FAE_Primary_Obesity,Female,8
+2014/15,CCG,E38000097,04C,NHS Leicester City ,FAE_Primary_Obesity,Female,15
+2014/15,CCG,E38000099,03T,NHS Lincolnshire East ,FAE_Primary_Obesity,Female,25
+2014/15,CCG,E38000100,04D,NHS Lincolnshire West ,FAE_Primary_Obesity,Female,16
+2014/15,CCG,E38000157,99D,NHS South Lincolnshire ,FAE_Primary_Obesity,Female,14
+2014/15,CCG,E38000165,04Q,NHS South West Lincolnshire ,FAE_Primary_Obesity,Female,6
+2014/15,CCG,E38000201,04V,NHS West Leicestershire ,FAE_Primary_Obesity,Female,15
+2014/15,AreaTeam,E39000017,Q60,Shropshire and Staffordshire,FAE_Primary_Obesity,Female,384
+2014/15,CCG,E38000028,04Y,NHS Cannock Chase ,FAE_Primary_Obesity,Female,9
+2014/15,CCG,E38000053,05D,NHS East Staffordshire ,FAE_Primary_Obesity,Female,*
+2014/15,CCG,E38000126,05G,NHS North Staffordshire ,FAE_Primary_Obesity,Female,62
+2014/15,CCG,E38000147,05N,NHS Shropshire ,FAE_Primary_Obesity,Female,58
+2014/15,CCG,E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,FAE_Primary_Obesity,Female,*
+2014/15,CCG,E38000173,05V,NHS Stafford and Surrounds ,FAE_Primary_Obesity,Female,17
+2014/15,CCG,E38000175,05W,NHS Stoke on Trent ,FAE_Primary_Obesity,Female,126
+2014/15,CCG,E38000183,05X,NHS Telford & Wrekin ,FAE_Primary_Obesity,Female,94
+2014/15,CommissioningRegion,E40000003,Y56,London,FAE_Primary_Obesity,Female,2059
+2014/15,AreaTeam,E39000018,Q71,London,FAE_Primary_Obesity,Female,2059
+2014/15,CCG,E38000004,07L,NHS Barking & Dagenham ,FAE_Primary_Obesity,Female,52
+2014/15,CCG,E38000005,07M,NHS Barnet ,FAE_Primary_Obesity,Female,107
+2014/15,CCG,E38000011,07N,NHS Bexley ,FAE_Primary_Obesity,Female,71
+2014/15,CCG,E38000020,07P,NHS Brent ,FAE_Primary_Obesity,Female,102
+2014/15,CCG,E38000023,07Q,NHS Bromley ,FAE_Primary_Obesity,Female,77
+2014/15,CCG,E38000027,07R,NHS Camden ,FAE_Primary_Obesity,Female,67
+2014/15,CCG,E38000031,09A,NHS Central London (Westminster) ,FAE_Primary_Obesity,Female,39
+2014/15,CCG,E38000035,07T,NHS City and Hackney ,FAE_Primary_Obesity,Female,76
+2014/15,CCG,E38000040,07V,NHS Croydon ,FAE_Primary_Obesity,Female,83
+2014/15,CCG,E38000048,07W,NHS Ealing ,FAE_Primary_Obesity,Female,104
+2014/15,CCG,E38000057,07X,NHS Enfield ,FAE_Primary_Obesity,Female,61
+2014/15,CCG,E38000066,08A,NHS Greenwich ,FAE_Primary_Obesity,Female,84
+2014/15,CCG,E38000070,08C,NHS Hammersmith and Fulham ,FAE_Primary_Obesity,Female,43
+2014/15,CCG,E38000072,08D,NHS Haringey ,FAE_Primary_Obesity,Female,47
+2014/15,CCG,E38000074,08E,NHS Harrow ,FAE_Primary_Obesity,Female,54
+2014/15,CCG,E38000077,08F,NHS Havering ,FAE_Primary_Obesity,Female,31
+2014/15,CCG,E38000082,08G,NHS Hillingdon ,FAE_Primary_Obesity,Female,78
+2014/15,CCG,E38000084,07Y,NHS Hounslow ,FAE_Primary_Obesity,Female,83
+2014/15,CCG,E38000088,08H,NHS Islington ,FAE_Primary_Obesity,Female,45
+2014/15,CCG,E38000090,08J,NHS Kingston ,FAE_Primary_Obesity,Female,25
+2014/15,CCG,E38000092,08K,NHS Lambeth ,FAE_Primary_Obesity,Female,99
+2014/15,CCG,E38000098,08L,NHS Lewisham ,FAE_Primary_Obesity,Female,113
+2014/15,CCG,E38000105,08R,NHS Merton ,FAE_Primary_Obesity,Female,38
+2014/15,CCG,E38000113,08M,NHS Newham ,FAE_Primary_Obesity,Female,56
+2014/15,CCG,E38000138,08N,NHS Redbridge ,FAE_Primary_Obesity,Female,32
+2014/15,CCG,E38000140,08P,NHS Richmond ,FAE_Primary_Obesity,Female,25
+2014/15,CCG,E38000171,08Q,NHS Southwark ,FAE_Primary_Obesity,Female,124
+2014/15,CCG,E38000179,08T,NHS Sutton ,FAE_Primary_Obesity,Female,49
+2014/15,CCG,E38000186,08V,NHS Tower Hamlets ,FAE_Primary_Obesity,Female,45
+2014/15,CCG,E38000192,08W,NHS Waltham Forest ,FAE_Primary_Obesity,Female,48
+2014/15,CCG,E38000193,08X,NHS Wandsworth ,FAE_Primary_Obesity,Female,59
+2014/15,CCG,E38000202,08Y,"NHS West London (Kensington and Chelsea, Queen’s Park and Paddington) ",FAE_Primary_Obesity,Female,42
+2014/15,CommissioningRegion,E40000004,Y57,South of England,FAE_Primary_Obesity,Female,1940
+2014/15,AreaTeam,E39000019,Q64,"Bath, Gloucestershire, Swindon and Wiltshire",FAE_Primary_Obesity,Female,109
+2014/15,CCG,E38000009,11E,NHS Bath and North East Somerset ,FAE_Primary_Obesity,Female,15
+2014/15,CCG,E38000062,11M,NHS Gloucestershire ,FAE_Primary_Obesity,Female,38
+2014/15,CCG,E38000181,12D,NHS Swindon ,FAE_Primary_Obesity,Female,25
+2014/15,CCG,E38000206,99N,NHS Wiltshire ,FAE_Primary_Obesity,Female,31
+2014/15,AreaTeam,E39000020,Q65,"Bristol, North Somerset, Somerset and South Gloucestershire",FAE_Primary_Obesity,Female,136
+2014/15,CCG,E38000022,11H,NHS Bristol ,FAE_Primary_Obesity,Female,47
+2014/15,CCG,E38000125,11T,NHS North Somerset ,FAE_Primary_Obesity,Female,14
+2014/15,CCG,E38000150,11X,NHS Somerset ,FAE_Primary_Obesity,Female,51
+2014/15,CCG,E38000155,12A,NHS South Gloucestershire ,FAE_Primary_Obesity,Female,24
+2014/15,AreaTeam,E39000021,Q66,"Devon, Cornwall and Isles of Scilly",FAE_Primary_Obesity,Female,400
+2014/15,CCG,E38000089,11N,NHS Kernow ,FAE_Primary_Obesity,Female,194
+2014/15,CCG,E38000129,99P,"NHS North, East, West Devon ",FAE_Primary_Obesity,Female,179
+2014/15,CCG,E38000152,99Q,NHS South Devon and Torbay ,FAE_Primary_Obesity,Female,27
+2014/15,AreaTeam,E39000022,Q67,Kent and Medway,FAE_Primary_Obesity,Female,331
+2014/15,CCG,E38000002,09C,NHS Ashford ,FAE_Primary_Obesity,Female,15
+2014/15,CCG,E38000029,09E,NHS Canterbury and Coastal ,FAE_Primary_Obesity,Female,29
+2014/15,CCG,E38000043,09J,"NHS Dartford, Gravesham and Swanley ",FAE_Primary_Obesity,Female,76
+2014/15,CCG,E38000104,09W,NHS Medway ,FAE_Primary_Obesity,Female,66
+2014/15,CCG,E38000156,10A,NHS South Kent Coast ,FAE_Primary_Obesity,Female,42
+2014/15,CCG,E38000180,10D,NHS Swale ,FAE_Primary_Obesity,Female,29
+2014/15,CCG,E38000184,10E,NHS Thanet ,FAE_Primary_Obesity,Female,27
+2014/15,CCG,E38000199,99J,NHS West Kent ,FAE_Primary_Obesity,Female,47
+2014/15,AreaTeam,E39000023,Q68,Surrey and Sussex,FAE_Primary_Obesity,Female,401
+2014/15,CCG,E38000021,09D,NHS Brighton & Hove ,FAE_Primary_Obesity,Female,32
+2014/15,CCG,E38000036,09G,NHS Coastal West Sussex ,FAE_Primary_Obesity,Female,87
+2014/15,CCG,E38000039,09H,NHS Crawley ,FAE_Primary_Obesity,Female,27
+2014/15,CCG,E38000054,09L,NHS East Surrey ,FAE_Primary_Obesity,Female,23
+2014/15,CCG,E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",FAE_Primary_Obesity,Female,36
+2014/15,CCG,E38000067,09N,NHS Guildford and Waverley,FAE_Primary_Obesity,Female,24
+2014/15,CCG,E38000076,09P,NHS Hastings & Rother ,FAE_Primary_Obesity,Female,26
+2014/15,CCG,E38000081,99K,NHS High Weald Lewes Havens ,FAE_Primary_Obesity,Female,29
+2014/15,CCG,E38000083,09X,NHS Horsham and Mid Sussex ,FAE_Primary_Obesity,Female,28
+2014/15,CCG,E38000128,09Y,NHS North West Surrey ,FAE_Primary_Obesity,Female,50
+2014/15,CCG,E38000177,99H,NHS Surrey Downs ,FAE_Primary_Obesity,Female,31
+2014/15,CCG,E38000178,10C,NHS Surrey Heath ,FAE_Primary_Obesity,Female,8
+2014/15,AreaTeam,E39000024,Q69,Thames Valley,FAE_Primary_Obesity,Female,188
+2014/15,CCG,E38000003,10Y,NHS Aylesbury Vale ,FAE_Primary_Obesity,Female,13
+2014/15,CCG,E38000017,10G,NHS Bracknell and Ascot ,FAE_Primary_Obesity,Female,8
+2014/15,CCG,E38000033,10H,NHS Chiltern2,FAE_Primary_Obesity,Female,20
+2014/15,CCG,E38000110,10M,NHS Newbury and District ,FAE_Primary_Obesity,Female,14
+2014/15,CCG,E38000114,10N,NHS North & West Reading ,FAE_Primary_Obesity,Female,13
+2014/15,CCG,E38000136,10Q,NHS Oxfordshire ,FAE_Primary_Obesity,Female,70
+2014/15,CCG,E38000148,10T,NHS Slough ,FAE_Primary_Obesity,Female,14
+2014/15,CCG,E38000160,10W,NHS South Reading ,FAE_Primary_Obesity,Female,15
+2014/15,CCG,E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",FAE_Primary_Obesity,Female,7
+2014/15,CCG,E38000209,11D,NHS Wokingham ,FAE_Primary_Obesity,Female,14
+2014/15,AreaTeam,E39000025,Q70,Wessex,FAE_Primary_Obesity,Female,375
+2014/15,CCG,E38000045,11J,NHS Dorset ,FAE_Primary_Obesity,Female,62
+2014/15,CCG,E38000059,10K,NHS Fareham and Gosport ,FAE_Primary_Obesity,Female,27
+2014/15,CCG,E38000087,10L,NHS Isle of Wight ,FAE_Primary_Obesity,Female,10
+2014/15,CCG,E38000118,99M,NHS North East Hampshire and Farnham ,FAE_Primary_Obesity,Female,23
+2014/15,CCG,E38000120,10J,NHS North Hampshire ,FAE_Primary_Obesity,Female,28
+2014/15,CCG,E38000137,10R,NHS Portsmouth ,FAE_Primary_Obesity,Female,77
+2014/15,CCG,E38000154,10V,NHS South Eastern Hampshire ,FAE_Primary_Obesity,Female,36
+2014/15,CCG,E38000167,10X,NHS Southampton ,FAE_Primary_Obesity,Female,55
+2014/15,CCG,E38000198,11A,NHS West Hampshire ,FAE_Primary_Obesity,Female,57
+2014/15,National,E92000001,ENG,England,FAE_PrimarySecondary_Obesity,All persons,440288
+2014/15,National,U,U,Unknown,FAE_PrimarySecondary_Obesity,All persons,139
+2014/15,CommissioningRegion,E40000001,Y54,North of England,FAE_PrimarySecondary_Obesity,All persons,137596
+2014/15,AreaTeam,E39000001,Q44,"Cheshire, Warrington and Wirral",FAE_PrimarySecondary_Obesity,All persons,16929
+2014/15,CCG,E38000056,01C,NHS Eastern Cheshire ,FAE_PrimarySecondary_Obesity,All persons,605
+2014/15,CCG,E38000151,01R,NHS South Cheshire ,FAE_PrimarySecondary_Obesity,All persons,1613
+2014/15,CCG,E38000189,02D,NHS Vale Royal ,FAE_PrimarySecondary_Obesity,All persons,907
+2014/15,CCG,E38000194,02E,NHS Warrington ,FAE_PrimarySecondary_Obesity,All persons,1297
+2014/15,CCG,E38000196,02F,NHS West Cheshire ,FAE_PrimarySecondary_Obesity,All persons,3221
+2014/15,CCG,E38000208,12F,NHS Wirral ,FAE_PrimarySecondary_Obesity,All persons,9286
+2014/15,AreaTeam,E39000002,Q45,"Durham, Darlington and Tees",FAE_PrimarySecondary_Obesity,All persons,5675
+2014/15,CCG,E38000042,00C,NHS Darlington ,FAE_PrimarySecondary_Obesity,All persons,348
+2014/15,CCG,E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",FAE_PrimarySecondary_Obesity,All persons,1296
+2014/15,CCG,E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,FAE_PrimarySecondary_Obesity,All persons,1488
+2014/15,CCG,E38000116,00J,NHS North Durham ,FAE_PrimarySecondary_Obesity,All persons,1257
+2014/15,CCG,E38000162,00M,NHS South Tees ,FAE_PrimarySecondary_Obesity,All persons,1286
+2014/15,AreaTeam,E39000003,Q46,Greater Manchester,FAE_PrimarySecondary_Obesity,All persons,24695
+2014/15,CCG,E38000016,00T,NHS Bolton ,FAE_PrimarySecondary_Obesity,All persons,1803
+2014/15,CCG,E38000024,00V,NHS Bury ,FAE_PrimarySecondary_Obesity,All persons,1122
+2014/15,CCG,E38000032,00W,NHS Central Manchester ,FAE_PrimarySecondary_Obesity,All persons,1550
+2014/15,CCG,E38000080,01D,"NHS Heywood, Middleton & Rochdale ",FAE_PrimarySecondary_Obesity,All persons,1566
+2014/15,CCG,E38000123,01M,NHS North Manchester ,FAE_PrimarySecondary_Obesity,All persons,1183
+2014/15,CCG,E38000135,00Y,NHS Oldham ,FAE_PrimarySecondary_Obesity,All persons,1602
+2014/15,CCG,E38000143,01G,NHS Salford ,FAE_PrimarySecondary_Obesity,All persons,4497
+2014/15,CCG,E38000158,01N,NHS South Manchester ,FAE_PrimarySecondary_Obesity,All persons,1359
+2014/15,CCG,E38000174,01W,NHS Stockport ,FAE_PrimarySecondary_Obesity,All persons,2340
+2014/15,CCG,E38000182,01Y,NHS Tameside and Glossop ,FAE_PrimarySecondary_Obesity,All persons,2483
+2014/15,CCG,E38000187,02A,NHS Trafford ,FAE_PrimarySecondary_Obesity,All persons,1490
+2014/15,CCG,E38000205,02H,NHS Wigan Borough ,FAE_PrimarySecondary_Obesity,All persons,3700
+2014/15,AreaTeam,E39000004,Q47,Lancashire,FAE_PrimarySecondary_Obesity,All persons,13651
+2014/15,CCG,E38000014,00Q,NHS Blackburn with Darwen ,FAE_PrimarySecondary_Obesity,All persons,1661
+2014/15,CCG,E38000015,00R,NHS Blackpool ,FAE_PrimarySecondary_Obesity,All persons,745
+2014/15,CCG,E38000034,00X,NHS Chorley and South Ribble ,FAE_PrimarySecondary_Obesity,All persons,1835
+2014/15,CCG,E38000050,01A,NHS East Lancashire ,FAE_PrimarySecondary_Obesity,All persons,3859
+2014/15,CCG,E38000060,02M,NHS Fylde & Wyre ,FAE_PrimarySecondary_Obesity,All persons,704
+2014/15,CCG,E38000065,01E,NHS Greater Preston ,FAE_PrimarySecondary_Obesity,All persons,1993
+2014/15,CCG,E38000093,01K,NHS Lancashire North ,FAE_PrimarySecondary_Obesity,All persons,1332
+2014/15,CCG,E38000200,02G,NHS West Lancashire ,FAE_PrimarySecondary_Obesity,All persons,1522
+2014/15,AreaTeam,E39000005,Q48,Merseyside,FAE_PrimarySecondary_Obesity,All persons,12018
+2014/15,CCG,E38000068,01F,NHS Halton ,FAE_PrimarySecondary_Obesity,All persons,1351
+2014/15,CCG,E38000091,01J,NHS Knowsley ,FAE_PrimarySecondary_Obesity,All persons,1882
+2014/15,CCG,E38000101,99A,NHS Liverpool ,FAE_PrimarySecondary_Obesity,All persons,3765
+2014/15,CCG,E38000161,01T,NHS South Sefton ,FAE_PrimarySecondary_Obesity,All persons,1509
+2014/15,CCG,E38000170,01V,NHS Southport and Formby ,FAE_PrimarySecondary_Obesity,All persons,1401
+2014/15,CCG,E38000172,01X,NHS St Helens ,FAE_PrimarySecondary_Obesity,All persons,2110
+2014/15,AreaTeam,E39000006,Q49,"Cumbria, Northumberland, Tyne and Wear",FAE_PrimarySecondary_Obesity,All persons,17155
+2014/15,CCG,E38000041,01H,NHS Cumbria ,FAE_PrimarySecondary_Obesity,All persons,3416
+2014/15,CCG,E38000061,00F,NHS Gateshead ,FAE_PrimarySecondary_Obesity,All persons,1450
+2014/15,CCG,E38000111,00G,NHS Newcastle North and East ,FAE_PrimarySecondary_Obesity,All persons,1016
+2014/15,CCG,E38000112,00H,NHS Newcastle West ,FAE_PrimarySecondary_Obesity,All persons,1271
+2014/15,CCG,E38000127,99C,NHS North Tyneside ,FAE_PrimarySecondary_Obesity,All persons,2926
+2014/15,CCG,E38000130,00L,NHS Northumberland ,FAE_PrimarySecondary_Obesity,All persons,4456
+2014/15,CCG,E38000163,00N,NHS South Tyneside ,FAE_PrimarySecondary_Obesity,All persons,738
+2014/15,CCG,E38000176,00P,NHS Sunderland ,FAE_PrimarySecondary_Obesity,All persons,1882
+2014/15,AreaTeam,E39000007,Q50,North Yorkshire and Humber,FAE_PrimarySecondary_Obesity,All persons,11466
+2014/15,CCG,E38000052,02Y,NHS East Riding of Yorkshire ,FAE_PrimarySecondary_Obesity,All persons,1557
+2014/15,CCG,E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",FAE_PrimarySecondary_Obesity,All persons,446
+2014/15,CCG,E38000073,03E,NHS Harrogate and Rural District ,FAE_PrimarySecondary_Obesity,All persons,1245
+2014/15,CCG,E38000085,03F,NHS Hull ,FAE_PrimarySecondary_Obesity,All persons,1277
+2014/15,CCG,E38000119,03H,NHS North East Lincolnshire ,FAE_PrimarySecondary_Obesity,All persons,2058
+2014/15,CCG,E38000122,03K,NHS North Lincolnshire ,FAE_PrimarySecondary_Obesity,All persons,1033
+2014/15,CCG,E38000145,03M,NHS Scarborough and Ryedale ,FAE_PrimarySecondary_Obesity,All persons,695
+2014/15,CCG,E38000188,03Q,NHS Vale of York ,FAE_PrimarySecondary_Obesity,All persons,3155
+2014/15,AreaTeam,E39000008,Q51,South Yorkshire and Bassetlaw,FAE_PrimarySecondary_Obesity,All persons,8503
+2014/15,CCG,E38000006,02P,NHS Barnsley ,FAE_PrimarySecondary_Obesity,All persons,881
+2014/15,CCG,E38000008,02Q,NHS Bassetlaw ,FAE_PrimarySecondary_Obesity,All persons,460
+2014/15,CCG,E38000044,02X,NHS Doncaster ,FAE_PrimarySecondary_Obesity,All persons,1244
+2014/15,CCG,E38000141,03L,NHS Rotherham ,FAE_PrimarySecondary_Obesity,All persons,2109
+2014/15,CCG,E38000146,03N,NHS Sheffield ,FAE_PrimarySecondary_Obesity,All persons,3809
+2014/15,AreaTeam,E39000009,Q52,West Yorkshire,FAE_PrimarySecondary_Obesity,All persons,27504
+2014/15,CCG,E38000001,02N,"NHS Airedale, Wharfedale and Craven ",FAE_PrimarySecondary_Obesity,All persons,3486
+2014/15,CCG,E38000018,02W,NHS Bradford City ,FAE_PrimarySecondary_Obesity,All persons,1369
+2014/15,CCG,E38000019,02R,NHS Bradford Districts ,FAE_PrimarySecondary_Obesity,All persons,6205
+2014/15,CCG,E38000025,02T,NHS Calderdale ,FAE_PrimarySecondary_Obesity,All persons,1411
+2014/15,CCG,E38000064,03A,NHS Greater Huddersfield ,FAE_PrimarySecondary_Obesity,All persons,1514
+2014/15,CCG,E38000094,02V,NHS Leeds North ,FAE_PrimarySecondary_Obesity,All persons,1494
+2014/15,CCG,E38000095,03G,NHS Leeds South and East ,FAE_PrimarySecondary_Obesity,All persons,2417
+2014/15,CCG,E38000096,03C,NHS Leeds West ,FAE_PrimarySecondary_Obesity,All persons,2542
+2014/15,CCG,E38000121,03J,NHS North Kirklees ,FAE_PrimarySecondary_Obesity,All persons,2060
+2014/15,CCG,E38000190,03R,NHS Wakefield ,FAE_PrimarySecondary_Obesity,All persons,5006
+2014/15,CommissioningRegion,E40000002,Y55,Midlands and East of England,FAE_PrimarySecondary_Obesity,All persons,139267
+2014/15,AreaTeam,E39000010,Q53,"Arden, Herefordshire and Worcestershire",FAE_PrimarySecondary_Obesity,All persons,21613
+2014/15,CCG,E38000038,05A,NHS Coventry and Rugby ,FAE_PrimarySecondary_Obesity,All persons,7110
+2014/15,CCG,E38000078,05F,NHS Herefordshire ,FAE_PrimarySecondary_Obesity,All persons,845
+2014/15,CCG,E38000139,05J,NHS Redditch and Bromsgrove ,FAE_PrimarySecondary_Obesity,All persons,3513
+2014/15,CCG,E38000164,05R,NHS South Warwickshire ,FAE_PrimarySecondary_Obesity,All persons,1773
+2014/15,CCG,E38000166,05T,NHS South Worcestershire ,FAE_PrimarySecondary_Obesity,All persons,4279
+2014/15,CCG,E38000195,05H,NHS Warwickshire North ,FAE_PrimarySecondary_Obesity,All persons,2469
+2014/15,CCG,E38000211,06D,NHS Wyre Forest ,FAE_PrimarySecondary_Obesity,All persons,1624
+2014/15,AreaTeam,E39000011,Q54,Birmingham and the Black Country,FAE_PrimarySecondary_Obesity,All persons,21786
+2014/15,CCG,E38000012,13P,NHS Birmingham CrossCity ,FAE_PrimarySecondary_Obesity,All persons,5945
+2014/15,CCG,E38000013,04X,NHS Birmingham South and Central ,FAE_PrimarySecondary_Obesity,All persons,2258
+2014/15,CCG,E38000046,05C,NHS Dudley ,FAE_PrimarySecondary_Obesity,All persons,4739
+2014/15,CCG,E38000144,05L,NHS Sandwell and West Birmingham ,FAE_PrimarySecondary_Obesity,All persons,3658
+2014/15,CCG,E38000149,05P,NHS Solihull ,FAE_PrimarySecondary_Obesity,All persons,896
+2014/15,CCG,E38000191,05Y,NHS Walsall ,FAE_PrimarySecondary_Obesity,All persons,1707
+2014/15,CCG,E38000210,06A,NHS Wolverhampton ,FAE_PrimarySecondary_Obesity,All persons,2583
+2014/15,AreaTeam,E39000012,Q55,Derbyshire and Nottinghamshire,FAE_PrimarySecondary_Obesity,All persons,20196
+2014/15,CCG,E38000058,03X,NHS Erewash ,FAE_PrimarySecondary_Obesity,All persons,1078
+2014/15,CCG,E38000071,03Y,NHS Hardwick ,FAE_PrimarySecondary_Obesity,All persons,1227
+2014/15,CCG,E38000103,04E,NHS Mansfield & Ashfield ,FAE_PrimarySecondary_Obesity,All persons,1706
+2014/15,CCG,E38000109,04H,NHS Newark & Sherwood ,FAE_PrimarySecondary_Obesity,All persons,1032
+2014/15,CCG,E38000115,04J,NHS North Derbyshire ,FAE_PrimarySecondary_Obesity,All persons,2380
+2014/15,CCG,E38000132,04K,NHS Nottingham City ,FAE_PrimarySecondary_Obesity,All persons,3782
+2014/15,CCG,E38000133,04L,NHS Nottingham North & East ,FAE_PrimarySecondary_Obesity,All persons,1844
+2014/15,CCG,E38000134,04M,NHS Nottingham West ,FAE_PrimarySecondary_Obesity,All persons,1500
+2014/15,CCG,E38000142,04N,NHS Rushcliffe ,FAE_PrimarySecondary_Obesity,All persons,1050
+2014/15,CCG,E38000169,04R,NHS Southern Derbyshire ,FAE_PrimarySecondary_Obesity,All persons,4597
+2014/15,AreaTeam,E39000013,Q56,East Anglia,FAE_PrimarySecondary_Obesity,All persons,19007
+2014/15,CCG,E38000026,06H,NHS Cambridgeshire and Peterborough ,FAE_PrimarySecondary_Obesity,All persons,5410
+2014/15,CCG,E38000063,06M,NHS Great Yarmouth & Waveney ,FAE_PrimarySecondary_Obesity,All persons,1521
+2014/15,CCG,E38000086,06L,NHS Ipswich and East Suffolk ,FAE_PrimarySecondary_Obesity,All persons,4249
+2014/15,CCG,E38000124,06V,NHS North Norfolk ,FAE_PrimarySecondary_Obesity,All persons,863
+2014/15,CCG,E38000131,06W,NHS Norwich ,FAE_PrimarySecondary_Obesity,All persons,893
+2014/15,CCG,E38000159,06Y,NHS South Norfolk ,FAE_PrimarySecondary_Obesity,All persons,1362
+2014/15,CCG,E38000203,07J,NHS West Norfolk ,FAE_PrimarySecondary_Obesity,All persons,2353
+2014/15,CCG,E38000204,07K,NHS West Suffolk ,FAE_PrimarySecondary_Obesity,All persons,2356
+2014/15,AreaTeam,E39000014,Q57,Essex,FAE_PrimarySecondary_Obesity,All persons,11717
+2014/15,CCG,E38000007,99E,NHS Basildon and Brentwood ,FAE_PrimarySecondary_Obesity,All persons,2608
+2014/15,CCG,E38000030,99F,"NHS Castle Point, Rayleigh and Rochford ",FAE_PrimarySecondary_Obesity,All persons,596
+2014/15,CCG,E38000106,06Q,NHS Mid Essex ,FAE_PrimarySecondary_Obesity,All persons,1900
+2014/15,CCG,E38000117,06T,NHS North East Essex ,FAE_PrimarySecondary_Obesity,All persons,1914
+2014/15,CCG,E38000168,99G,NHS Southend ,FAE_PrimarySecondary_Obesity,All persons,578
+2014/15,CCG,E38000185,07G,NHS Thurrock ,FAE_PrimarySecondary_Obesity,All persons,2174
+2014/15,CCG,E38000197,07H,NHS West Essex ,FAE_PrimarySecondary_Obesity,All persons,1947
+2014/15,AreaTeam,E39000015,Q58,Hertfordshire and the South Midlands,FAE_PrimarySecondary_Obesity,All persons,24329
+2014/15,CCG,E38000010,06F,NHS Bedfordshire ,FAE_PrimarySecondary_Obesity,All persons,3238
+2014/15,CCG,E38000037,03V,NHS Corby2 ,FAE_PrimarySecondary_Obesity,All persons,533
+2014/15,CCG,E38000049,06K,NHS East and North Hertfordshire ,FAE_PrimarySecondary_Obesity,All persons,2547
+2014/15,CCG,E38000079,06N,NHS Herts Valleys ,FAE_PrimarySecondary_Obesity,All persons,9075
+2014/15,CCG,E38000102,06P,NHS Luton ,FAE_PrimarySecondary_Obesity,All persons,3734
+2014/15,CCG,E38000107,04F,NHS Milton Keynes ,FAE_PrimarySecondary_Obesity,All persons,1692
+2014/15,CCG,E38000108,04G,NHS Nene ,FAE_PrimarySecondary_Obesity,All persons,3510
+2014/15,AreaTeam,E39000016,Q59,Leicestershire and Lincolnshire,FAE_PrimarySecondary_Obesity,All persons,9806
+2014/15,CCG,E38000051,03W,NHS East Leicestershire and Rutland ,FAE_PrimarySecondary_Obesity,All persons,1130
+2014/15,CCG,E38000097,04C,NHS Leicester City ,FAE_PrimarySecondary_Obesity,All persons,1188
+2014/15,CCG,E38000099,03T,NHS Lincolnshire East ,FAE_PrimarySecondary_Obesity,All persons,2337
+2014/15,CCG,E38000100,04D,NHS Lincolnshire West ,FAE_PrimarySecondary_Obesity,All persons,1817
+2014/15,CCG,E38000157,99D,NHS South Lincolnshire ,FAE_PrimarySecondary_Obesity,All persons,934
+2014/15,CCG,E38000165,04Q,NHS South West Lincolnshire ,FAE_PrimarySecondary_Obesity,All persons,823
+2014/15,CCG,E38000201,04V,NHS West Leicestershire ,FAE_PrimarySecondary_Obesity,All persons,1577
+2014/15,AreaTeam,E39000017,Q60,Shropshire and Staffordshire,FAE_PrimarySecondary_Obesity,All persons,10813
+2014/15,CCG,E38000028,04Y,NHS Cannock Chase ,FAE_PrimarySecondary_Obesity,All persons,948
+2014/15,CCG,E38000053,05D,NHS East Staffordshire ,FAE_PrimarySecondary_Obesity,All persons,670
+2014/15,CCG,E38000126,05G,NHS North Staffordshire ,FAE_PrimarySecondary_Obesity,All persons,1336
+2014/15,CCG,E38000147,05N,NHS Shropshire ,FAE_PrimarySecondary_Obesity,All persons,2047
+2014/15,CCG,E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,FAE_PrimarySecondary_Obesity,All persons,1355
+2014/15,CCG,E38000173,05V,NHS Stafford and Surrounds ,FAE_PrimarySecondary_Obesity,All persons,938
+2014/15,CCG,E38000175,05W,NHS Stoke on Trent ,FAE_PrimarySecondary_Obesity,All persons,2008
+2014/15,CCG,E38000183,05X,NHS Telford & Wrekin ,FAE_PrimarySecondary_Obesity,All persons,1511
+2014/15,CommissioningRegion,E40000003,Y56,London,FAE_PrimarySecondary_Obesity,All persons,44893
+2014/15,AreaTeam,E39000018,Q71,London,FAE_PrimarySecondary_Obesity,All persons,44893
+2014/15,CCG,E38000004,07L,NHS Barking & Dagenham ,FAE_PrimarySecondary_Obesity,All persons,1226
+2014/15,CCG,E38000005,07M,NHS Barnet ,FAE_PrimarySecondary_Obesity,All persons,1626
+2014/15,CCG,E38000011,07N,NHS Bexley ,FAE_PrimarySecondary_Obesity,All persons,1327
+2014/15,CCG,E38000020,07P,NHS Brent ,FAE_PrimarySecondary_Obesity,All persons,3015
+2014/15,CCG,E38000023,07Q,NHS Bromley ,FAE_PrimarySecondary_Obesity,All persons,953
+2014/15,CCG,E38000027,07R,NHS Camden ,FAE_PrimarySecondary_Obesity,All persons,1097
+2014/15,CCG,E38000031,09A,NHS Central London (Westminster) ,FAE_PrimarySecondary_Obesity,All persons,610
+2014/15,CCG,E38000035,07T,NHS City and Hackney ,FAE_PrimarySecondary_Obesity,All persons,1923
+2014/15,CCG,E38000040,07V,NHS Croydon ,FAE_PrimarySecondary_Obesity,All persons,1345
+2014/15,CCG,E38000048,07W,NHS Ealing ,FAE_PrimarySecondary_Obesity,All persons,2316
+2014/15,CCG,E38000057,07X,NHS Enfield ,FAE_PrimarySecondary_Obesity,All persons,2547
+2014/15,CCG,E38000066,08A,NHS Greenwich ,FAE_PrimarySecondary_Obesity,All persons,1287
+2014/15,CCG,E38000070,08C,NHS Hammersmith and Fulham ,FAE_PrimarySecondary_Obesity,All persons,566
+2014/15,CCG,E38000072,08D,NHS Haringey ,FAE_PrimarySecondary_Obesity,All persons,1650
+2014/15,CCG,E38000074,08E,NHS Harrow ,FAE_PrimarySecondary_Obesity,All persons,2308
+2014/15,CCG,E38000077,08F,NHS Havering ,FAE_PrimarySecondary_Obesity,All persons,1451
+2014/15,CCG,E38000082,08G,NHS Hillingdon ,FAE_PrimarySecondary_Obesity,All persons,2428
+2014/15,CCG,E38000084,07Y,NHS Hounslow ,FAE_PrimarySecondary_Obesity,All persons,1080
+2014/15,CCG,E38000088,08H,NHS Islington ,FAE_PrimarySecondary_Obesity,All persons,1667
+2014/15,CCG,E38000090,08J,NHS Kingston ,FAE_PrimarySecondary_Obesity,All persons,428
+2014/15,CCG,E38000092,08K,NHS Lambeth ,FAE_PrimarySecondary_Obesity,All persons,1513
+2014/15,CCG,E38000098,08L,NHS Lewisham ,FAE_PrimarySecondary_Obesity,All persons,964
+2014/15,CCG,E38000105,08R,NHS Merton ,FAE_PrimarySecondary_Obesity,All persons,700
+2014/15,CCG,E38000113,08M,NHS Newham ,FAE_PrimarySecondary_Obesity,All persons,1671
+2014/15,CCG,E38000138,08N,NHS Redbridge ,FAE_PrimarySecondary_Obesity,All persons,1364
+2014/15,CCG,E38000140,08P,NHS Richmond ,FAE_PrimarySecondary_Obesity,All persons,460
+2014/15,CCG,E38000171,08Q,NHS Southwark ,FAE_PrimarySecondary_Obesity,All persons,1651
+2014/15,CCG,E38000179,08T,NHS Sutton ,FAE_PrimarySecondary_Obesity,All persons,944
+2014/15,CCG,E38000186,08V,NHS Tower Hamlets ,FAE_PrimarySecondary_Obesity,All persons,1102
+2014/15,CCG,E38000192,08W,NHS Waltham Forest ,FAE_PrimarySecondary_Obesity,All persons,1999
+2014/15,CCG,E38000193,08X,NHS Wandsworth ,FAE_PrimarySecondary_Obesity,All persons,910
+2014/15,CCG,E38000202,08Y,"NHS West London (Kensington and Chelsea, Queen’s Park and Paddington) ",FAE_PrimarySecondary_Obesity,All persons,765
+2014/15,CommissioningRegion,E40000004,Y57,South of England,FAE_PrimarySecondary_Obesity,All persons,118393
+2014/15,AreaTeam,E39000019,Q64,"Bath, Gloucestershire, Swindon and Wiltshire",FAE_PrimarySecondary_Obesity,All persons,9862
+2014/15,CCG,E38000009,11E,NHS Bath and North East Somerset ,FAE_PrimarySecondary_Obesity,All persons,1275
+2014/15,CCG,E38000062,11M,NHS Gloucestershire ,FAE_PrimarySecondary_Obesity,All persons,1696
+2014/15,CCG,E38000181,12D,NHS Swindon ,FAE_PrimarySecondary_Obesity,All persons,2022
+2014/15,CCG,E38000206,99N,NHS Wiltshire ,FAE_PrimarySecondary_Obesity,All persons,4869
+2014/15,AreaTeam,E39000020,Q65,"Bristol, North Somerset, Somerset and South Gloucestershire",FAE_PrimarySecondary_Obesity,All persons,14595
+2014/15,CCG,E38000022,11H,NHS Bristol ,FAE_PrimarySecondary_Obesity,All persons,5275
+2014/15,CCG,E38000125,11T,NHS North Somerset ,FAE_PrimarySecondary_Obesity,All persons,2047
+2014/15,CCG,E38000150,11X,NHS Somerset ,FAE_PrimarySecondary_Obesity,All persons,4622
+2014/15,CCG,E38000155,12A,NHS South Gloucestershire ,FAE_PrimarySecondary_Obesity,All persons,2651
+2014/15,AreaTeam,E39000021,Q66,"Devon, Cornwall and Isles of Scilly",FAE_PrimarySecondary_Obesity,All persons,25409
+2014/15,CCG,E38000089,11N,NHS Kernow ,FAE_PrimarySecondary_Obesity,All persons,11521
+2014/15,CCG,E38000129,99P,"NHS North, East, West Devon ",FAE_PrimarySecondary_Obesity,All persons,9446
+2014/15,CCG,E38000152,99Q,NHS South Devon and Torbay ,FAE_PrimarySecondary_Obesity,All persons,4442
+2014/15,AreaTeam,E39000022,Q67,Kent and Medway,FAE_PrimarySecondary_Obesity,All persons,12439
+2014/15,CCG,E38000002,09C,NHS Ashford ,FAE_PrimarySecondary_Obesity,All persons,445
+2014/15,CCG,E38000029,09E,NHS Canterbury and Coastal ,FAE_PrimarySecondary_Obesity,All persons,845
+2014/15,CCG,E38000043,09J,"NHS Dartford, Gravesham and Swanley ",FAE_PrimarySecondary_Obesity,All persons,2557
+2014/15,CCG,E38000104,09W,NHS Medway ,FAE_PrimarySecondary_Obesity,All persons,3318
+2014/15,CCG,E38000156,10A,NHS South Kent Coast ,FAE_PrimarySecondary_Obesity,All persons,837
+2014/15,CCG,E38000180,10D,NHS Swale ,FAE_PrimarySecondary_Obesity,All persons,1461
+2014/15,CCG,E38000184,10E,NHS Thanet ,FAE_PrimarySecondary_Obesity,All persons,416
+2014/15,CCG,E38000199,99J,NHS West Kent ,FAE_PrimarySecondary_Obesity,All persons,2560
+2014/15,AreaTeam,E39000023,Q68,Surrey and Sussex,FAE_PrimarySecondary_Obesity,All persons,16884
+2014/15,CCG,E38000021,09D,NHS Brighton & Hove ,FAE_PrimarySecondary_Obesity,All persons,1867
+2014/15,CCG,E38000036,09G,NHS Coastal West Sussex ,FAE_PrimarySecondary_Obesity,All persons,5622
+2014/15,CCG,E38000039,09H,NHS Crawley ,FAE_PrimarySecondary_Obesity,All persons,651
+2014/15,CCG,E38000054,09L,NHS East Surrey ,FAE_PrimarySecondary_Obesity,All persons,915
+2014/15,CCG,E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",FAE_PrimarySecondary_Obesity,All persons,892
+2014/15,CCG,E38000067,09N,NHS Guildford and Waverley,FAE_PrimarySecondary_Obesity,All persons,441
+2014/15,CCG,E38000076,09P,NHS Hastings & Rother ,FAE_PrimarySecondary_Obesity,All persons,1119
+2014/15,CCG,E38000081,99K,NHS High Weald Lewes Havens ,FAE_PrimarySecondary_Obesity,All persons,1174
+2014/15,CCG,E38000083,09X,NHS Horsham and Mid Sussex ,FAE_PrimarySecondary_Obesity,All persons,1612
+2014/15,CCG,E38000128,09Y,NHS North West Surrey ,FAE_PrimarySecondary_Obesity,All persons,1363
+2014/15,CCG,E38000177,99H,NHS Surrey Downs ,FAE_PrimarySecondary_Obesity,All persons,1087
+2014/15,CCG,E38000178,10C,NHS Surrey Heath ,FAE_PrimarySecondary_Obesity,All persons,141
+2014/15,AreaTeam,E39000024,Q69,Thames Valley,FAE_PrimarySecondary_Obesity,All persons,15241
+2014/15,CCG,E38000003,10Y,NHS Aylesbury Vale ,FAE_PrimarySecondary_Obesity,All persons,1081
+2014/15,CCG,E38000017,10G,NHS Bracknell and Ascot ,FAE_PrimarySecondary_Obesity,All persons,856
+2014/15,CCG,E38000033,10H,NHS Chiltern2,FAE_PrimarySecondary_Obesity,All persons,2305
+2014/15,CCG,E38000110,10M,NHS Newbury and District ,FAE_PrimarySecondary_Obesity,All persons,721
+2014/15,CCG,E38000114,10N,NHS North & West Reading ,FAE_PrimarySecondary_Obesity,All persons,877
+2014/15,CCG,E38000136,10Q,NHS Oxfordshire ,FAE_PrimarySecondary_Obesity,All persons,3017
+2014/15,CCG,E38000148,10T,NHS Slough ,FAE_PrimarySecondary_Obesity,All persons,2524
+2014/15,CCG,E38000160,10W,NHS South Reading ,FAE_PrimarySecondary_Obesity,All persons,1039
+2014/15,CCG,E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",FAE_PrimarySecondary_Obesity,All persons,1709
+2014/15,CCG,E38000209,11D,NHS Wokingham ,FAE_PrimarySecondary_Obesity,All persons,1112
+2014/15,AreaTeam,E39000025,Q70,Wessex,FAE_PrimarySecondary_Obesity,All persons,23963
+2014/15,CCG,E38000045,11J,NHS Dorset ,FAE_PrimarySecondary_Obesity,All persons,8298
+2014/15,CCG,E38000059,10K,NHS Fareham and Gosport ,FAE_PrimarySecondary_Obesity,All persons,1219
+2014/15,CCG,E38000087,10L,NHS Isle of Wight ,FAE_PrimarySecondary_Obesity,All persons,1641
+2014/15,CCG,E38000118,99M,NHS North East Hampshire and Farnham ,FAE_PrimarySecondary_Obesity,All persons,366
+2014/15,CCG,E38000120,10J,NHS North Hampshire ,FAE_PrimarySecondary_Obesity,All persons,587
+2014/15,CCG,E38000137,10R,NHS Portsmouth ,FAE_PrimarySecondary_Obesity,All persons,1182
+2014/15,CCG,E38000154,10V,NHS South Eastern Hampshire ,FAE_PrimarySecondary_Obesity,All persons,1213
+2014/15,CCG,E38000167,10X,NHS Southampton ,FAE_PrimarySecondary_Obesity,All persons,4304
+2014/15,CCG,E38000198,11A,NHS West Hampshire ,FAE_PrimarySecondary_Obesity,All persons,5153
+2014/15,National,E92000001,,England,FAE_PrimarySecondary_Obesity,Male,440288
+2014/15,National,U,U,Unknown,FAE_PrimarySecondary_Obesity,Male,139
+2014/15,CommissioningRegion,E40000001,Y54,North of England,FAE_PrimarySecondary_Obesity,Male,137596
+2014/15,AreaTeam,E39000001,Q44,"Cheshire, Warrington and Wirral",FAE_PrimarySecondary_Obesity,Male,16929
+2014/15,CCG,E38000056,01C,NHS Eastern Cheshire ,FAE_PrimarySecondary_Obesity,Male,605
+2014/15,CCG,E38000151,01R,NHS South Cheshire ,FAE_PrimarySecondary_Obesity,Male,1613
+2014/15,CCG,E38000189,02D,NHS Vale Royal ,FAE_PrimarySecondary_Obesity,Male,907
+2014/15,CCG,E38000194,02E,NHS Warrington ,FAE_PrimarySecondary_Obesity,Male,1297
+2014/15,CCG,E38000196,02F,NHS West Cheshire ,FAE_PrimarySecondary_Obesity,Male,3221
+2014/15,CCG,E38000208,12F,NHS Wirral ,FAE_PrimarySecondary_Obesity,Male,9286
+2014/15,AreaTeam,E39000002,Q45,"Durham, Darlington and Tees",FAE_PrimarySecondary_Obesity,Male,5675
+2014/15,CCG,E38000042,00C,NHS Darlington ,FAE_PrimarySecondary_Obesity,Male,348
+2014/15,CCG,E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",FAE_PrimarySecondary_Obesity,Male,1296
+2014/15,CCG,E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,FAE_PrimarySecondary_Obesity,Male,1488
+2014/15,CCG,E38000116,00J,NHS North Durham ,FAE_PrimarySecondary_Obesity,Male,1257
+2014/15,CCG,E38000162,00M,NHS South Tees ,FAE_PrimarySecondary_Obesity,Male,1286
+2014/15,AreaTeam,E39000003,Q46,Greater Manchester,FAE_PrimarySecondary_Obesity,Male,24695
+2014/15,CCG,E38000016,00T,NHS Bolton ,FAE_PrimarySecondary_Obesity,Male,1803
+2014/15,CCG,E38000024,00V,NHS Bury ,FAE_PrimarySecondary_Obesity,Male,1122
+2014/15,CCG,E38000032,00W,NHS Central Manchester ,FAE_PrimarySecondary_Obesity,Male,1550
+2014/15,CCG,E38000080,01D,"NHS Heywood, Middleton & Rochdale ",FAE_PrimarySecondary_Obesity,Male,1566
+2014/15,CCG,E38000123,01M,NHS North Manchester ,FAE_PrimarySecondary_Obesity,Male,1183
+2014/15,CCG,E38000135,00Y,NHS Oldham ,FAE_PrimarySecondary_Obesity,Male,1602
+2014/15,CCG,E38000143,01G,NHS Salford ,FAE_PrimarySecondary_Obesity,Male,4497
+2014/15,CCG,E38000158,01N,NHS South Manchester ,FAE_PrimarySecondary_Obesity,Male,1359
+2014/15,CCG,E38000174,01W,NHS Stockport ,FAE_PrimarySecondary_Obesity,Male,2340
+2014/15,CCG,E38000182,01Y,NHS Tameside and Glossop ,FAE_PrimarySecondary_Obesity,Male,2483
+2014/15,CCG,E38000187,02A,NHS Trafford ,FAE_PrimarySecondary_Obesity,Male,1490
+2014/15,CCG,E38000205,02H,NHS Wigan Borough ,FAE_PrimarySecondary_Obesity,Male,3700
+2014/15,AreaTeam,E39000004,Q47,Lancashire,FAE_PrimarySecondary_Obesity,Male,13651
+2014/15,CCG,E38000014,00Q,NHS Blackburn with Darwen ,FAE_PrimarySecondary_Obesity,Male,1661
+2014/15,CCG,E38000015,00R,NHS Blackpool ,FAE_PrimarySecondary_Obesity,Male,745
+2014/15,CCG,E38000034,00X,NHS Chorley and South Ribble ,FAE_PrimarySecondary_Obesity,Male,1835
+2014/15,CCG,E38000050,01A,NHS East Lancashire ,FAE_PrimarySecondary_Obesity,Male,3859
+2014/15,CCG,E38000060,02M,NHS Fylde & Wyre ,FAE_PrimarySecondary_Obesity,Male,704
+2014/15,CCG,E38000065,01E,NHS Greater Preston ,FAE_PrimarySecondary_Obesity,Male,1993
+2014/15,CCG,E38000093,01K,NHS Lancashire North ,FAE_PrimarySecondary_Obesity,Male,1332
+2014/15,CCG,E38000200,02G,NHS West Lancashire ,FAE_PrimarySecondary_Obesity,Male,1522
+2014/15,AreaTeam,E39000005,Q48,Merseyside,FAE_PrimarySecondary_Obesity,Male,12018
+2014/15,CCG,E38000068,01F,NHS Halton ,FAE_PrimarySecondary_Obesity,Male,1351
+2014/15,CCG,E38000091,01J,NHS Knowsley ,FAE_PrimarySecondary_Obesity,Male,1882
+2014/15,CCG,E38000101,99A,NHS Liverpool ,FAE_PrimarySecondary_Obesity,Male,3765
+2014/15,CCG,E38000161,01T,NHS South Sefton ,FAE_PrimarySecondary_Obesity,Male,1509
+2014/15,CCG,E38000170,01V,NHS Southport and Formby ,FAE_PrimarySecondary_Obesity,Male,1401
+2014/15,CCG,E38000172,01X,NHS St Helens ,FAE_PrimarySecondary_Obesity,Male,2110
+2014/15,AreaTeam,E39000006,Q49,"Cumbria, Northumberland, Tyne and Wear",FAE_PrimarySecondary_Obesity,Male,17155
+2014/15,CCG,E38000041,01H,NHS Cumbria ,FAE_PrimarySecondary_Obesity,Male,3416
+2014/15,CCG,E38000061,00F,NHS Gateshead ,FAE_PrimarySecondary_Obesity,Male,1450
+2014/15,CCG,E38000111,00G,NHS Newcastle North and East ,FAE_PrimarySecondary_Obesity,Male,1016
+2014/15,CCG,E38000112,00H,NHS Newcastle West ,FAE_PrimarySecondary_Obesity,Male,1271
+2014/15,CCG,E38000127,99C,NHS North Tyneside ,FAE_PrimarySecondary_Obesity,Male,2926
+2014/15,CCG,E38000130,00L,NHS Northumberland ,FAE_PrimarySecondary_Obesity,Male,4456
+2014/15,CCG,E38000163,00N,NHS South Tyneside ,FAE_PrimarySecondary_Obesity,Male,738
+2014/15,CCG,E38000176,00P,NHS Sunderland ,FAE_PrimarySecondary_Obesity,Male,1882
+2014/15,AreaTeam,E39000007,Q50,North Yorkshire and Humber,FAE_PrimarySecondary_Obesity,Male,11466
+2014/15,CCG,E38000052,02Y,NHS East Riding of Yorkshire ,FAE_PrimarySecondary_Obesity,Male,1557
+2014/15,CCG,E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",FAE_PrimarySecondary_Obesity,Male,446
+2014/15,CCG,E38000073,03E,NHS Harrogate and Rural District ,FAE_PrimarySecondary_Obesity,Male,1245
+2014/15,CCG,E38000085,03F,NHS Hull ,FAE_PrimarySecondary_Obesity,Male,1277
+2014/15,CCG,E38000119,03H,NHS North East Lincolnshire ,FAE_PrimarySecondary_Obesity,Male,2058
+2014/15,CCG,E38000122,03K,NHS North Lincolnshire ,FAE_PrimarySecondary_Obesity,Male,1033
+2014/15,CCG,E38000145,03M,NHS Scarborough and Ryedale ,FAE_PrimarySecondary_Obesity,Male,695
+2014/15,CCG,E38000188,03Q,NHS Vale of York ,FAE_PrimarySecondary_Obesity,Male,3155
+2014/15,AreaTeam,E39000008,Q51,South Yorkshire and Bassetlaw,FAE_PrimarySecondary_Obesity,Male,8503
+2014/15,CCG,E38000006,02P,NHS Barnsley ,FAE_PrimarySecondary_Obesity,Male,881
+2014/15,CCG,E38000008,02Q,NHS Bassetlaw ,FAE_PrimarySecondary_Obesity,Male,460
+2014/15,CCG,E38000044,02X,NHS Doncaster ,FAE_PrimarySecondary_Obesity,Male,1244
+2014/15,CCG,E38000141,03L,NHS Rotherham ,FAE_PrimarySecondary_Obesity,Male,2109
+2014/15,CCG,E38000146,03N,NHS Sheffield ,FAE_PrimarySecondary_Obesity,Male,3809
+2014/15,AreaTeam,E39000009,Q52,West Yorkshire,FAE_PrimarySecondary_Obesity,Male,27504
+2014/15,CCG,E38000001,02N,"NHS Airedale, Wharfedale and Craven ",FAE_PrimarySecondary_Obesity,Male,3486
+2014/15,CCG,E38000018,02W,NHS Bradford City ,FAE_PrimarySecondary_Obesity,Male,1369
+2014/15,CCG,E38000019,02R,NHS Bradford Districts ,FAE_PrimarySecondary_Obesity,Male,6205
+2014/15,CCG,E38000025,02T,NHS Calderdale ,FAE_PrimarySecondary_Obesity,Male,1411
+2014/15,CCG,E38000064,03A,NHS Greater Huddersfield ,FAE_PrimarySecondary_Obesity,Male,1514
+2014/15,CCG,E38000094,02V,NHS Leeds North ,FAE_PrimarySecondary_Obesity,Male,1494
+2014/15,CCG,E38000095,03G,NHS Leeds South and East ,FAE_PrimarySecondary_Obesity,Male,2417
+2014/15,CCG,E38000096,03C,NHS Leeds West ,FAE_PrimarySecondary_Obesity,Male,2542
+2014/15,CCG,E38000121,03J,NHS North Kirklees ,FAE_PrimarySecondary_Obesity,Male,2060
+2014/15,CCG,E38000190,03R,NHS Wakefield ,FAE_PrimarySecondary_Obesity,Male,5006
+2014/15,CommissioningRegion,E40000002,Y55,Midlands and East of England,FAE_PrimarySecondary_Obesity,Male,139267
+2014/15,AreaTeam,E39000010,Q53,"Arden, Herefordshire and Worcestershire",FAE_PrimarySecondary_Obesity,Male,21613
+2014/15,CCG,E38000038,05A,NHS Coventry and Rugby ,FAE_PrimarySecondary_Obesity,Male,7110
+2014/15,CCG,E38000078,05F,NHS Herefordshire ,FAE_PrimarySecondary_Obesity,Male,845
+2014/15,CCG,E38000139,05J,NHS Redditch and Bromsgrove ,FAE_PrimarySecondary_Obesity,Male,3513
+2014/15,CCG,E38000164,05R,NHS South Warwickshire ,FAE_PrimarySecondary_Obesity,Male,1773
+2014/15,CCG,E38000166,05T,NHS South Worcestershire ,FAE_PrimarySecondary_Obesity,Male,4279
+2014/15,CCG,E38000195,05H,NHS Warwickshire North ,FAE_PrimarySecondary_Obesity,Male,2469
+2014/15,CCG,E38000211,06D,NHS Wyre Forest ,FAE_PrimarySecondary_Obesity,Male,1624
+2014/15,AreaTeam,E39000011,Q54,Birmingham and the Black Country,FAE_PrimarySecondary_Obesity,Male,21786
+2014/15,CCG,E38000012,13P,NHS Birmingham CrossCity ,FAE_PrimarySecondary_Obesity,Male,5945
+2014/15,CCG,E38000013,04X,NHS Birmingham South and Central ,FAE_PrimarySecondary_Obesity,Male,2258
+2014/15,CCG,E38000046,05C,NHS Dudley ,FAE_PrimarySecondary_Obesity,Male,4739
+2014/15,CCG,E38000144,05L,NHS Sandwell and West Birmingham ,FAE_PrimarySecondary_Obesity,Male,3658
+2014/15,CCG,E38000149,05P,NHS Solihull ,FAE_PrimarySecondary_Obesity,Male,896
+2014/15,CCG,E38000191,05Y,NHS Walsall ,FAE_PrimarySecondary_Obesity,Male,1707
+2014/15,CCG,E38000210,06A,NHS Wolverhampton ,FAE_PrimarySecondary_Obesity,Male,2583
+2014/15,AreaTeam,E39000012,Q55,Derbyshire and Nottinghamshire,FAE_PrimarySecondary_Obesity,Male,20196
+2014/15,CCG,E38000058,03X,NHS Erewash ,FAE_PrimarySecondary_Obesity,Male,1078
+2014/15,CCG,E38000071,03Y,NHS Hardwick ,FAE_PrimarySecondary_Obesity,Male,1227
+2014/15,CCG,E38000103,04E,NHS Mansfield & Ashfield ,FAE_PrimarySecondary_Obesity,Male,1706
+2014/15,CCG,E38000109,04H,NHS Newark & Sherwood ,FAE_PrimarySecondary_Obesity,Male,1032
+2014/15,CCG,E38000115,04J,NHS North Derbyshire ,FAE_PrimarySecondary_Obesity,Male,2380
+2014/15,CCG,E38000132,04K,NHS Nottingham City ,FAE_PrimarySecondary_Obesity,Male,3782
+2014/15,CCG,E38000133,04L,NHS Nottingham North & East ,FAE_PrimarySecondary_Obesity,Male,1844
+2014/15,CCG,E38000134,04M,NHS Nottingham West ,FAE_PrimarySecondary_Obesity,Male,1500
+2014/15,CCG,E38000142,04N,NHS Rushcliffe ,FAE_PrimarySecondary_Obesity,Male,1050
+2014/15,CCG,E38000169,04R,NHS Southern Derbyshire ,FAE_PrimarySecondary_Obesity,Male,4597
+2014/15,AreaTeam,E39000013,Q56,East Anglia,FAE_PrimarySecondary_Obesity,Male,19007
+2014/15,CCG,E38000026,06H,NHS Cambridgeshire and Peterborough ,FAE_PrimarySecondary_Obesity,Male,5410
+2014/15,CCG,E38000063,06M,NHS Great Yarmouth & Waveney ,FAE_PrimarySecondary_Obesity,Male,1521
+2014/15,CCG,E38000086,06L,NHS Ipswich and East Suffolk ,FAE_PrimarySecondary_Obesity,Male,4249
+2014/15,CCG,E38000124,06V,NHS North Norfolk ,FAE_PrimarySecondary_Obesity,Male,863
+2014/15,CCG,E38000131,06W,NHS Norwich ,FAE_PrimarySecondary_Obesity,Male,893
+2014/15,CCG,E38000159,06Y,NHS South Norfolk ,FAE_PrimarySecondary_Obesity,Male,1362
+2014/15,CCG,E38000203,07J,NHS West Norfolk ,FAE_PrimarySecondary_Obesity,Male,2353
+2014/15,CCG,E38000204,07K,NHS West Suffolk ,FAE_PrimarySecondary_Obesity,Male,2356
+2014/15,AreaTeam,E39000014,Q57,Essex,FAE_PrimarySecondary_Obesity,Male,11717
+2014/15,CCG,E38000007,99E,NHS Basildon and Brentwood ,FAE_PrimarySecondary_Obesity,Male,2608
+2014/15,CCG,E38000030,99F,"NHS Castle Point, Rayleigh and Rochford ",FAE_PrimarySecondary_Obesity,Male,596
+2014/15,CCG,E38000106,06Q,NHS Mid Essex ,FAE_PrimarySecondary_Obesity,Male,1900
+2014/15,CCG,E38000117,06T,NHS North East Essex ,FAE_PrimarySecondary_Obesity,Male,1914
+2014/15,CCG,E38000168,99G,NHS Southend ,FAE_PrimarySecondary_Obesity,Male,578
+2014/15,CCG,E38000185,07G,NHS Thurrock ,FAE_PrimarySecondary_Obesity,Male,2174
+2014/15,CCG,E38000197,07H,NHS West Essex ,FAE_PrimarySecondary_Obesity,Male,1947
+2014/15,AreaTeam,E39000015,Q58,Hertfordshire and the South Midlands,FAE_PrimarySecondary_Obesity,Male,24329
+2014/15,CCG,E38000010,06F,NHS Bedfordshire ,FAE_PrimarySecondary_Obesity,Male,3238
+2014/15,CCG,E38000037,03V,NHS Corby2 ,FAE_PrimarySecondary_Obesity,Male,533
+2014/15,CCG,E38000049,06K,NHS East and North Hertfordshire ,FAE_PrimarySecondary_Obesity,Male,2547
+2014/15,CCG,E38000079,06N,NHS Herts Valleys ,FAE_PrimarySecondary_Obesity,Male,9075
+2014/15,CCG,E38000102,06P,NHS Luton ,FAE_PrimarySecondary_Obesity,Male,3734
+2014/15,CCG,E38000107,04F,NHS Milton Keynes ,FAE_PrimarySecondary_Obesity,Male,1692
+2014/15,CCG,E38000108,04G,NHS Nene ,FAE_PrimarySecondary_Obesity,Male,3510
+2014/15,AreaTeam,E39000016,Q59,Leicestershire and Lincolnshire,FAE_PrimarySecondary_Obesity,Male,9806
+2014/15,CCG,E38000051,03W,NHS East Leicestershire and Rutland ,FAE_PrimarySecondary_Obesity,Male,1130
+2014/15,CCG,E38000097,04C,NHS Leicester City ,FAE_PrimarySecondary_Obesity,Male,1188
+2014/15,CCG,E38000099,03T,NHS Lincolnshire East ,FAE_PrimarySecondary_Obesity,Male,2337
+2014/15,CCG,E38000100,04D,NHS Lincolnshire West ,FAE_PrimarySecondary_Obesity,Male,1817
+2014/15,CCG,E38000157,99D,NHS South Lincolnshire ,FAE_PrimarySecondary_Obesity,Male,934
+2014/15,CCG,E38000165,04Q,NHS South West Lincolnshire ,FAE_PrimarySecondary_Obesity,Male,823
+2014/15,CCG,E38000201,04V,NHS West Leicestershire ,FAE_PrimarySecondary_Obesity,Male,1577
+2014/15,AreaTeam,E39000017,Q60,Shropshire and Staffordshire,FAE_PrimarySecondary_Obesity,Male,10813
+2014/15,CCG,E38000028,04Y,NHS Cannock Chase ,FAE_PrimarySecondary_Obesity,Male,948
+2014/15,CCG,E38000053,05D,NHS East Staffordshire ,FAE_PrimarySecondary_Obesity,Male,670
+2014/15,CCG,E38000126,05G,NHS North Staffordshire ,FAE_PrimarySecondary_Obesity,Male,1336
+2014/15,CCG,E38000147,05N,NHS Shropshire ,FAE_PrimarySecondary_Obesity,Male,2047
+2014/15,CCG,E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,FAE_PrimarySecondary_Obesity,Male,1355
+2014/15,CCG,E38000173,05V,NHS Stafford and Surrounds ,FAE_PrimarySecondary_Obesity,Male,938
+2014/15,CCG,E38000175,05W,NHS Stoke on Trent ,FAE_PrimarySecondary_Obesity,Male,2008
+2014/15,CCG,E38000183,05X,NHS Telford & Wrekin ,FAE_PrimarySecondary_Obesity,Male,1511
+2014/15,CommissioningRegion,E40000003,Y56,London,FAE_PrimarySecondary_Obesity,Male,44893
+2014/15,AreaTeam,E39000018,Q71,London,FAE_PrimarySecondary_Obesity,Male,44893
+2014/15,CCG,E38000004,07L,NHS Barking & Dagenham ,FAE_PrimarySecondary_Obesity,Male,1226
+2014/15,CCG,E38000005,07M,NHS Barnet ,FAE_PrimarySecondary_Obesity,Male,1626
+2014/15,CCG,E38000011,07N,NHS Bexley ,FAE_PrimarySecondary_Obesity,Male,1327
+2014/15,CCG,E38000020,07P,NHS Brent ,FAE_PrimarySecondary_Obesity,Male,3015
+2014/15,CCG,E38000023,07Q,NHS Bromley ,FAE_PrimarySecondary_Obesity,Male,953
+2014/15,CCG,E38000027,07R,NHS Camden ,FAE_PrimarySecondary_Obesity,Male,1097
+2014/15,CCG,E38000031,09A,NHS Central London (Westminster) ,FAE_PrimarySecondary_Obesity,Male,610
+2014/15,CCG,E38000035,07T,NHS City and Hackney ,FAE_PrimarySecondary_Obesity,Male,1923
+2014/15,CCG,E38000040,07V,NHS Croydon ,FAE_PrimarySecondary_Obesity,Male,1345
+2014/15,CCG,E38000048,07W,NHS Ealing ,FAE_PrimarySecondary_Obesity,Male,2316
+2014/15,CCG,E38000057,07X,NHS Enfield ,FAE_PrimarySecondary_Obesity,Male,2547
+2014/15,CCG,E38000066,08A,NHS Greenwich ,FAE_PrimarySecondary_Obesity,Male,1287
+2014/15,CCG,E38000070,08C,NHS Hammersmith and Fulham ,FAE_PrimarySecondary_Obesity,Male,566
+2014/15,CCG,E38000072,08D,NHS Haringey ,FAE_PrimarySecondary_Obesity,Male,1650
+2014/15,CCG,E38000074,08E,NHS Harrow ,FAE_PrimarySecondary_Obesity,Male,2308
+2014/15,CCG,E38000077,08F,NHS Havering ,FAE_PrimarySecondary_Obesity,Male,1451
+2014/15,CCG,E38000082,08G,NHS Hillingdon ,FAE_PrimarySecondary_Obesity,Male,2428
+2014/15,CCG,E38000084,07Y,NHS Hounslow ,FAE_PrimarySecondary_Obesity,Male,1080
+2014/15,CCG,E38000088,08H,NHS Islington ,FAE_PrimarySecondary_Obesity,Male,1667
+2014/15,CCG,E38000090,08J,NHS Kingston ,FAE_PrimarySecondary_Obesity,Male,428
+2014/15,CCG,E38000092,08K,NHS Lambeth ,FAE_PrimarySecondary_Obesity,Male,1513
+2014/15,CCG,E38000098,08L,NHS Lewisham ,FAE_PrimarySecondary_Obesity,Male,964
+2014/15,CCG,E38000105,08R,NHS Merton ,FAE_PrimarySecondary_Obesity,Male,700
+2014/15,CCG,E38000113,08M,NHS Newham ,FAE_PrimarySecondary_Obesity,Male,1671
+2014/15,CCG,E38000138,08N,NHS Redbridge ,FAE_PrimarySecondary_Obesity,Male,1364
+2014/15,CCG,E38000140,08P,NHS Richmond ,FAE_PrimarySecondary_Obesity,Male,460
+2014/15,CCG,E38000171,08Q,NHS Southwark ,FAE_PrimarySecondary_Obesity,Male,1651
+2014/15,CCG,E38000179,08T,NHS Sutton ,FAE_PrimarySecondary_Obesity,Male,944
+2014/15,CCG,E38000186,08V,NHS Tower Hamlets ,FAE_PrimarySecondary_Obesity,Male,1102
+2014/15,CCG,E38000192,08W,NHS Waltham Forest ,FAE_PrimarySecondary_Obesity,Male,1999
+2014/15,CCG,E38000193,08X,NHS Wandsworth ,FAE_PrimarySecondary_Obesity,Male,910
+2014/15,CCG,E38000202,08Y,"NHS West London (Kensington and Chelsea, Queen’s Park and Paddington) ",FAE_PrimarySecondary_Obesity,Male,765
+2014/15,CommissioningRegion,E40000004,Y57,South of England,FAE_PrimarySecondary_Obesity,Male,118393
+2014/15,AreaTeam,E39000019,Q64,"Bath, Gloucestershire, Swindon and Wiltshire",FAE_PrimarySecondary_Obesity,Male,9862
+2014/15,CCG,E38000009,11E,NHS Bath and North East Somerset ,FAE_PrimarySecondary_Obesity,Male,1275
+2014/15,CCG,E38000062,11M,NHS Gloucestershire ,FAE_PrimarySecondary_Obesity,Male,1696
+2014/15,CCG,E38000181,12D,NHS Swindon ,FAE_PrimarySecondary_Obesity,Male,2022
+2014/15,CCG,E38000206,99N,NHS Wiltshire ,FAE_PrimarySecondary_Obesity,Male,4869
+2014/15,AreaTeam,E39000020,Q65,"Bristol, North Somerset, Somerset and South Gloucestershire",FAE_PrimarySecondary_Obesity,Male,14595
+2014/15,CCG,E38000022,11H,NHS Bristol ,FAE_PrimarySecondary_Obesity,Male,5275
+2014/15,CCG,E38000125,11T,NHS North Somerset ,FAE_PrimarySecondary_Obesity,Male,2047
+2014/15,CCG,E38000150,11X,NHS Somerset ,FAE_PrimarySecondary_Obesity,Male,4622
+2014/15,CCG,E38000155,12A,NHS South Gloucestershire ,FAE_PrimarySecondary_Obesity,Male,2651
+2014/15,AreaTeam,E39000021,Q66,"Devon, Cornwall and Isles of Scilly",FAE_PrimarySecondary_Obesity,Male,25409
+2014/15,CCG,E38000089,11N,NHS Kernow ,FAE_PrimarySecondary_Obesity,Male,11521
+2014/15,CCG,E38000129,99P,"NHS North, East, West Devon ",FAE_PrimarySecondary_Obesity,Male,9446
+2014/15,CCG,E38000152,99Q,NHS South Devon and Torbay ,FAE_PrimarySecondary_Obesity,Male,4442
+2014/15,AreaTeam,E39000022,Q67,Kent and Medway,FAE_PrimarySecondary_Obesity,Male,12439
+2014/15,CCG,E38000002,09C,NHS Ashford ,FAE_PrimarySecondary_Obesity,Male,445
+2014/15,CCG,E38000029,09E,NHS Canterbury and Coastal ,FAE_PrimarySecondary_Obesity,Male,845
+2014/15,CCG,E38000043,09J,"NHS Dartford, Gravesham and Swanley ",FAE_PrimarySecondary_Obesity,Male,2557
+2014/15,CCG,E38000104,09W,NHS Medway ,FAE_PrimarySecondary_Obesity,Male,3318
+2014/15,CCG,E38000156,10A,NHS South Kent Coast ,FAE_PrimarySecondary_Obesity,Male,837
+2014/15,CCG,E38000180,10D,NHS Swale ,FAE_PrimarySecondary_Obesity,Male,1461
+2014/15,CCG,E38000184,10E,NHS Thanet ,FAE_PrimarySecondary_Obesity,Male,416
+2014/15,CCG,E38000199,99J,NHS West Kent ,FAE_PrimarySecondary_Obesity,Male,2560
+2014/15,AreaTeam,E39000023,Q68,Surrey and Sussex,FAE_PrimarySecondary_Obesity,Male,16884
+2014/15,CCG,E38000021,09D,NHS Brighton & Hove ,FAE_PrimarySecondary_Obesity,Male,1867
+2014/15,CCG,E38000036,09G,NHS Coastal West Sussex ,FAE_PrimarySecondary_Obesity,Male,5622
+2014/15,CCG,E38000039,09H,NHS Crawley ,FAE_PrimarySecondary_Obesity,Male,651
+2014/15,CCG,E38000054,09L,NHS East Surrey ,FAE_PrimarySecondary_Obesity,Male,915
+2014/15,CCG,E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",FAE_PrimarySecondary_Obesity,Male,892
+2014/15,CCG,E38000067,09N,NHS Guildford and Waverley,FAE_PrimarySecondary_Obesity,Male,441
+2014/15,CCG,E38000076,09P,NHS Hastings & Rother ,FAE_PrimarySecondary_Obesity,Male,1119
+2014/15,CCG,E38000081,99K,NHS High Weald Lewes Havens ,FAE_PrimarySecondary_Obesity,Male,1174
+2014/15,CCG,E38000083,09X,NHS Horsham and Mid Sussex ,FAE_PrimarySecondary_Obesity,Male,1612
+2014/15,CCG,E38000128,09Y,NHS North West Surrey ,FAE_PrimarySecondary_Obesity,Male,1363
+2014/15,CCG,E38000177,99H,NHS Surrey Downs ,FAE_PrimarySecondary_Obesity,Male,1087
+2014/15,CCG,E38000178,10C,NHS Surrey Heath ,FAE_PrimarySecondary_Obesity,Male,141
+2014/15,AreaTeam,E39000024,Q69,Thames Valley,FAE_PrimarySecondary_Obesity,Male,15241
+2014/15,CCG,E38000003,10Y,NHS Aylesbury Vale ,FAE_PrimarySecondary_Obesity,Male,1081
+2014/15,CCG,E38000017,10G,NHS Bracknell and Ascot ,FAE_PrimarySecondary_Obesity,Male,856
+2014/15,CCG,E38000033,10H,NHS Chiltern2,FAE_PrimarySecondary_Obesity,Male,2305
+2014/15,CCG,E38000110,10M,NHS Newbury and District ,FAE_PrimarySecondary_Obesity,Male,721
+2014/15,CCG,E38000114,10N,NHS North & West Reading ,FAE_PrimarySecondary_Obesity,Male,877
+2014/15,CCG,E38000136,10Q,NHS Oxfordshire ,FAE_PrimarySecondary_Obesity,Male,3017
+2014/15,CCG,E38000148,10T,NHS Slough ,FAE_PrimarySecondary_Obesity,Male,2524
+2014/15,CCG,E38000160,10W,NHS South Reading ,FAE_PrimarySecondary_Obesity,Male,1039
+2014/15,CCG,E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",FAE_PrimarySecondary_Obesity,Male,1709
+2014/15,CCG,E38000209,11D,NHS Wokingham ,FAE_PrimarySecondary_Obesity,Male,1112
+2014/15,AreaTeam,E39000025,Q70,Wessex,FAE_PrimarySecondary_Obesity,Male,23963
+2014/15,CCG,E38000045,11J,NHS Dorset ,FAE_PrimarySecondary_Obesity,Male,8298
+2014/15,CCG,E38000059,10K,NHS Fareham and Gosport ,FAE_PrimarySecondary_Obesity,Male,1219
+2014/15,CCG,E38000087,10L,NHS Isle of Wight ,FAE_PrimarySecondary_Obesity,Male,1641
+2014/15,CCG,E38000118,99M,NHS North East Hampshire and Farnham ,FAE_PrimarySecondary_Obesity,Male,366
+2014/15,CCG,E38000120,10J,NHS North Hampshire ,FAE_PrimarySecondary_Obesity,Male,587
+2014/15,CCG,E38000137,10R,NHS Portsmouth ,FAE_PrimarySecondary_Obesity,Male,1182
+2014/15,CCG,E38000154,10V,NHS South Eastern Hampshire ,FAE_PrimarySecondary_Obesity,Male,1213
+2014/15,CCG,E38000167,10X,NHS Southampton ,FAE_PrimarySecondary_Obesity,Male,4304
+2014/15,CCG,E38000198,11A,NHS West Hampshire ,FAE_PrimarySecondary_Obesity,Male,5153
+2014/15,National,E92000001,,England,FAE_PrimarySecondary_Obesity,Female,440288
+2014/15,National,U,U,Unknown,FAE_PrimarySecondary_Obesity,Female,139
+2014/15,CommissioningRegion,E40000001,Y54,North of England,FAE_PrimarySecondary_Obesity,Female,137596
+2014/15,AreaTeam,E39000001,Q44,"Cheshire, Warrington and Wirral",FAE_PrimarySecondary_Obesity,Female,16929
+2014/15,CCG,E38000056,01C,NHS Eastern Cheshire ,FAE_PrimarySecondary_Obesity,Female,605
+2014/15,CCG,E38000151,01R,NHS South Cheshire ,FAE_PrimarySecondary_Obesity,Female,1613
+2014/15,CCG,E38000189,02D,NHS Vale Royal ,FAE_PrimarySecondary_Obesity,Female,907
+2014/15,CCG,E38000194,02E,NHS Warrington ,FAE_PrimarySecondary_Obesity,Female,1297
+2014/15,CCG,E38000196,02F,NHS West Cheshire ,FAE_PrimarySecondary_Obesity,Female,3221
+2014/15,CCG,E38000208,12F,NHS Wirral ,FAE_PrimarySecondary_Obesity,Female,9286
+2014/15,AreaTeam,E39000002,Q45,"Durham, Darlington and Tees",FAE_PrimarySecondary_Obesity,Female,5675
+2014/15,CCG,E38000042,00C,NHS Darlington ,FAE_PrimarySecondary_Obesity,Female,348
+2014/15,CCG,E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",FAE_PrimarySecondary_Obesity,Female,1296
+2014/15,CCG,E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,FAE_PrimarySecondary_Obesity,Female,1488
+2014/15,CCG,E38000116,00J,NHS North Durham ,FAE_PrimarySecondary_Obesity,Female,1257
+2014/15,CCG,E38000162,00M,NHS South Tees ,FAE_PrimarySecondary_Obesity,Female,1286
+2014/15,AreaTeam,E39000003,Q46,Greater Manchester,FAE_PrimarySecondary_Obesity,Female,24695
+2014/15,CCG,E38000016,00T,NHS Bolton ,FAE_PrimarySecondary_Obesity,Female,1803
+2014/15,CCG,E38000024,00V,NHS Bury ,FAE_PrimarySecondary_Obesity,Female,1122
+2014/15,CCG,E38000032,00W,NHS Central Manchester ,FAE_PrimarySecondary_Obesity,Female,1550
+2014/15,CCG,E38000080,01D,"NHS Heywood, Middleton & Rochdale ",FAE_PrimarySecondary_Obesity,Female,1566
+2014/15,CCG,E38000123,01M,NHS North Manchester ,FAE_PrimarySecondary_Obesity,Female,1183
+2014/15,CCG,E38000135,00Y,NHS Oldham ,FAE_PrimarySecondary_Obesity,Female,1602
+2014/15,CCG,E38000143,01G,NHS Salford ,FAE_PrimarySecondary_Obesity,Female,4497
+2014/15,CCG,E38000158,01N,NHS South Manchester ,FAE_PrimarySecondary_Obesity,Female,1359
+2014/15,CCG,E38000174,01W,NHS Stockport ,FAE_PrimarySecondary_Obesity,Female,2340
+2014/15,CCG,E38000182,01Y,NHS Tameside and Glossop ,FAE_PrimarySecondary_Obesity,Female,2483
+2014/15,CCG,E38000187,02A,NHS Trafford ,FAE_PrimarySecondary_Obesity,Female,1490
+2014/15,CCG,E38000205,02H,NHS Wigan Borough ,FAE_PrimarySecondary_Obesity,Female,3700
+2014/15,AreaTeam,E39000004,Q47,Lancashire,FAE_PrimarySecondary_Obesity,Female,13651
+2014/15,CCG,E38000014,00Q,NHS Blackburn with Darwen ,FAE_PrimarySecondary_Obesity,Female,1661
+2014/15,CCG,E38000015,00R,NHS Blackpool ,FAE_PrimarySecondary_Obesity,Female,745
+2014/15,CCG,E38000034,00X,NHS Chorley and South Ribble ,FAE_PrimarySecondary_Obesity,Female,1835
+2014/15,CCG,E38000050,01A,NHS East Lancashire ,FAE_PrimarySecondary_Obesity,Female,3859
+2014/15,CCG,E38000060,02M,NHS Fylde & Wyre ,FAE_PrimarySecondary_Obesity,Female,704
+2014/15,CCG,E38000065,01E,NHS Greater Preston ,FAE_PrimarySecondary_Obesity,Female,1993
+2014/15,CCG,E38000093,01K,NHS Lancashire North ,FAE_PrimarySecondary_Obesity,Female,1332
+2014/15,CCG,E38000200,02G,NHS West Lancashire ,FAE_PrimarySecondary_Obesity,Female,1522
+2014/15,AreaTeam,E39000005,Q48,Merseyside,FAE_PrimarySecondary_Obesity,Female,12018
+2014/15,CCG,E38000068,01F,NHS Halton ,FAE_PrimarySecondary_Obesity,Female,1351
+2014/15,CCG,E38000091,01J,NHS Knowsley ,FAE_PrimarySecondary_Obesity,Female,1882
+2014/15,CCG,E38000101,99A,NHS Liverpool ,FAE_PrimarySecondary_Obesity,Female,3765
+2014/15,CCG,E38000161,01T,NHS South Sefton ,FAE_PrimarySecondary_Obesity,Female,1509
+2014/15,CCG,E38000170,01V,NHS Southport and Formby ,FAE_PrimarySecondary_Obesity,Female,1401
+2014/15,CCG,E38000172,01X,NHS St Helens ,FAE_PrimarySecondary_Obesity,Female,2110
+2014/15,AreaTeam,E39000006,Q49,"Cumbria, Northumberland, Tyne and Wear",FAE_PrimarySecondary_Obesity,Female,17155
+2014/15,CCG,E38000041,01H,NHS Cumbria ,FAE_PrimarySecondary_Obesity,Female,3416
+2014/15,CCG,E38000061,00F,NHS Gateshead ,FAE_PrimarySecondary_Obesity,Female,1450
+2014/15,CCG,E38000111,00G,NHS Newcastle North and East ,FAE_PrimarySecondary_Obesity,Female,1016
+2014/15,CCG,E38000112,00H,NHS Newcastle West ,FAE_PrimarySecondary_Obesity,Female,1271
+2014/15,CCG,E38000127,99C,NHS North Tyneside ,FAE_PrimarySecondary_Obesity,Female,2926
+2014/15,CCG,E38000130,00L,NHS Northumberland ,FAE_PrimarySecondary_Obesity,Female,4456
+2014/15,CCG,E38000163,00N,NHS South Tyneside ,FAE_PrimarySecondary_Obesity,Female,738
+2014/15,CCG,E38000176,00P,NHS Sunderland ,FAE_PrimarySecondary_Obesity,Female,1882
+2014/15,AreaTeam,E39000007,Q50,North Yorkshire and Humber,FAE_PrimarySecondary_Obesity,Female,11466
+2014/15,CCG,E38000052,02Y,NHS East Riding of Yorkshire ,FAE_PrimarySecondary_Obesity,Female,1557
+2014/15,CCG,E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",FAE_PrimarySecondary_Obesity,Female,446
+2014/15,CCG,E38000073,03E,NHS Harrogate and Rural District ,FAE_PrimarySecondary_Obesity,Female,1245
+2014/15,CCG,E38000085,03F,NHS Hull ,FAE_PrimarySecondary_Obesity,Female,1277
+2014/15,CCG,E38000119,03H,NHS North East Lincolnshire ,FAE_PrimarySecondary_Obesity,Female,2058
+2014/15,CCG,E38000122,03K,NHS North Lincolnshire ,FAE_PrimarySecondary_Obesity,Female,1033
+2014/15,CCG,E38000145,03M,NHS Scarborough and Ryedale ,FAE_PrimarySecondary_Obesity,Female,695
+2014/15,CCG,E38000188,03Q,NHS Vale of York ,FAE_PrimarySecondary_Obesity,Female,3155
+2014/15,AreaTeam,E39000008,Q51,South Yorkshire and Bassetlaw,FAE_PrimarySecondary_Obesity,Female,8503
+2014/15,CCG,E38000006,02P,NHS Barnsley ,FAE_PrimarySecondary_Obesity,Female,881
+2014/15,CCG,E38000008,02Q,NHS Bassetlaw ,FAE_PrimarySecondary_Obesity,Female,460
+2014/15,CCG,E38000044,02X,NHS Doncaster ,FAE_PrimarySecondary_Obesity,Female,1244
+2014/15,CCG,E38000141,03L,NHS Rotherham ,FAE_PrimarySecondary_Obesity,Female,2109
+2014/15,CCG,E38000146,03N,NHS Sheffield ,FAE_PrimarySecondary_Obesity,Female,3809
+2014/15,AreaTeam,E39000009,Q52,West Yorkshire,FAE_PrimarySecondary_Obesity,Female,27504
+2014/15,CCG,E38000001,02N,"NHS Airedale, Wharfedale and Craven ",FAE_PrimarySecondary_Obesity,Female,3486
+2014/15,CCG,E38000018,02W,NHS Bradford City ,FAE_PrimarySecondary_Obesity,Female,1369
+2014/15,CCG,E38000019,02R,NHS Bradford Districts ,FAE_PrimarySecondary_Obesity,Female,6205
+2014/15,CCG,E38000025,02T,NHS Calderdale ,FAE_PrimarySecondary_Obesity,Female,1411
+2014/15,CCG,E38000064,03A,NHS Greater Huddersfield ,FAE_PrimarySecondary_Obesity,Female,1514
+2014/15,CCG,E38000094,02V,NHS Leeds North ,FAE_PrimarySecondary_Obesity,Female,1494
+2014/15,CCG,E38000095,03G,NHS Leeds South and East ,FAE_PrimarySecondary_Obesity,Female,2417
+2014/15,CCG,E38000096,03C,NHS Leeds West ,FAE_PrimarySecondary_Obesity,Female,2542
+2014/15,CCG,E38000121,03J,NHS North Kirklees ,FAE_PrimarySecondary_Obesity,Female,2060
+2014/15,CCG,E38000190,03R,NHS Wakefield ,FAE_PrimarySecondary_Obesity,Female,5006
+2014/15,CommissioningRegion,E40000002,Y55,Midlands and East of England,FAE_PrimarySecondary_Obesity,Female,139267
+2014/15,AreaTeam,E39000010,Q53,"Arden, Herefordshire and Worcestershire",FAE_PrimarySecondary_Obesity,Female,21613
+2014/15,CCG,E38000038,05A,NHS Coventry and Rugby ,FAE_PrimarySecondary_Obesity,Female,7110
+2014/15,CCG,E38000078,05F,NHS Herefordshire ,FAE_PrimarySecondary_Obesity,Female,845
+2014/15,CCG,E38000139,05J,NHS Redditch and Bromsgrove ,FAE_PrimarySecondary_Obesity,Female,3513
+2014/15,CCG,E38000164,05R,NHS South Warwickshire ,FAE_PrimarySecondary_Obesity,Female,1773
+2014/15,CCG,E38000166,05T,NHS South Worcestershire ,FAE_PrimarySecondary_Obesity,Female,4279
+2014/15,CCG,E38000195,05H,NHS Warwickshire North ,FAE_PrimarySecondary_Obesity,Female,2469
+2014/15,CCG,E38000211,06D,NHS Wyre Forest ,FAE_PrimarySecondary_Obesity,Female,1624
+2014/15,AreaTeam,E39000011,Q54,Birmingham and the Black Country,FAE_PrimarySecondary_Obesity,Female,21786
+2014/15,CCG,E38000012,13P,NHS Birmingham CrossCity ,FAE_PrimarySecondary_Obesity,Female,5945
+2014/15,CCG,E38000013,04X,NHS Birmingham South and Central ,FAE_PrimarySecondary_Obesity,Female,2258
+2014/15,CCG,E38000046,05C,NHS Dudley ,FAE_PrimarySecondary_Obesity,Female,4739
+2014/15,CCG,E38000144,05L,NHS Sandwell and West Birmingham ,FAE_PrimarySecondary_Obesity,Female,3658
+2014/15,CCG,E38000149,05P,NHS Solihull ,FAE_PrimarySecondary_Obesity,Female,896
+2014/15,CCG,E38000191,05Y,NHS Walsall ,FAE_PrimarySecondary_Obesity,Female,1707
+2014/15,CCG,E38000210,06A,NHS Wolverhampton ,FAE_PrimarySecondary_Obesity,Female,2583
+2014/15,AreaTeam,E39000012,Q55,Derbyshire and Nottinghamshire,FAE_PrimarySecondary_Obesity,Female,20196
+2014/15,CCG,E38000058,03X,NHS Erewash ,FAE_PrimarySecondary_Obesity,Female,1078
+2014/15,CCG,E38000071,03Y,NHS Hardwick ,FAE_PrimarySecondary_Obesity,Female,1227
+2014/15,CCG,E38000103,04E,NHS Mansfield & Ashfield ,FAE_PrimarySecondary_Obesity,Female,1706
+2014/15,CCG,E38000109,04H,NHS Newark & Sherwood ,FAE_PrimarySecondary_Obesity,Female,1032
+2014/15,CCG,E38000115,04J,NHS North Derbyshire ,FAE_PrimarySecondary_Obesity,Female,2380
+2014/15,CCG,E38000132,04K,NHS Nottingham City ,FAE_PrimarySecondary_Obesity,Female,3782
+2014/15,CCG,E38000133,04L,NHS Nottingham North & East ,FAE_PrimarySecondary_Obesity,Female,1844
+2014/15,CCG,E38000134,04M,NHS Nottingham West ,FAE_PrimarySecondary_Obesity,Female,1500
+2014/15,CCG,E38000142,04N,NHS Rushcliffe ,FAE_PrimarySecondary_Obesity,Female,1050
+2014/15,CCG,E38000169,04R,NHS Southern Derbyshire ,FAE_PrimarySecondary_Obesity,Female,4597
+2014/15,AreaTeam,E39000013,Q56,East Anglia,FAE_PrimarySecondary_Obesity,Female,19007
+2014/15,CCG,E38000026,06H,NHS Cambridgeshire and Peterborough ,FAE_PrimarySecondary_Obesity,Female,5410
+2014/15,CCG,E38000063,06M,NHS Great Yarmouth & Waveney ,FAE_PrimarySecondary_Obesity,Female,1521
+2014/15,CCG,E38000086,06L,NHS Ipswich and East Suffolk ,FAE_PrimarySecondary_Obesity,Female,4249
+2014/15,CCG,E38000124,06V,NHS North Norfolk ,FAE_PrimarySecondary_Obesity,Female,863
+2014/15,CCG,E38000131,06W,NHS Norwich ,FAE_PrimarySecondary_Obesity,Female,893
+2014/15,CCG,E38000159,06Y,NHS South Norfolk ,FAE_PrimarySecondary_Obesity,Female,1362
+2014/15,CCG,E38000203,07J,NHS West Norfolk ,FAE_PrimarySecondary_Obesity,Female,2353
+2014/15,CCG,E38000204,07K,NHS West Suffolk ,FAE_PrimarySecondary_Obesity,Female,2356
+2014/15,AreaTeam,E39000014,Q57,Essex,FAE_PrimarySecondary_Obesity,Female,11717
+2014/15,CCG,E38000007,99E,NHS Basildon and Brentwood ,FAE_PrimarySecondary_Obesity,Female,2608
+2014/15,CCG,E38000030,99F,"NHS Castle Point, Rayleigh and Rochford ",FAE_PrimarySecondary_Obesity,Female,596
+2014/15,CCG,E38000106,06Q,NHS Mid Essex ,FAE_PrimarySecondary_Obesity,Female,1900
+2014/15,CCG,E38000117,06T,NHS North East Essex ,FAE_PrimarySecondary_Obesity,Female,1914
+2014/15,CCG,E38000168,99G,NHS Southend ,FAE_PrimarySecondary_Obesity,Female,578
+2014/15,CCG,E38000185,07G,NHS Thurrock ,FAE_PrimarySecondary_Obesity,Female,2174
+2014/15,CCG,E38000197,07H,NHS West Essex ,FAE_PrimarySecondary_Obesity,Female,1947
+2014/15,AreaTeam,E39000015,Q58,Hertfordshire and the South Midlands,FAE_PrimarySecondary_Obesity,Female,24329
+2014/15,CCG,E38000010,06F,NHS Bedfordshire ,FAE_PrimarySecondary_Obesity,Female,3238
+2014/15,CCG,E38000037,03V,NHS Corby2 ,FAE_PrimarySecondary_Obesity,Female,533
+2014/15,CCG,E38000049,06K,NHS East and North Hertfordshire ,FAE_PrimarySecondary_Obesity,Female,2547
+2014/15,CCG,E38000079,06N,NHS Herts Valleys ,FAE_PrimarySecondary_Obesity,Female,9075
+2014/15,CCG,E38000102,06P,NHS Luton ,FAE_PrimarySecondary_Obesity,Female,3734
+2014/15,CCG,E38000107,04F,NHS Milton Keynes ,FAE_PrimarySecondary_Obesity,Female,1692
+2014/15,CCG,E38000108,04G,NHS Nene ,FAE_PrimarySecondary_Obesity,Female,3510
+2014/15,AreaTeam,E39000016,Q59,Leicestershire and Lincolnshire,FAE_PrimarySecondary_Obesity,Female,9806
+2014/15,CCG,E38000051,03W,NHS East Leicestershire and Rutland ,FAE_PrimarySecondary_Obesity,Female,1130
+2014/15,CCG,E38000097,04C,NHS Leicester City ,FAE_PrimarySecondary_Obesity,Female,1188
+2014/15,CCG,E38000099,03T,NHS Lincolnshire East ,FAE_PrimarySecondary_Obesity,Female,2337
+2014/15,CCG,E38000100,04D,NHS Lincolnshire West ,FAE_PrimarySecondary_Obesity,Female,1817
+2014/15,CCG,E38000157,99D,NHS South Lincolnshire ,FAE_PrimarySecondary_Obesity,Female,934
+2014/15,CCG,E38000165,04Q,NHS South West Lincolnshire ,FAE_PrimarySecondary_Obesity,Female,823
+2014/15,CCG,E38000201,04V,NHS West Leicestershire ,FAE_PrimarySecondary_Obesity,Female,1577
+2014/15,AreaTeam,E39000017,Q60,Shropshire and Staffordshire,FAE_PrimarySecondary_Obesity,Female,10813
+2014/15,CCG,E38000028,04Y,NHS Cannock Chase ,FAE_PrimarySecondary_Obesity,Female,948
+2014/15,CCG,E38000053,05D,NHS East Staffordshire ,FAE_PrimarySecondary_Obesity,Female,670
+2014/15,CCG,E38000126,05G,NHS North Staffordshire ,FAE_PrimarySecondary_Obesity,Female,1336
+2014/15,CCG,E38000147,05N,NHS Shropshire ,FAE_PrimarySecondary_Obesity,Female,2047
+2014/15,CCG,E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,FAE_PrimarySecondary_Obesity,Female,1355
+2014/15,CCG,E38000173,05V,NHS Stafford and Surrounds ,FAE_PrimarySecondary_Obesity,Female,938
+2014/15,CCG,E38000175,05W,NHS Stoke on Trent ,FAE_PrimarySecondary_Obesity,Female,2008
+2014/15,CCG,E38000183,05X,NHS Telford & Wrekin ,FAE_PrimarySecondary_Obesity,Female,1511
+2014/15,CommissioningRegion,E40000003,Y56,London,FAE_PrimarySecondary_Obesity,Female,44893
+2014/15,AreaTeam,E39000018,Q71,London,FAE_PrimarySecondary_Obesity,Female,44893
+2014/15,CCG,E38000004,07L,NHS Barking & Dagenham ,FAE_PrimarySecondary_Obesity,Female,1226
+2014/15,CCG,E38000005,07M,NHS Barnet ,FAE_PrimarySecondary_Obesity,Female,1626
+2014/15,CCG,E38000011,07N,NHS Bexley ,FAE_PrimarySecondary_Obesity,Female,1327
+2014/15,CCG,E38000020,07P,NHS Brent ,FAE_PrimarySecondary_Obesity,Female,3015
+2014/15,CCG,E38000023,07Q,NHS Bromley ,FAE_PrimarySecondary_Obesity,Female,953
+2014/15,CCG,E38000027,07R,NHS Camden ,FAE_PrimarySecondary_Obesity,Female,1097
+2014/15,CCG,E38000031,09A,NHS Central London (Westminster) ,FAE_PrimarySecondary_Obesity,Female,610
+2014/15,CCG,E38000035,07T,NHS City and Hackney ,FAE_PrimarySecondary_Obesity,Female,1923
+2014/15,CCG,E38000040,07V,NHS Croydon ,FAE_PrimarySecondary_Obesity,Female,1345
+2014/15,CCG,E38000048,07W,NHS Ealing ,FAE_PrimarySecondary_Obesity,Female,2316
+2014/15,CCG,E38000057,07X,NHS Enfield ,FAE_PrimarySecondary_Obesity,Female,2547
+2014/15,CCG,E38000066,08A,NHS Greenwich ,FAE_PrimarySecondary_Obesity,Female,1287
+2014/15,CCG,E38000070,08C,NHS Hammersmith and Fulham ,FAE_PrimarySecondary_Obesity,Female,566
+2014/15,CCG,E38000072,08D,NHS Haringey ,FAE_PrimarySecondary_Obesity,Female,1650
+2014/15,CCG,E38000074,08E,NHS Harrow ,FAE_PrimarySecondary_Obesity,Female,2308
+2014/15,CCG,E38000077,08F,NHS Havering ,FAE_PrimarySecondary_Obesity,Female,1451
+2014/15,CCG,E38000082,08G,NHS Hillingdon ,FAE_PrimarySecondary_Obesity,Female,2428
+2014/15,CCG,E38000084,07Y,NHS Hounslow ,FAE_PrimarySecondary_Obesity,Female,1080
+2014/15,CCG,E38000088,08H,NHS Islington ,FAE_PrimarySecondary_Obesity,Female,1667
+2014/15,CCG,E38000090,08J,NHS Kingston ,FAE_PrimarySecondary_Obesity,Female,428
+2014/15,CCG,E38000092,08K,NHS Lambeth ,FAE_PrimarySecondary_Obesity,Female,1513
+2014/15,CCG,E38000098,08L,NHS Lewisham ,FAE_PrimarySecondary_Obesity,Female,964
+2014/15,CCG,E38000105,08R,NHS Merton ,FAE_PrimarySecondary_Obesity,Female,700
+2014/15,CCG,E38000113,08M,NHS Newham ,FAE_PrimarySecondary_Obesity,Female,1671
+2014/15,CCG,E38000138,08N,NHS Redbridge ,FAE_PrimarySecondary_Obesity,Female,1364
+2014/15,CCG,E38000140,08P,NHS Richmond ,FAE_PrimarySecondary_Obesity,Female,460
+2014/15,CCG,E38000171,08Q,NHS Southwark ,FAE_PrimarySecondary_Obesity,Female,1651
+2014/15,CCG,E38000179,08T,NHS Sutton ,FAE_PrimarySecondary_Obesity,Female,944
+2014/15,CCG,E38000186,08V,NHS Tower Hamlets ,FAE_PrimarySecondary_Obesity,Female,1102
+2014/15,CCG,E38000192,08W,NHS Waltham Forest ,FAE_PrimarySecondary_Obesity,Female,1999
+2014/15,CCG,E38000193,08X,NHS Wandsworth ,FAE_PrimarySecondary_Obesity,Female,910
+2014/15,CCG,E38000202,08Y,"NHS West London (Kensington and Chelsea, Queen’s Park and Paddington) ",FAE_PrimarySecondary_Obesity,Female,765
+2014/15,CommissioningRegion,E40000004,Y57,South of England,FAE_PrimarySecondary_Obesity,Female,118393
+2014/15,AreaTeam,E39000019,Q64,"Bath, Gloucestershire, Swindon and Wiltshire",FAE_PrimarySecondary_Obesity,Female,9862
+2014/15,CCG,E38000009,11E,NHS Bath and North East Somerset ,FAE_PrimarySecondary_Obesity,Female,1275
+2014/15,CCG,E38000062,11M,NHS Gloucestershire ,FAE_PrimarySecondary_Obesity,Female,1696
+2014/15,CCG,E38000181,12D,NHS Swindon ,FAE_PrimarySecondary_Obesity,Female,2022
+2014/15,CCG,E38000206,99N,NHS Wiltshire ,FAE_PrimarySecondary_Obesity,Female,4869
+2014/15,AreaTeam,E39000020,Q65,"Bristol, North Somerset, Somerset and South Gloucestershire",FAE_PrimarySecondary_Obesity,Female,14595
+2014/15,CCG,E38000022,11H,NHS Bristol ,FAE_PrimarySecondary_Obesity,Female,5275
+2014/15,CCG,E38000125,11T,NHS North Somerset ,FAE_PrimarySecondary_Obesity,Female,2047
+2014/15,CCG,E38000150,11X,NHS Somerset ,FAE_PrimarySecondary_Obesity,Female,4622
+2014/15,CCG,E38000155,12A,NHS South Gloucestershire ,FAE_PrimarySecondary_Obesity,Female,2651
+2014/15,AreaTeam,E39000021,Q66,"Devon, Cornwall and Isles of Scilly",FAE_PrimarySecondary_Obesity,Female,25409
+2014/15,CCG,E38000089,11N,NHS Kernow ,FAE_PrimarySecondary_Obesity,Female,11521
+2014/15,CCG,E38000129,99P,"NHS North, East, West Devon ",FAE_PrimarySecondary_Obesity,Female,9446
+2014/15,CCG,E38000152,99Q,NHS South Devon and Torbay ,FAE_PrimarySecondary_Obesity,Female,4442
+2014/15,AreaTeam,E39000022,Q67,Kent and Medway,FAE_PrimarySecondary_Obesity,Female,12439
+2014/15,CCG,E38000002,09C,NHS Ashford ,FAE_PrimarySecondary_Obesity,Female,445
+2014/15,CCG,E38000029,09E,NHS Canterbury and Coastal ,FAE_PrimarySecondary_Obesity,Female,845
+2014/15,CCG,E38000043,09J,"NHS Dartford, Gravesham and Swanley ",FAE_PrimarySecondary_Obesity,Female,2557
+2014/15,CCG,E38000104,09W,NHS Medway ,FAE_PrimarySecondary_Obesity,Female,3318
+2014/15,CCG,E38000156,10A,NHS South Kent Coast ,FAE_PrimarySecondary_Obesity,Female,837
+2014/15,CCG,E38000180,10D,NHS Swale ,FAE_PrimarySecondary_Obesity,Female,1461
+2014/15,CCG,E38000184,10E,NHS Thanet ,FAE_PrimarySecondary_Obesity,Female,416
+2014/15,CCG,E38000199,99J,NHS West Kent ,FAE_PrimarySecondary_Obesity,Female,2560
+2014/15,AreaTeam,E39000023,Q68,Surrey and Sussex,FAE_PrimarySecondary_Obesity,Female,16884
+2014/15,CCG,E38000021,09D,NHS Brighton & Hove ,FAE_PrimarySecondary_Obesity,Female,1867
+2014/15,CCG,E38000036,09G,NHS Coastal West Sussex ,FAE_PrimarySecondary_Obesity,Female,5622
+2014/15,CCG,E38000039,09H,NHS Crawley ,FAE_PrimarySecondary_Obesity,Female,651
+2014/15,CCG,E38000054,09L,NHS East Surrey ,FAE_PrimarySecondary_Obesity,Female,915
+2014/15,CCG,E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",FAE_PrimarySecondary_Obesity,Female,892
+2014/15,CCG,E38000067,09N,NHS Guildford and Waverley,FAE_PrimarySecondary_Obesity,Female,441
+2014/15,CCG,E38000076,09P,NHS Hastings & Rother ,FAE_PrimarySecondary_Obesity,Female,1119
+2014/15,CCG,E38000081,99K,NHS High Weald Lewes Havens ,FAE_PrimarySecondary_Obesity,Female,1174
+2014/15,CCG,E38000083,09X,NHS Horsham and Mid Sussex ,FAE_PrimarySecondary_Obesity,Female,1612
+2014/15,CCG,E38000128,09Y,NHS North West Surrey ,FAE_PrimarySecondary_Obesity,Female,1363
+2014/15,CCG,E38000177,99H,NHS Surrey Downs ,FAE_PrimarySecondary_Obesity,Female,1087
+2014/15,CCG,E38000178,10C,NHS Surrey Heath ,FAE_PrimarySecondary_Obesity,Female,141
+2014/15,AreaTeam,E39000024,Q69,Thames Valley,FAE_PrimarySecondary_Obesity,Female,15241
+2014/15,CCG,E38000003,10Y,NHS Aylesbury Vale ,FAE_PrimarySecondary_Obesity,Female,1081
+2014/15,CCG,E38000017,10G,NHS Bracknell and Ascot ,FAE_PrimarySecondary_Obesity,Female,856
+2014/15,CCG,E38000033,10H,NHS Chiltern2,FAE_PrimarySecondary_Obesity,Female,2305
+2014/15,CCG,E38000110,10M,NHS Newbury and District ,FAE_PrimarySecondary_Obesity,Female,721
+2014/15,CCG,E38000114,10N,NHS North & West Reading ,FAE_PrimarySecondary_Obesity,Female,877
+2014/15,CCG,E38000136,10Q,NHS Oxfordshire ,FAE_PrimarySecondary_Obesity,Female,3017
+2014/15,CCG,E38000148,10T,NHS Slough ,FAE_PrimarySecondary_Obesity,Female,2524
+2014/15,CCG,E38000160,10W,NHS South Reading ,FAE_PrimarySecondary_Obesity,Female,1039
+2014/15,CCG,E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",FAE_PrimarySecondary_Obesity,Female,1709
+2014/15,CCG,E38000209,11D,NHS Wokingham ,FAE_PrimarySecondary_Obesity,Female,1112
+2014/15,AreaTeam,E39000025,Q70,Wessex,FAE_PrimarySecondary_Obesity,Female,23963
+2014/15,CCG,E38000045,11J,NHS Dorset ,FAE_PrimarySecondary_Obesity,Female,8298
+2014/15,CCG,E38000059,10K,NHS Fareham and Gosport ,FAE_PrimarySecondary_Obesity,Female,1219
+2014/15,CCG,E38000087,10L,NHS Isle of Wight ,FAE_PrimarySecondary_Obesity,Female,1641
+2014/15,CCG,E38000118,99M,NHS North East Hampshire and Farnham ,FAE_PrimarySecondary_Obesity,Female,366
+2014/15,CCG,E38000120,10J,NHS North Hampshire ,FAE_PrimarySecondary_Obesity,Female,587
+2014/15,CCG,E38000137,10R,NHS Portsmouth ,FAE_PrimarySecondary_Obesity,Female,1182
+2014/15,CCG,E38000154,10V,NHS South Eastern Hampshire ,FAE_PrimarySecondary_Obesity,Female,1213
+2014/15,CCG,E38000167,10X,NHS Southampton ,FAE_PrimarySecondary_Obesity,Female,4304
+2014/15,CCG,E38000198,11A,NHS West Hampshire ,FAE_PrimarySecondary_Obesity,Female,5153
+2014/15,National,E92000001,ENG,England,FCE_PrimarySecondary_Obesity_Bariatric,All persons,6032
+2014/15,National,U,U,Unknown,FCE_PrimarySecondary_Obesity_Bariatric,All persons,0
+2014/15,CommissioningRegion,E40000001,Y54,North of England,FCE_PrimarySecondary_Obesity_Bariatric,All persons,2002
+2014/15,AreaTeam,E39000001,Q44,"Cheshire, Warrington and Wirral",FCE_PrimarySecondary_Obesity_Bariatric,All persons,99
+2014/15,CCG,E38000056,01C,NHS Eastern Cheshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,7
+2014/15,CCG,E38000151,01R,NHS South Cheshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,14
+2014/15,CCG,E38000189,02D,NHS Vale Royal ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,8
+2014/15,CCG,E38000194,02E,NHS Warrington ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,13
+2014/15,CCG,E38000196,02F,NHS West Cheshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,39
+2014/15,CCG,E38000208,12F,NHS Wirral ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,18
+2014/15,AreaTeam,E39000002,Q45,"Durham, Darlington and Tees",FCE_PrimarySecondary_Obesity_Bariatric,All persons,627
+2014/15,CCG,E38000042,00C,NHS Darlington ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,45
+2014/15,CCG,E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",FCE_PrimarySecondary_Obesity_Bariatric,All persons,182
+2014/15,CCG,E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,139
+2014/15,CCG,E38000116,00J,NHS North Durham ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,116
+2014/15,CCG,E38000162,00M,NHS South Tees ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,145
+2014/15,AreaTeam,E39000003,Q46,Greater Manchester,FCE_PrimarySecondary_Obesity_Bariatric,All persons,159
+2014/15,CCG,E38000016,00T,NHS Bolton ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,18
+2014/15,CCG,E38000024,00V,NHS Bury ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,10
+2014/15,CCG,E38000032,00W,NHS Central Manchester ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,6
+2014/15,CCG,E38000080,01D,"NHS Heywood, Middleton & Rochdale ",FCE_PrimarySecondary_Obesity_Bariatric,All persons,31
+2014/15,CCG,E38000123,01M,NHS North Manchester ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,9
+2014/15,CCG,E38000135,00Y,NHS Oldham ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,13
+2014/15,CCG,E38000143,01G,NHS Salford ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,6
+2014/15,CCG,E38000158,01N,NHS South Manchester ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,9
+2014/15,CCG,E38000174,01W,NHS Stockport ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,8
+2014/15,CCG,E38000182,01Y,NHS Tameside and Glossop ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,11
+2014/15,CCG,E38000187,02A,NHS Trafford ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,6
+2014/15,CCG,E38000205,02H,NHS Wigan Borough ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,32
+2014/15,AreaTeam,E39000004,Q47,Lancashire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,84
+2014/15,CCG,E38000014,00Q,NHS Blackburn with Darwen ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,8
+2014/15,CCG,E38000015,00R,NHS Blackpool ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,20
+2014/15,CCG,E38000034,00X,NHS Chorley and South Ribble ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,11
+2014/15,CCG,E38000050,01A,NHS East Lancashire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,21
+2014/15,CCG,E38000060,02M,NHS Fylde & Wyre ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,8
+2014/15,CCG,E38000065,01E,NHS Greater Preston ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,CCG,E38000093,01K,NHS Lancashire North ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,CCG,E38000200,02G,NHS West Lancashire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,7
+2014/15,AreaTeam,E39000005,Q48,Merseyside,FCE_PrimarySecondary_Obesity_Bariatric,All persons,149
+2014/15,CCG,E38000068,01F,NHS Halton ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,14
+2014/15,CCG,E38000091,01J,NHS Knowsley ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,21
+2014/15,CCG,E38000101,99A,NHS Liverpool ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,65
+2014/15,CCG,E38000161,01T,NHS South Sefton ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,23
+2014/15,CCG,E38000170,01V,NHS Southport and Formby ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,9
+2014/15,CCG,E38000172,01X,NHS St Helens ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,17
+2014/15,AreaTeam,E39000006,Q49,"Cumbria, Northumberland, Tyne and Wear",FCE_PrimarySecondary_Obesity_Bariatric,All persons,457
+2014/15,CCG,E38000041,01H,NHS Cumbria ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,36
+2014/15,CCG,E38000061,00F,NHS Gateshead ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,61
+2014/15,CCG,E38000111,00G,NHS Newcastle North and East ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,17
+2014/15,CCG,E38000112,00H,NHS Newcastle West ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,23
+2014/15,CCG,E38000127,99C,NHS North Tyneside ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,27
+2014/15,CCG,E38000130,00L,NHS Northumberland ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,37
+2014/15,CCG,E38000163,00N,NHS South Tyneside ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,79
+2014/15,CCG,E38000176,00P,NHS Sunderland ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,177
+2014/15,AreaTeam,E39000007,Q50,North Yorkshire and Humber,FCE_PrimarySecondary_Obesity_Bariatric,All persons,134
+2014/15,CCG,E38000052,02Y,NHS East Riding of Yorkshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,20
+2014/15,CCG,E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",FCE_PrimarySecondary_Obesity_Bariatric,All persons,24
+2014/15,CCG,E38000073,03E,NHS Harrogate and Rural District ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,9
+2014/15,CCG,E38000085,03F,NHS Hull ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,22
+2014/15,CCG,E38000119,03H,NHS North East Lincolnshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,7
+2014/15,CCG,E38000122,03K,NHS North Lincolnshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,15
+2014/15,CCG,E38000145,03M,NHS Scarborough and Ryedale ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,16
+2014/15,CCG,E38000188,03Q,NHS Vale of York ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,21
+2014/15,AreaTeam,E39000008,Q51,South Yorkshire and Bassetlaw,FCE_PrimarySecondary_Obesity_Bariatric,All persons,124
+2014/15,CCG,E38000006,02P,NHS Barnsley ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,25
+2014/15,CCG,E38000008,02Q,NHS Bassetlaw ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,6
+2014/15,CCG,E38000044,02X,NHS Doncaster ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,41
+2014/15,CCG,E38000141,03L,NHS Rotherham ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,7
+2014/15,CCG,E38000146,03N,NHS Sheffield ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,45
+2014/15,AreaTeam,E39000009,Q52,West Yorkshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,169
+2014/15,CCG,E38000001,02N,"NHS Airedale, Wharfedale and Craven ",FCE_PrimarySecondary_Obesity_Bariatric,All persons,17
+2014/15,CCG,E38000018,02W,NHS Bradford City ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,CCG,E38000019,02R,NHS Bradford Districts ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,24
+2014/15,CCG,E38000025,02T,NHS Calderdale ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,17
+2014/15,CCG,E38000064,03A,NHS Greater Huddersfield ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,6
+2014/15,CCG,E38000094,02V,NHS Leeds North ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,CCG,E38000095,03G,NHS Leeds South and East ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,23
+2014/15,CCG,E38000096,03C,NHS Leeds West ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,17
+2014/15,CCG,E38000121,03J,NHS North Kirklees ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,18
+2014/15,CCG,E38000190,03R,NHS Wakefield ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,37
+2014/15,CommissioningRegion,E40000002,Y55,Midlands and East of England,FCE_PrimarySecondary_Obesity_Bariatric,All persons,1210
+2014/15,AreaTeam,E39000010,Q53,"Arden, Herefordshire and Worcestershire",FCE_PrimarySecondary_Obesity_Bariatric,All persons,122
+2014/15,CCG,E38000038,05A,NHS Coventry and Rugby ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,29
+2014/15,CCG,E38000078,05F,NHS Herefordshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,11
+2014/15,CCG,E38000139,05J,NHS Redditch and Bromsgrove ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,16
+2014/15,CCG,E38000164,05R,NHS South Warwickshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,13
+2014/15,CCG,E38000166,05T,NHS South Worcestershire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,26
+2014/15,CCG,E38000195,05H,NHS Warwickshire North ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,15
+2014/15,CCG,E38000211,06D,NHS Wyre Forest ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,12
+2014/15,AreaTeam,E39000011,Q54,Birmingham and the Black Country,FCE_PrimarySecondary_Obesity_Bariatric,All persons,217
+2014/15,CCG,E38000012,13P,NHS Birmingham CrossCity ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,58
+2014/15,CCG,E38000013,04X,NHS Birmingham South and Central ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,15
+2014/15,CCG,E38000046,05C,NHS Dudley ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,24
+2014/15,CCG,E38000144,05L,NHS Sandwell and West Birmingham ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,47
+2014/15,CCG,E38000149,05P,NHS Solihull ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,16
+2014/15,CCG,E38000191,05Y,NHS Walsall ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,26
+2014/15,CCG,E38000210,06A,NHS Wolverhampton ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,31
+2014/15,AreaTeam,E39000012,Q55,Derbyshire and Nottinghamshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,111
+2014/15,CCG,E38000058,03X,NHS Erewash ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,CCG,E38000071,03Y,NHS Hardwick ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,9
+2014/15,CCG,E38000103,04E,NHS Mansfield & Ashfield ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,15
+2014/15,CCG,E38000109,04H,NHS Newark & Sherwood ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,CCG,E38000115,04J,NHS North Derbyshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,24
+2014/15,CCG,E38000132,04K,NHS Nottingham City ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,10
+2014/15,CCG,E38000133,04L,NHS Nottingham North & East ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,9
+2014/15,CCG,E38000134,04M,NHS Nottingham West ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,7
+2014/15,CCG,E38000142,04N,NHS Rushcliffe ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,CCG,E38000169,04R,NHS Southern Derbyshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,24
+2014/15,AreaTeam,E39000013,Q56,East Anglia,FCE_PrimarySecondary_Obesity_Bariatric,All persons,88
+2014/15,CCG,E38000026,06H,NHS Cambridgeshire and Peterborough ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,39
+2014/15,CCG,E38000063,06M,NHS Great Yarmouth & Waveney ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,10
+2014/15,CCG,E38000086,06L,NHS Ipswich and East Suffolk ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,11
+2014/15,CCG,E38000124,06V,NHS North Norfolk ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,CCG,E38000131,06W,NHS Norwich ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,CCG,E38000159,06Y,NHS South Norfolk ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,8
+2014/15,CCG,E38000203,07J,NHS West Norfolk ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,8
+2014/15,CCG,E38000204,07K,NHS West Suffolk ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,AreaTeam,E39000014,Q57,Essex,FCE_PrimarySecondary_Obesity_Bariatric,All persons,109
+2014/15,CCG,E38000007,99E,NHS Basildon and Brentwood ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,15
+2014/15,CCG,E38000030,99F,"NHS Castle Point, Rayleigh and Rochford ",FCE_PrimarySecondary_Obesity_Bariatric,All persons,14
+2014/15,CCG,E38000106,06Q,NHS Mid Essex ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,11
+2014/15,CCG,E38000117,06T,NHS North East Essex ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,12
+2014/15,CCG,E38000168,99G,NHS Southend ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,23
+2014/15,CCG,E38000185,07G,NHS Thurrock ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,21
+2014/15,CCG,E38000197,07H,NHS West Essex ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,13
+2014/15,AreaTeam,E39000015,Q58,Hertfordshire and the South Midlands,FCE_PrimarySecondary_Obesity_Bariatric,All persons,159
+2014/15,CCG,E38000010,06F,NHS Bedfordshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,26
+2014/15,CCG,E38000037,03V,NHS Corby,FCE_PrimarySecondary_Obesity_Bariatric,All persons,0
+2014/15,CCG,E38000049,06K,NHS East and North Hertfordshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,33
+2014/15,CCG,E38000079,06N,NHS Herts Valleys ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,38
+2014/15,CCG,E38000102,06P,NHS Luton ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,23
+2014/15,CCG,E38000107,04F,NHS Milton Keynes ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,16
+2014/15,CCG,E38000108,04G,NHS Nene ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,23
+2014/15,AreaTeam,E39000016,Q59,Leicestershire and Lincolnshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,74
+2014/15,CCG,E38000051,03W,NHS East Leicestershire and Rutland ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,6
+2014/15,CCG,E38000097,04C,NHS Leicester City ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,7
+2014/15,CCG,E38000099,03T,NHS Lincolnshire East ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,21
+2014/15,CCG,E38000100,04D,NHS Lincolnshire West ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,15
+2014/15,CCG,E38000157,99D,NHS South Lincolnshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,10
+2014/15,CCG,E38000165,04Q,NHS South West Lincolnshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,6
+2014/15,CCG,E38000201,04V,NHS West Leicestershire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,9
+2014/15,AreaTeam,E39000017,Q60,Shropshire and Staffordshire,FCE_PrimarySecondary_Obesity_Bariatric,All persons,330
+2014/15,CCG,E38000028,04Y,NHS Cannock Chase ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,CCG,E38000053,05D,NHS East Staffordshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,CCG,E38000126,05G,NHS North Staffordshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,51
+2014/15,CCG,E38000147,05N,NHS Shropshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,49
+2014/15,CCG,E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,11
+2014/15,CCG,E38000173,05V,NHS Stafford and Surrounds ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,16
+2014/15,CCG,E38000175,05W,NHS Stoke on Trent ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,113
+2014/15,CCG,E38000183,05X,NHS Telford & Wrekin ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,80
+2014/15,CommissioningRegion,E40000003,Y56,London,FCE_PrimarySecondary_Obesity_Bariatric,All persons,1377
+2014/15,AreaTeam,E39000018,Q71,London,FCE_PrimarySecondary_Obesity_Bariatric,All persons,1377
+2014/15,CCG,E38000004,07L,NHS Barking & Dagenham ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,31
+2014/15,CCG,E38000005,07M,NHS Barnet ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,79
+2014/15,CCG,E38000011,07N,NHS Bexley ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,55
+2014/15,CCG,E38000020,07P,NHS Brent ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,65
+2014/15,CCG,E38000023,07Q,NHS Bromley ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,68
+2014/15,CCG,E38000027,07R,NHS Camden ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,43
+2014/15,CCG,E38000031,09A,NHS Central London (Westminster) ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,33
+2014/15,CCG,E38000035,07T,NHS City and Hackney ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,55
+2014/15,CCG,E38000040,07V,NHS Croydon ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,53
+2014/15,CCG,E38000048,07W,NHS Ealing ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,68
+2014/15,CCG,E38000057,07X,NHS Enfield ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,40
+2014/15,CCG,E38000066,08A,NHS Greenwich ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,59
+2014/15,CCG,E38000070,08C,NHS Hammersmith and Fulham ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,39
+2014/15,CCG,E38000072,08D,NHS Haringey ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,36
+2014/15,CCG,E38000074,08E,NHS Harrow ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,39
+2014/15,CCG,E38000077,08F,NHS Havering ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,26
+2014/15,CCG,E38000082,08G,NHS Hillingdon ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,54
+2014/15,CCG,E38000084,07Y,NHS Hounslow ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,51
+2014/15,CCG,E38000088,08H,NHS Islington ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,30
+2014/15,CCG,E38000090,08J,NHS Kingston ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,10
+2014/15,CCG,E38000092,08K,NHS Lambeth ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,55
+2014/15,CCG,E38000098,08L,NHS Lewisham ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,71
+2014/15,CCG,E38000105,08R,NHS Merton ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,24
+2014/15,CCG,E38000113,08M,NHS Newham ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,30
+2014/15,CCG,E38000138,08N,NHS Redbridge ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,22
+2014/15,CCG,E38000140,08P,NHS Richmond ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,15
+2014/15,CCG,E38000171,08Q,NHS Southwark ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,60
+2014/15,CCG,E38000179,08T,NHS Sutton ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,28
+2014/15,CCG,E38000186,08V,NHS Tower Hamlets ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,31
+2014/15,CCG,E38000192,08W,NHS Waltham Forest ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,36
+2014/15,CCG,E38000193,08X,NHS Wandsworth ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,34
+2014/15,CCG,E38000202,08Y,"NHS West London (Kensington and Chelsea, Queen’s Park and Paddington) ",FCE_PrimarySecondary_Obesity_Bariatric,All persons,37
+2014/15,CommissioningRegion,E40000004,Y57,South of England,FCE_PrimarySecondary_Obesity_Bariatric,All persons,1443
+2014/15,AreaTeam,E39000019,Q64,"Bath, Gloucestershire, Swindon and Wiltshire",FCE_PrimarySecondary_Obesity_Bariatric,All persons,79
+2014/15,CCG,E38000009,11E,NHS Bath and North East Somerset ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,10
+2014/15,CCG,E38000062,11M,NHS Gloucestershire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,28
+2014/15,CCG,E38000181,12D,NHS Swindon ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,19
+2014/15,CCG,E38000206,99N,NHS Wiltshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,22
+2014/15,AreaTeam,E39000020,Q65,"Bristol, North Somerset, Somerset and South Gloucestershire",FCE_PrimarySecondary_Obesity_Bariatric,All persons,95
+2014/15,CCG,E38000022,11H,NHS Bristol ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,30
+2014/15,CCG,E38000125,11T,NHS North Somerset ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,8
+2014/15,CCG,E38000150,11X,NHS Somerset ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,42
+2014/15,CCG,E38000155,12A,NHS South Gloucestershire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,15
+2014/15,AreaTeam,E39000021,Q66,"Devon, Cornwall and Isles of Scilly",FCE_PrimarySecondary_Obesity_Bariatric,All persons,301
+2014/15,CCG,E38000089,11N,NHS Kernow ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,129
+2014/15,CCG,E38000129,99P,"NHS North, East, West Devon ",FCE_PrimarySecondary_Obesity_Bariatric,All persons,150
+2014/15,CCG,E38000152,99Q,NHS South Devon and Torbay ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,22
+2014/15,AreaTeam,E39000022,Q67,Kent and Medway,FCE_PrimarySecondary_Obesity_Bariatric,All persons,224
+2014/15,CCG,E38000002,09C,NHS Ashford ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,9
+2014/15,CCG,E38000029,09E,NHS Canterbury and Coastal ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,14
+2014/15,CCG,E38000043,09J,"NHS Dartford, Gravesham and Swanley ",FCE_PrimarySecondary_Obesity_Bariatric,All persons,53
+2014/15,CCG,E38000104,09W,NHS Medway ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,46
+2014/15,CCG,E38000156,10A,NHS South Kent Coast ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,27
+2014/15,CCG,E38000180,10D,NHS Swale ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,23
+2014/15,CCG,E38000184,10E,NHS Thanet ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,17
+2014/15,CCG,E38000199,99J,NHS West Kent ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,35
+2014/15,AreaTeam,E39000023,Q68,Surrey and Sussex,FCE_PrimarySecondary_Obesity_Bariatric,All persons,319
+2014/15,CCG,E38000021,09D,NHS Brighton & Hove ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,26
+2014/15,CCG,E38000036,09G,NHS Coastal West Sussex ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,67
+2014/15,CCG,E38000039,09H,NHS Crawley ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,24
+2014/15,CCG,E38000054,09L,NHS East Surrey ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,20
+2014/15,CCG,E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",FCE_PrimarySecondary_Obesity_Bariatric,All persons,28
+2014/15,CCG,E38000067,09N,NHS Guildford and Waverley,FCE_PrimarySecondary_Obesity_Bariatric,All persons,18
+2014/15,CCG,E38000076,09P,NHS Hastings & Rother ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,16
+2014/15,CCG,E38000081,99K,NHS High Weald Lewes Havens ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,23
+2014/15,CCG,E38000083,09X,NHS Horsham and Mid Sussex ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,22
+2014/15,CCG,E38000128,09Y,NHS North West Surrey ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,43
+2014/15,CCG,E38000177,99H,NHS Surrey Downs ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,24
+2014/15,CCG,E38000178,10C,NHS Surrey Heath ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,8
+2014/15,AreaTeam,E39000024,Q69,Thames Valley,FCE_PrimarySecondary_Obesity_Bariatric,All persons,144
+2014/15,CCG,E38000003,10Y,NHS Aylesbury Vale ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,8
+2014/15,CCG,E38000017,10G,NHS Bracknell and Ascot ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,CCG,E38000033,10H,NHS Chiltern2,FCE_PrimarySecondary_Obesity_Bariatric,All persons,13
+2014/15,CCG,E38000110,10M,NHS Newbury and District ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,13
+2014/15,CCG,E38000114,10N,NHS North & West Reading ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,11
+2014/15,CCG,E38000136,10Q,NHS Oxfordshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,56
+2014/15,CCG,E38000148,10T,NHS Slough ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,12
+2014/15,CCG,E38000160,10W,NHS South Reading ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,11
+2014/15,CCG,E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,CCG,E38000209,11D,NHS Wokingham ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,12
+2014/15,AreaTeam,E39000025,Q70,Wessex,FCE_PrimarySecondary_Obesity_Bariatric,All persons,281
+2014/15,CCG,E38000045,11J,NHS Dorset ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,47
+2014/15,CCG,E38000059,10K,NHS Fareham and Gosport ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,21
+2014/15,CCG,E38000087,10L,NHS Isle of Wight ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,CCG,E38000118,99M,NHS North East Hampshire and Farnham ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,21
+2014/15,CCG,E38000120,10J,NHS North Hampshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,*
+2014/15,CCG,E38000137,10R,NHS Portsmouth ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,65
+2014/15,CCG,E38000154,10V,NHS South Eastern Hampshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,30
+2014/15,CCG,E38000167,10X,NHS Southampton ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,32
+2014/15,CCG,E38000198,11A,NHS West Hampshire ,FCE_PrimarySecondary_Obesity_Bariatric,All persons,41
+2014/15,National,E92000001,,England,FCE_PrimarySecondary_Obesity_Bariatric,Male,6032
+2014/15,National,U,U,Unknown,FCE_PrimarySecondary_Obesity_Bariatric,Male,0
+2014/15,CommissioningRegion,E40000001,Y54,North of England,FCE_PrimarySecondary_Obesity_Bariatric,Male,2002
+2014/15,AreaTeam,E39000001,Q44,"Cheshire, Warrington and Wirral",FCE_PrimarySecondary_Obesity_Bariatric,Male,99
+2014/15,CCG,E38000056,01C,NHS Eastern Cheshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2014/15,CCG,E38000151,01R,NHS South Cheshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,14
+2014/15,CCG,E38000189,02D,NHS Vale Royal ,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2014/15,CCG,E38000194,02E,NHS Warrington ,FCE_PrimarySecondary_Obesity_Bariatric,Male,13
+2014/15,CCG,E38000196,02F,NHS West Cheshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,39
+2014/15,CCG,E38000208,12F,NHS Wirral ,FCE_PrimarySecondary_Obesity_Bariatric,Male,18
+2014/15,AreaTeam,E39000002,Q45,"Durham, Darlington and Tees",FCE_PrimarySecondary_Obesity_Bariatric,Male,627
+2014/15,CCG,E38000042,00C,NHS Darlington ,FCE_PrimarySecondary_Obesity_Bariatric,Male,45
+2014/15,CCG,E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",FCE_PrimarySecondary_Obesity_Bariatric,Male,182
+2014/15,CCG,E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,FCE_PrimarySecondary_Obesity_Bariatric,Male,139
+2014/15,CCG,E38000116,00J,NHS North Durham ,FCE_PrimarySecondary_Obesity_Bariatric,Male,116
+2014/15,CCG,E38000162,00M,NHS South Tees ,FCE_PrimarySecondary_Obesity_Bariatric,Male,145
+2014/15,AreaTeam,E39000003,Q46,Greater Manchester,FCE_PrimarySecondary_Obesity_Bariatric,Male,159
+2014/15,CCG,E38000016,00T,NHS Bolton ,FCE_PrimarySecondary_Obesity_Bariatric,Male,18
+2014/15,CCG,E38000024,00V,NHS Bury ,FCE_PrimarySecondary_Obesity_Bariatric,Male,10
+2014/15,CCG,E38000032,00W,NHS Central Manchester ,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2014/15,CCG,E38000080,01D,"NHS Heywood, Middleton & Rochdale ",FCE_PrimarySecondary_Obesity_Bariatric,Male,31
+2014/15,CCG,E38000123,01M,NHS North Manchester ,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2014/15,CCG,E38000135,00Y,NHS Oldham ,FCE_PrimarySecondary_Obesity_Bariatric,Male,13
+2014/15,CCG,E38000143,01G,NHS Salford ,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2014/15,CCG,E38000158,01N,NHS South Manchester ,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2014/15,CCG,E38000174,01W,NHS Stockport ,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2014/15,CCG,E38000182,01Y,NHS Tameside and Glossop ,FCE_PrimarySecondary_Obesity_Bariatric,Male,11
+2014/15,CCG,E38000187,02A,NHS Trafford ,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2014/15,CCG,E38000205,02H,NHS Wigan Borough ,FCE_PrimarySecondary_Obesity_Bariatric,Male,32
+2014/15,AreaTeam,E39000004,Q47,Lancashire,FCE_PrimarySecondary_Obesity_Bariatric,Male,84
+2014/15,CCG,E38000014,00Q,NHS Blackburn with Darwen ,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2014/15,CCG,E38000015,00R,NHS Blackpool ,FCE_PrimarySecondary_Obesity_Bariatric,Male,20
+2014/15,CCG,E38000034,00X,NHS Chorley and South Ribble ,FCE_PrimarySecondary_Obesity_Bariatric,Male,11
+2014/15,CCG,E38000050,01A,NHS East Lancashire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,21
+2014/15,CCG,E38000060,02M,NHS Fylde & Wyre ,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2014/15,CCG,E38000065,01E,NHS Greater Preston ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,CCG,E38000093,01K,NHS Lancashire North ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,CCG,E38000200,02G,NHS West Lancashire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2014/15,AreaTeam,E39000005,Q48,Merseyside,FCE_PrimarySecondary_Obesity_Bariatric,Male,149
+2014/15,CCG,E38000068,01F,NHS Halton ,FCE_PrimarySecondary_Obesity_Bariatric,Male,14
+2014/15,CCG,E38000091,01J,NHS Knowsley ,FCE_PrimarySecondary_Obesity_Bariatric,Male,21
+2014/15,CCG,E38000101,99A,NHS Liverpool ,FCE_PrimarySecondary_Obesity_Bariatric,Male,65
+2014/15,CCG,E38000161,01T,NHS South Sefton ,FCE_PrimarySecondary_Obesity_Bariatric,Male,23
+2014/15,CCG,E38000170,01V,NHS Southport and Formby ,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2014/15,CCG,E38000172,01X,NHS St Helens ,FCE_PrimarySecondary_Obesity_Bariatric,Male,17
+2014/15,AreaTeam,E39000006,Q49,"Cumbria, Northumberland, Tyne and Wear",FCE_PrimarySecondary_Obesity_Bariatric,Male,457
+2014/15,CCG,E38000041,01H,NHS Cumbria ,FCE_PrimarySecondary_Obesity_Bariatric,Male,36
+2014/15,CCG,E38000061,00F,NHS Gateshead ,FCE_PrimarySecondary_Obesity_Bariatric,Male,61
+2014/15,CCG,E38000111,00G,NHS Newcastle North and East ,FCE_PrimarySecondary_Obesity_Bariatric,Male,17
+2014/15,CCG,E38000112,00H,NHS Newcastle West ,FCE_PrimarySecondary_Obesity_Bariatric,Male,23
+2014/15,CCG,E38000127,99C,NHS North Tyneside ,FCE_PrimarySecondary_Obesity_Bariatric,Male,27
+2014/15,CCG,E38000130,00L,NHS Northumberland ,FCE_PrimarySecondary_Obesity_Bariatric,Male,37
+2014/15,CCG,E38000163,00N,NHS South Tyneside ,FCE_PrimarySecondary_Obesity_Bariatric,Male,79
+2014/15,CCG,E38000176,00P,NHS Sunderland ,FCE_PrimarySecondary_Obesity_Bariatric,Male,177
+2014/15,AreaTeam,E39000007,Q50,North Yorkshire and Humber,FCE_PrimarySecondary_Obesity_Bariatric,Male,134
+2014/15,CCG,E38000052,02Y,NHS East Riding of Yorkshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,20
+2014/15,CCG,E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",FCE_PrimarySecondary_Obesity_Bariatric,Male,24
+2014/15,CCG,E38000073,03E,NHS Harrogate and Rural District ,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2014/15,CCG,E38000085,03F,NHS Hull ,FCE_PrimarySecondary_Obesity_Bariatric,Male,22
+2014/15,CCG,E38000119,03H,NHS North East Lincolnshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2014/15,CCG,E38000122,03K,NHS North Lincolnshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,15
+2014/15,CCG,E38000145,03M,NHS Scarborough and Ryedale ,FCE_PrimarySecondary_Obesity_Bariatric,Male,16
+2014/15,CCG,E38000188,03Q,NHS Vale of York ,FCE_PrimarySecondary_Obesity_Bariatric,Male,21
+2014/15,AreaTeam,E39000008,Q51,South Yorkshire and Bassetlaw,FCE_PrimarySecondary_Obesity_Bariatric,Male,124
+2014/15,CCG,E38000006,02P,NHS Barnsley ,FCE_PrimarySecondary_Obesity_Bariatric,Male,25
+2014/15,CCG,E38000008,02Q,NHS Bassetlaw ,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2014/15,CCG,E38000044,02X,NHS Doncaster ,FCE_PrimarySecondary_Obesity_Bariatric,Male,41
+2014/15,CCG,E38000141,03L,NHS Rotherham ,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2014/15,CCG,E38000146,03N,NHS Sheffield ,FCE_PrimarySecondary_Obesity_Bariatric,Male,45
+2014/15,AreaTeam,E39000009,Q52,West Yorkshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,169
+2014/15,CCG,E38000001,02N,"NHS Airedale, Wharfedale and Craven ",FCE_PrimarySecondary_Obesity_Bariatric,Male,17
+2014/15,CCG,E38000018,02W,NHS Bradford City ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,CCG,E38000019,02R,NHS Bradford Districts ,FCE_PrimarySecondary_Obesity_Bariatric,Male,24
+2014/15,CCG,E38000025,02T,NHS Calderdale ,FCE_PrimarySecondary_Obesity_Bariatric,Male,17
+2014/15,CCG,E38000064,03A,NHS Greater Huddersfield ,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2014/15,CCG,E38000094,02V,NHS Leeds North ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,CCG,E38000095,03G,NHS Leeds South and East ,FCE_PrimarySecondary_Obesity_Bariatric,Male,23
+2014/15,CCG,E38000096,03C,NHS Leeds West ,FCE_PrimarySecondary_Obesity_Bariatric,Male,17
+2014/15,CCG,E38000121,03J,NHS North Kirklees ,FCE_PrimarySecondary_Obesity_Bariatric,Male,18
+2014/15,CCG,E38000190,03R,NHS Wakefield ,FCE_PrimarySecondary_Obesity_Bariatric,Male,37
+2014/15,CommissioningRegion,E40000002,Y55,Midlands and East of England,FCE_PrimarySecondary_Obesity_Bariatric,Male,1210
+2014/15,AreaTeam,E39000010,Q53,"Arden, Herefordshire and Worcestershire",FCE_PrimarySecondary_Obesity_Bariatric,Male,122
+2014/15,CCG,E38000038,05A,NHS Coventry and Rugby ,FCE_PrimarySecondary_Obesity_Bariatric,Male,29
+2014/15,CCG,E38000078,05F,NHS Herefordshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,11
+2014/15,CCG,E38000139,05J,NHS Redditch and Bromsgrove ,FCE_PrimarySecondary_Obesity_Bariatric,Male,16
+2014/15,CCG,E38000164,05R,NHS South Warwickshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,13
+2014/15,CCG,E38000166,05T,NHS South Worcestershire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,26
+2014/15,CCG,E38000195,05H,NHS Warwickshire North ,FCE_PrimarySecondary_Obesity_Bariatric,Male,15
+2014/15,CCG,E38000211,06D,NHS Wyre Forest ,FCE_PrimarySecondary_Obesity_Bariatric,Male,12
+2014/15,AreaTeam,E39000011,Q54,Birmingham and the Black Country,FCE_PrimarySecondary_Obesity_Bariatric,Male,217
+2014/15,CCG,E38000012,13P,NHS Birmingham CrossCity ,FCE_PrimarySecondary_Obesity_Bariatric,Male,58
+2014/15,CCG,E38000013,04X,NHS Birmingham South and Central ,FCE_PrimarySecondary_Obesity_Bariatric,Male,15
+2014/15,CCG,E38000046,05C,NHS Dudley ,FCE_PrimarySecondary_Obesity_Bariatric,Male,24
+2014/15,CCG,E38000144,05L,NHS Sandwell and West Birmingham ,FCE_PrimarySecondary_Obesity_Bariatric,Male,47
+2014/15,CCG,E38000149,05P,NHS Solihull ,FCE_PrimarySecondary_Obesity_Bariatric,Male,16
+2014/15,CCG,E38000191,05Y,NHS Walsall ,FCE_PrimarySecondary_Obesity_Bariatric,Male,26
+2014/15,CCG,E38000210,06A,NHS Wolverhampton ,FCE_PrimarySecondary_Obesity_Bariatric,Male,31
+2014/15,AreaTeam,E39000012,Q55,Derbyshire and Nottinghamshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,111
+2014/15,CCG,E38000058,03X,NHS Erewash ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,CCG,E38000071,03Y,NHS Hardwick ,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2014/15,CCG,E38000103,04E,NHS Mansfield & Ashfield ,FCE_PrimarySecondary_Obesity_Bariatric,Male,15
+2014/15,CCG,E38000109,04H,NHS Newark & Sherwood ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,CCG,E38000115,04J,NHS North Derbyshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,24
+2014/15,CCG,E38000132,04K,NHS Nottingham City ,FCE_PrimarySecondary_Obesity_Bariatric,Male,10
+2014/15,CCG,E38000133,04L,NHS Nottingham North & East ,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2014/15,CCG,E38000134,04M,NHS Nottingham West ,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2014/15,CCG,E38000142,04N,NHS Rushcliffe ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,CCG,E38000169,04R,NHS Southern Derbyshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,24
+2014/15,AreaTeam,E39000013,Q56,East Anglia,FCE_PrimarySecondary_Obesity_Bariatric,Male,88
+2014/15,CCG,E38000026,06H,NHS Cambridgeshire and Peterborough ,FCE_PrimarySecondary_Obesity_Bariatric,Male,39
+2014/15,CCG,E38000063,06M,NHS Great Yarmouth & Waveney ,FCE_PrimarySecondary_Obesity_Bariatric,Male,10
+2014/15,CCG,E38000086,06L,NHS Ipswich and East Suffolk ,FCE_PrimarySecondary_Obesity_Bariatric,Male,11
+2014/15,CCG,E38000124,06V,NHS North Norfolk ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,CCG,E38000131,06W,NHS Norwich ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,CCG,E38000159,06Y,NHS South Norfolk ,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2014/15,CCG,E38000203,07J,NHS West Norfolk ,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2014/15,CCG,E38000204,07K,NHS West Suffolk ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,AreaTeam,E39000014,Q57,Essex,FCE_PrimarySecondary_Obesity_Bariatric,Male,109
+2014/15,CCG,E38000007,99E,NHS Basildon and Brentwood ,FCE_PrimarySecondary_Obesity_Bariatric,Male,15
+2014/15,CCG,E38000030,99F,"NHS Castle Point, Rayleigh and Rochford ",FCE_PrimarySecondary_Obesity_Bariatric,Male,14
+2014/15,CCG,E38000106,06Q,NHS Mid Essex ,FCE_PrimarySecondary_Obesity_Bariatric,Male,11
+2014/15,CCG,E38000117,06T,NHS North East Essex ,FCE_PrimarySecondary_Obesity_Bariatric,Male,12
+2014/15,CCG,E38000168,99G,NHS Southend ,FCE_PrimarySecondary_Obesity_Bariatric,Male,23
+2014/15,CCG,E38000185,07G,NHS Thurrock ,FCE_PrimarySecondary_Obesity_Bariatric,Male,21
+2014/15,CCG,E38000197,07H,NHS West Essex ,FCE_PrimarySecondary_Obesity_Bariatric,Male,13
+2014/15,AreaTeam,E39000015,Q58,Hertfordshire and the South Midlands,FCE_PrimarySecondary_Obesity_Bariatric,Male,159
+2014/15,CCG,E38000010,06F,NHS Bedfordshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,26
+2014/15,CCG,E38000037,03V,NHS Corby,FCE_PrimarySecondary_Obesity_Bariatric,Male,0
+2014/15,CCG,E38000049,06K,NHS East and North Hertfordshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,33
+2014/15,CCG,E38000079,06N,NHS Herts Valleys ,FCE_PrimarySecondary_Obesity_Bariatric,Male,38
+2014/15,CCG,E38000102,06P,NHS Luton ,FCE_PrimarySecondary_Obesity_Bariatric,Male,23
+2014/15,CCG,E38000107,04F,NHS Milton Keynes ,FCE_PrimarySecondary_Obesity_Bariatric,Male,16
+2014/15,CCG,E38000108,04G,NHS Nene ,FCE_PrimarySecondary_Obesity_Bariatric,Male,23
+2014/15,AreaTeam,E39000016,Q59,Leicestershire and Lincolnshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,74
+2014/15,CCG,E38000051,03W,NHS East Leicestershire and Rutland ,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2014/15,CCG,E38000097,04C,NHS Leicester City ,FCE_PrimarySecondary_Obesity_Bariatric,Male,7
+2014/15,CCG,E38000099,03T,NHS Lincolnshire East ,FCE_PrimarySecondary_Obesity_Bariatric,Male,21
+2014/15,CCG,E38000100,04D,NHS Lincolnshire West ,FCE_PrimarySecondary_Obesity_Bariatric,Male,15
+2014/15,CCG,E38000157,99D,NHS South Lincolnshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,10
+2014/15,CCG,E38000165,04Q,NHS South West Lincolnshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,6
+2014/15,CCG,E38000201,04V,NHS West Leicestershire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2014/15,AreaTeam,E39000017,Q60,Shropshire and Staffordshire,FCE_PrimarySecondary_Obesity_Bariatric,Male,330
+2014/15,CCG,E38000028,04Y,NHS Cannock Chase ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,CCG,E38000053,05D,NHS East Staffordshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,CCG,E38000126,05G,NHS North Staffordshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,51
+2014/15,CCG,E38000147,05N,NHS Shropshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,49
+2014/15,CCG,E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,FCE_PrimarySecondary_Obesity_Bariatric,Male,11
+2014/15,CCG,E38000173,05V,NHS Stafford and Surrounds ,FCE_PrimarySecondary_Obesity_Bariatric,Male,16
+2014/15,CCG,E38000175,05W,NHS Stoke on Trent ,FCE_PrimarySecondary_Obesity_Bariatric,Male,113
+2014/15,CCG,E38000183,05X,NHS Telford & Wrekin ,FCE_PrimarySecondary_Obesity_Bariatric,Male,80
+2014/15,CommissioningRegion,E40000003,Y56,London,FCE_PrimarySecondary_Obesity_Bariatric,Male,1377
+2014/15,AreaTeam,E39000018,Q71,London,FCE_PrimarySecondary_Obesity_Bariatric,Male,1377
+2014/15,CCG,E38000004,07L,NHS Barking & Dagenham ,FCE_PrimarySecondary_Obesity_Bariatric,Male,31
+2014/15,CCG,E38000005,07M,NHS Barnet ,FCE_PrimarySecondary_Obesity_Bariatric,Male,79
+2014/15,CCG,E38000011,07N,NHS Bexley ,FCE_PrimarySecondary_Obesity_Bariatric,Male,55
+2014/15,CCG,E38000020,07P,NHS Brent ,FCE_PrimarySecondary_Obesity_Bariatric,Male,65
+2014/15,CCG,E38000023,07Q,NHS Bromley ,FCE_PrimarySecondary_Obesity_Bariatric,Male,68
+2014/15,CCG,E38000027,07R,NHS Camden ,FCE_PrimarySecondary_Obesity_Bariatric,Male,43
+2014/15,CCG,E38000031,09A,NHS Central London (Westminster) ,FCE_PrimarySecondary_Obesity_Bariatric,Male,33
+2014/15,CCG,E38000035,07T,NHS City and Hackney ,FCE_PrimarySecondary_Obesity_Bariatric,Male,55
+2014/15,CCG,E38000040,07V,NHS Croydon ,FCE_PrimarySecondary_Obesity_Bariatric,Male,53
+2014/15,CCG,E38000048,07W,NHS Ealing ,FCE_PrimarySecondary_Obesity_Bariatric,Male,68
+2014/15,CCG,E38000057,07X,NHS Enfield ,FCE_PrimarySecondary_Obesity_Bariatric,Male,40
+2014/15,CCG,E38000066,08A,NHS Greenwich ,FCE_PrimarySecondary_Obesity_Bariatric,Male,59
+2014/15,CCG,E38000070,08C,NHS Hammersmith and Fulham ,FCE_PrimarySecondary_Obesity_Bariatric,Male,39
+2014/15,CCG,E38000072,08D,NHS Haringey ,FCE_PrimarySecondary_Obesity_Bariatric,Male,36
+2014/15,CCG,E38000074,08E,NHS Harrow ,FCE_PrimarySecondary_Obesity_Bariatric,Male,39
+2014/15,CCG,E38000077,08F,NHS Havering ,FCE_PrimarySecondary_Obesity_Bariatric,Male,26
+2014/15,CCG,E38000082,08G,NHS Hillingdon ,FCE_PrimarySecondary_Obesity_Bariatric,Male,54
+2014/15,CCG,E38000084,07Y,NHS Hounslow ,FCE_PrimarySecondary_Obesity_Bariatric,Male,51
+2014/15,CCG,E38000088,08H,NHS Islington ,FCE_PrimarySecondary_Obesity_Bariatric,Male,30
+2014/15,CCG,E38000090,08J,NHS Kingston ,FCE_PrimarySecondary_Obesity_Bariatric,Male,10
+2014/15,CCG,E38000092,08K,NHS Lambeth ,FCE_PrimarySecondary_Obesity_Bariatric,Male,55
+2014/15,CCG,E38000098,08L,NHS Lewisham ,FCE_PrimarySecondary_Obesity_Bariatric,Male,71
+2014/15,CCG,E38000105,08R,NHS Merton ,FCE_PrimarySecondary_Obesity_Bariatric,Male,24
+2014/15,CCG,E38000113,08M,NHS Newham ,FCE_PrimarySecondary_Obesity_Bariatric,Male,30
+2014/15,CCG,E38000138,08N,NHS Redbridge ,FCE_PrimarySecondary_Obesity_Bariatric,Male,22
+2014/15,CCG,E38000140,08P,NHS Richmond ,FCE_PrimarySecondary_Obesity_Bariatric,Male,15
+2014/15,CCG,E38000171,08Q,NHS Southwark ,FCE_PrimarySecondary_Obesity_Bariatric,Male,60
+2014/15,CCG,E38000179,08T,NHS Sutton ,FCE_PrimarySecondary_Obesity_Bariatric,Male,28
+2014/15,CCG,E38000186,08V,NHS Tower Hamlets ,FCE_PrimarySecondary_Obesity_Bariatric,Male,31
+2014/15,CCG,E38000192,08W,NHS Waltham Forest ,FCE_PrimarySecondary_Obesity_Bariatric,Male,36
+2014/15,CCG,E38000193,08X,NHS Wandsworth ,FCE_PrimarySecondary_Obesity_Bariatric,Male,34
+2014/15,CCG,E38000202,08Y,"NHS West London (Kensington and Chelsea, Queen’s Park and Paddington) ",FCE_PrimarySecondary_Obesity_Bariatric,Male,37
+2014/15,CommissioningRegion,E40000004,Y57,South of England,FCE_PrimarySecondary_Obesity_Bariatric,Male,1443
+2014/15,AreaTeam,E39000019,Q64,"Bath, Gloucestershire, Swindon and Wiltshire",FCE_PrimarySecondary_Obesity_Bariatric,Male,79
+2014/15,CCG,E38000009,11E,NHS Bath and North East Somerset ,FCE_PrimarySecondary_Obesity_Bariatric,Male,10
+2014/15,CCG,E38000062,11M,NHS Gloucestershire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,28
+2014/15,CCG,E38000181,12D,NHS Swindon ,FCE_PrimarySecondary_Obesity_Bariatric,Male,19
+2014/15,CCG,E38000206,99N,NHS Wiltshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,22
+2014/15,AreaTeam,E39000020,Q65,"Bristol, North Somerset, Somerset and South Gloucestershire",FCE_PrimarySecondary_Obesity_Bariatric,Male,95
+2014/15,CCG,E38000022,11H,NHS Bristol ,FCE_PrimarySecondary_Obesity_Bariatric,Male,30
+2014/15,CCG,E38000125,11T,NHS North Somerset ,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2014/15,CCG,E38000150,11X,NHS Somerset ,FCE_PrimarySecondary_Obesity_Bariatric,Male,42
+2014/15,CCG,E38000155,12A,NHS South Gloucestershire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,15
+2014/15,AreaTeam,E39000021,Q66,"Devon, Cornwall and Isles of Scilly",FCE_PrimarySecondary_Obesity_Bariatric,Male,301
+2014/15,CCG,E38000089,11N,NHS Kernow ,FCE_PrimarySecondary_Obesity_Bariatric,Male,129
+2014/15,CCG,E38000129,99P,"NHS North, East, West Devon ",FCE_PrimarySecondary_Obesity_Bariatric,Male,150
+2014/15,CCG,E38000152,99Q,NHS South Devon and Torbay ,FCE_PrimarySecondary_Obesity_Bariatric,Male,22
+2014/15,AreaTeam,E39000022,Q67,Kent and Medway,FCE_PrimarySecondary_Obesity_Bariatric,Male,224
+2014/15,CCG,E38000002,09C,NHS Ashford ,FCE_PrimarySecondary_Obesity_Bariatric,Male,9
+2014/15,CCG,E38000029,09E,NHS Canterbury and Coastal ,FCE_PrimarySecondary_Obesity_Bariatric,Male,14
+2014/15,CCG,E38000043,09J,"NHS Dartford, Gravesham and Swanley ",FCE_PrimarySecondary_Obesity_Bariatric,Male,53
+2014/15,CCG,E38000104,09W,NHS Medway ,FCE_PrimarySecondary_Obesity_Bariatric,Male,46
+2014/15,CCG,E38000156,10A,NHS South Kent Coast ,FCE_PrimarySecondary_Obesity_Bariatric,Male,27
+2014/15,CCG,E38000180,10D,NHS Swale ,FCE_PrimarySecondary_Obesity_Bariatric,Male,23
+2014/15,CCG,E38000184,10E,NHS Thanet ,FCE_PrimarySecondary_Obesity_Bariatric,Male,17
+2014/15,CCG,E38000199,99J,NHS West Kent ,FCE_PrimarySecondary_Obesity_Bariatric,Male,35
+2014/15,AreaTeam,E39000023,Q68,Surrey and Sussex,FCE_PrimarySecondary_Obesity_Bariatric,Male,319
+2014/15,CCG,E38000021,09D,NHS Brighton & Hove ,FCE_PrimarySecondary_Obesity_Bariatric,Male,26
+2014/15,CCG,E38000036,09G,NHS Coastal West Sussex ,FCE_PrimarySecondary_Obesity_Bariatric,Male,67
+2014/15,CCG,E38000039,09H,NHS Crawley ,FCE_PrimarySecondary_Obesity_Bariatric,Male,24
+2014/15,CCG,E38000054,09L,NHS East Surrey ,FCE_PrimarySecondary_Obesity_Bariatric,Male,20
+2014/15,CCG,E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",FCE_PrimarySecondary_Obesity_Bariatric,Male,28
+2014/15,CCG,E38000067,09N,NHS Guildford and Waverley,FCE_PrimarySecondary_Obesity_Bariatric,Male,18
+2014/15,CCG,E38000076,09P,NHS Hastings & Rother ,FCE_PrimarySecondary_Obesity_Bariatric,Male,16
+2014/15,CCG,E38000081,99K,NHS High Weald Lewes Havens ,FCE_PrimarySecondary_Obesity_Bariatric,Male,23
+2014/15,CCG,E38000083,09X,NHS Horsham and Mid Sussex ,FCE_PrimarySecondary_Obesity_Bariatric,Male,22
+2014/15,CCG,E38000128,09Y,NHS North West Surrey ,FCE_PrimarySecondary_Obesity_Bariatric,Male,43
+2014/15,CCG,E38000177,99H,NHS Surrey Downs ,FCE_PrimarySecondary_Obesity_Bariatric,Male,24
+2014/15,CCG,E38000178,10C,NHS Surrey Heath ,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2014/15,AreaTeam,E39000024,Q69,Thames Valley,FCE_PrimarySecondary_Obesity_Bariatric,Male,144
+2014/15,CCG,E38000003,10Y,NHS Aylesbury Vale ,FCE_PrimarySecondary_Obesity_Bariatric,Male,8
+2014/15,CCG,E38000017,10G,NHS Bracknell and Ascot ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,CCG,E38000033,10H,NHS Chiltern2,FCE_PrimarySecondary_Obesity_Bariatric,Male,13
+2014/15,CCG,E38000110,10M,NHS Newbury and District ,FCE_PrimarySecondary_Obesity_Bariatric,Male,13
+2014/15,CCG,E38000114,10N,NHS North & West Reading ,FCE_PrimarySecondary_Obesity_Bariatric,Male,11
+2014/15,CCG,E38000136,10Q,NHS Oxfordshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,56
+2014/15,CCG,E38000148,10T,NHS Slough ,FCE_PrimarySecondary_Obesity_Bariatric,Male,12
+2014/15,CCG,E38000160,10W,NHS South Reading ,FCE_PrimarySecondary_Obesity_Bariatric,Male,11
+2014/15,CCG,E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,CCG,E38000209,11D,NHS Wokingham ,FCE_PrimarySecondary_Obesity_Bariatric,Male,12
+2014/15,AreaTeam,E39000025,Q70,Wessex,FCE_PrimarySecondary_Obesity_Bariatric,Male,281
+2014/15,CCG,E38000045,11J,NHS Dorset ,FCE_PrimarySecondary_Obesity_Bariatric,Male,47
+2014/15,CCG,E38000059,10K,NHS Fareham and Gosport ,FCE_PrimarySecondary_Obesity_Bariatric,Male,21
+2014/15,CCG,E38000087,10L,NHS Isle of Wight ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,CCG,E38000118,99M,NHS North East Hampshire and Farnham ,FCE_PrimarySecondary_Obesity_Bariatric,Male,21
+2014/15,CCG,E38000120,10J,NHS North Hampshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,*
+2014/15,CCG,E38000137,10R,NHS Portsmouth ,FCE_PrimarySecondary_Obesity_Bariatric,Male,65
+2014/15,CCG,E38000154,10V,NHS South Eastern Hampshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,30
+2014/15,CCG,E38000167,10X,NHS Southampton ,FCE_PrimarySecondary_Obesity_Bariatric,Male,32
+2014/15,CCG,E38000198,11A,NHS West Hampshire ,FCE_PrimarySecondary_Obesity_Bariatric,Male,41
+2014/15,National,E92000001,,England,FCE_PrimarySecondary_Obesity_Bariatric,Female,6032
+2014/15,National,U,U,Unknown,FCE_PrimarySecondary_Obesity_Bariatric,Female,0
+2014/15,CommissioningRegion,E40000001,Y54,North of England,FCE_PrimarySecondary_Obesity_Bariatric,Female,2002
+2014/15,AreaTeam,E39000001,Q44,"Cheshire, Warrington and Wirral",FCE_PrimarySecondary_Obesity_Bariatric,Female,99
+2014/15,CCG,E38000056,01C,NHS Eastern Cheshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,7
+2014/15,CCG,E38000151,01R,NHS South Cheshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,14
+2014/15,CCG,E38000189,02D,NHS Vale Royal ,FCE_PrimarySecondary_Obesity_Bariatric,Female,8
+2014/15,CCG,E38000194,02E,NHS Warrington ,FCE_PrimarySecondary_Obesity_Bariatric,Female,13
+2014/15,CCG,E38000196,02F,NHS West Cheshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,39
+2014/15,CCG,E38000208,12F,NHS Wirral ,FCE_PrimarySecondary_Obesity_Bariatric,Female,18
+2014/15,AreaTeam,E39000002,Q45,"Durham, Darlington and Tees",FCE_PrimarySecondary_Obesity_Bariatric,Female,627
+2014/15,CCG,E38000042,00C,NHS Darlington ,FCE_PrimarySecondary_Obesity_Bariatric,Female,45
+2014/15,CCG,E38000047,00D,"NHS Durham Dales, Easington and Sedgefield ",FCE_PrimarySecondary_Obesity_Bariatric,Female,182
+2014/15,CCG,E38000075,00K,NHS Hartlepool and Stockton-on-Tees ,FCE_PrimarySecondary_Obesity_Bariatric,Female,139
+2014/15,CCG,E38000116,00J,NHS North Durham ,FCE_PrimarySecondary_Obesity_Bariatric,Female,116
+2014/15,CCG,E38000162,00M,NHS South Tees ,FCE_PrimarySecondary_Obesity_Bariatric,Female,145
+2014/15,AreaTeam,E39000003,Q46,Greater Manchester,FCE_PrimarySecondary_Obesity_Bariatric,Female,159
+2014/15,CCG,E38000016,00T,NHS Bolton ,FCE_PrimarySecondary_Obesity_Bariatric,Female,18
+2014/15,CCG,E38000024,00V,NHS Bury ,FCE_PrimarySecondary_Obesity_Bariatric,Female,10
+2014/15,CCG,E38000032,00W,NHS Central Manchester ,FCE_PrimarySecondary_Obesity_Bariatric,Female,6
+2014/15,CCG,E38000080,01D,"NHS Heywood, Middleton & Rochdale ",FCE_PrimarySecondary_Obesity_Bariatric,Female,31
+2014/15,CCG,E38000123,01M,NHS North Manchester ,FCE_PrimarySecondary_Obesity_Bariatric,Female,9
+2014/15,CCG,E38000135,00Y,NHS Oldham ,FCE_PrimarySecondary_Obesity_Bariatric,Female,13
+2014/15,CCG,E38000143,01G,NHS Salford ,FCE_PrimarySecondary_Obesity_Bariatric,Female,6
+2014/15,CCG,E38000158,01N,NHS South Manchester ,FCE_PrimarySecondary_Obesity_Bariatric,Female,9
+2014/15,CCG,E38000174,01W,NHS Stockport ,FCE_PrimarySecondary_Obesity_Bariatric,Female,8
+2014/15,CCG,E38000182,01Y,NHS Tameside and Glossop ,FCE_PrimarySecondary_Obesity_Bariatric,Female,11
+2014/15,CCG,E38000187,02A,NHS Trafford ,FCE_PrimarySecondary_Obesity_Bariatric,Female,6
+2014/15,CCG,E38000205,02H,NHS Wigan Borough ,FCE_PrimarySecondary_Obesity_Bariatric,Female,32
+2014/15,AreaTeam,E39000004,Q47,Lancashire,FCE_PrimarySecondary_Obesity_Bariatric,Female,84
+2014/15,CCG,E38000014,00Q,NHS Blackburn with Darwen ,FCE_PrimarySecondary_Obesity_Bariatric,Female,8
+2014/15,CCG,E38000015,00R,NHS Blackpool ,FCE_PrimarySecondary_Obesity_Bariatric,Female,20
+2014/15,CCG,E38000034,00X,NHS Chorley and South Ribble ,FCE_PrimarySecondary_Obesity_Bariatric,Female,11
+2014/15,CCG,E38000050,01A,NHS East Lancashire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,21
+2014/15,CCG,E38000060,02M,NHS Fylde & Wyre ,FCE_PrimarySecondary_Obesity_Bariatric,Female,8
+2014/15,CCG,E38000065,01E,NHS Greater Preston ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,CCG,E38000093,01K,NHS Lancashire North ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,CCG,E38000200,02G,NHS West Lancashire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,7
+2014/15,AreaTeam,E39000005,Q48,Merseyside,FCE_PrimarySecondary_Obesity_Bariatric,Female,149
+2014/15,CCG,E38000068,01F,NHS Halton ,FCE_PrimarySecondary_Obesity_Bariatric,Female,14
+2014/15,CCG,E38000091,01J,NHS Knowsley ,FCE_PrimarySecondary_Obesity_Bariatric,Female,21
+2014/15,CCG,E38000101,99A,NHS Liverpool ,FCE_PrimarySecondary_Obesity_Bariatric,Female,65
+2014/15,CCG,E38000161,01T,NHS South Sefton ,FCE_PrimarySecondary_Obesity_Bariatric,Female,23
+2014/15,CCG,E38000170,01V,NHS Southport and Formby ,FCE_PrimarySecondary_Obesity_Bariatric,Female,9
+2014/15,CCG,E38000172,01X,NHS St Helens ,FCE_PrimarySecondary_Obesity_Bariatric,Female,17
+2014/15,AreaTeam,E39000006,Q49,"Cumbria, Northumberland, Tyne and Wear",FCE_PrimarySecondary_Obesity_Bariatric,Female,457
+2014/15,CCG,E38000041,01H,NHS Cumbria ,FCE_PrimarySecondary_Obesity_Bariatric,Female,36
+2014/15,CCG,E38000061,00F,NHS Gateshead ,FCE_PrimarySecondary_Obesity_Bariatric,Female,61
+2014/15,CCG,E38000111,00G,NHS Newcastle North and East ,FCE_PrimarySecondary_Obesity_Bariatric,Female,17
+2014/15,CCG,E38000112,00H,NHS Newcastle West ,FCE_PrimarySecondary_Obesity_Bariatric,Female,23
+2014/15,CCG,E38000127,99C,NHS North Tyneside ,FCE_PrimarySecondary_Obesity_Bariatric,Female,27
+2014/15,CCG,E38000130,00L,NHS Northumberland ,FCE_PrimarySecondary_Obesity_Bariatric,Female,37
+2014/15,CCG,E38000163,00N,NHS South Tyneside ,FCE_PrimarySecondary_Obesity_Bariatric,Female,79
+2014/15,CCG,E38000176,00P,NHS Sunderland ,FCE_PrimarySecondary_Obesity_Bariatric,Female,177
+2014/15,AreaTeam,E39000007,Q50,North Yorkshire and Humber,FCE_PrimarySecondary_Obesity_Bariatric,Female,134
+2014/15,CCG,E38000052,02Y,NHS East Riding of Yorkshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,20
+2014/15,CCG,E38000069,03D,"NHS Hambleton, Richmondshire and Whitby ",FCE_PrimarySecondary_Obesity_Bariatric,Female,24
+2014/15,CCG,E38000073,03E,NHS Harrogate and Rural District ,FCE_PrimarySecondary_Obesity_Bariatric,Female,9
+2014/15,CCG,E38000085,03F,NHS Hull ,FCE_PrimarySecondary_Obesity_Bariatric,Female,22
+2014/15,CCG,E38000119,03H,NHS North East Lincolnshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,7
+2014/15,CCG,E38000122,03K,NHS North Lincolnshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,15
+2014/15,CCG,E38000145,03M,NHS Scarborough and Ryedale ,FCE_PrimarySecondary_Obesity_Bariatric,Female,16
+2014/15,CCG,E38000188,03Q,NHS Vale of York ,FCE_PrimarySecondary_Obesity_Bariatric,Female,21
+2014/15,AreaTeam,E39000008,Q51,South Yorkshire and Bassetlaw,FCE_PrimarySecondary_Obesity_Bariatric,Female,124
+2014/15,CCG,E38000006,02P,NHS Barnsley ,FCE_PrimarySecondary_Obesity_Bariatric,Female,25
+2014/15,CCG,E38000008,02Q,NHS Bassetlaw ,FCE_PrimarySecondary_Obesity_Bariatric,Female,6
+2014/15,CCG,E38000044,02X,NHS Doncaster ,FCE_PrimarySecondary_Obesity_Bariatric,Female,41
+2014/15,CCG,E38000141,03L,NHS Rotherham ,FCE_PrimarySecondary_Obesity_Bariatric,Female,7
+2014/15,CCG,E38000146,03N,NHS Sheffield ,FCE_PrimarySecondary_Obesity_Bariatric,Female,45
+2014/15,AreaTeam,E39000009,Q52,West Yorkshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,169
+2014/15,CCG,E38000001,02N,"NHS Airedale, Wharfedale and Craven ",FCE_PrimarySecondary_Obesity_Bariatric,Female,17
+2014/15,CCG,E38000018,02W,NHS Bradford City ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,CCG,E38000019,02R,NHS Bradford Districts ,FCE_PrimarySecondary_Obesity_Bariatric,Female,24
+2014/15,CCG,E38000025,02T,NHS Calderdale ,FCE_PrimarySecondary_Obesity_Bariatric,Female,17
+2014/15,CCG,E38000064,03A,NHS Greater Huddersfield ,FCE_PrimarySecondary_Obesity_Bariatric,Female,6
+2014/15,CCG,E38000094,02V,NHS Leeds North ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,CCG,E38000095,03G,NHS Leeds South and East ,FCE_PrimarySecondary_Obesity_Bariatric,Female,23
+2014/15,CCG,E38000096,03C,NHS Leeds West ,FCE_PrimarySecondary_Obesity_Bariatric,Female,17
+2014/15,CCG,E38000121,03J,NHS North Kirklees ,FCE_PrimarySecondary_Obesity_Bariatric,Female,18
+2014/15,CCG,E38000190,03R,NHS Wakefield ,FCE_PrimarySecondary_Obesity_Bariatric,Female,37
+2014/15,CommissioningRegion,E40000002,Y55,Midlands and East of England,FCE_PrimarySecondary_Obesity_Bariatric,Female,1210
+2014/15,AreaTeam,E39000010,Q53,"Arden, Herefordshire and Worcestershire",FCE_PrimarySecondary_Obesity_Bariatric,Female,122
+2014/15,CCG,E38000038,05A,NHS Coventry and Rugby ,FCE_PrimarySecondary_Obesity_Bariatric,Female,29
+2014/15,CCG,E38000078,05F,NHS Herefordshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,11
+2014/15,CCG,E38000139,05J,NHS Redditch and Bromsgrove ,FCE_PrimarySecondary_Obesity_Bariatric,Female,16
+2014/15,CCG,E38000164,05R,NHS South Warwickshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,13
+2014/15,CCG,E38000166,05T,NHS South Worcestershire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,26
+2014/15,CCG,E38000195,05H,NHS Warwickshire North ,FCE_PrimarySecondary_Obesity_Bariatric,Female,15
+2014/15,CCG,E38000211,06D,NHS Wyre Forest ,FCE_PrimarySecondary_Obesity_Bariatric,Female,12
+2014/15,AreaTeam,E39000011,Q54,Birmingham and the Black Country,FCE_PrimarySecondary_Obesity_Bariatric,Female,217
+2014/15,CCG,E38000012,13P,NHS Birmingham CrossCity ,FCE_PrimarySecondary_Obesity_Bariatric,Female,58
+2014/15,CCG,E38000013,04X,NHS Birmingham South and Central ,FCE_PrimarySecondary_Obesity_Bariatric,Female,15
+2014/15,CCG,E38000046,05C,NHS Dudley ,FCE_PrimarySecondary_Obesity_Bariatric,Female,24
+2014/15,CCG,E38000144,05L,NHS Sandwell and West Birmingham ,FCE_PrimarySecondary_Obesity_Bariatric,Female,47
+2014/15,CCG,E38000149,05P,NHS Solihull ,FCE_PrimarySecondary_Obesity_Bariatric,Female,16
+2014/15,CCG,E38000191,05Y,NHS Walsall ,FCE_PrimarySecondary_Obesity_Bariatric,Female,26
+2014/15,CCG,E38000210,06A,NHS Wolverhampton ,FCE_PrimarySecondary_Obesity_Bariatric,Female,31
+2014/15,AreaTeam,E39000012,Q55,Derbyshire and Nottinghamshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,111
+2014/15,CCG,E38000058,03X,NHS Erewash ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,CCG,E38000071,03Y,NHS Hardwick ,FCE_PrimarySecondary_Obesity_Bariatric,Female,9
+2014/15,CCG,E38000103,04E,NHS Mansfield & Ashfield ,FCE_PrimarySecondary_Obesity_Bariatric,Female,15
+2014/15,CCG,E38000109,04H,NHS Newark & Sherwood ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,CCG,E38000115,04J,NHS North Derbyshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,24
+2014/15,CCG,E38000132,04K,NHS Nottingham City ,FCE_PrimarySecondary_Obesity_Bariatric,Female,10
+2014/15,CCG,E38000133,04L,NHS Nottingham North & East ,FCE_PrimarySecondary_Obesity_Bariatric,Female,9
+2014/15,CCG,E38000134,04M,NHS Nottingham West ,FCE_PrimarySecondary_Obesity_Bariatric,Female,7
+2014/15,CCG,E38000142,04N,NHS Rushcliffe ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,CCG,E38000169,04R,NHS Southern Derbyshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,24
+2014/15,AreaTeam,E39000013,Q56,East Anglia,FCE_PrimarySecondary_Obesity_Bariatric,Female,88
+2014/15,CCG,E38000026,06H,NHS Cambridgeshire and Peterborough ,FCE_PrimarySecondary_Obesity_Bariatric,Female,39
+2014/15,CCG,E38000063,06M,NHS Great Yarmouth & Waveney ,FCE_PrimarySecondary_Obesity_Bariatric,Female,10
+2014/15,CCG,E38000086,06L,NHS Ipswich and East Suffolk ,FCE_PrimarySecondary_Obesity_Bariatric,Female,11
+2014/15,CCG,E38000124,06V,NHS North Norfolk ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,CCG,E38000131,06W,NHS Norwich ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,CCG,E38000159,06Y,NHS South Norfolk ,FCE_PrimarySecondary_Obesity_Bariatric,Female,8
+2014/15,CCG,E38000203,07J,NHS West Norfolk ,FCE_PrimarySecondary_Obesity_Bariatric,Female,8
+2014/15,CCG,E38000204,07K,NHS West Suffolk ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,AreaTeam,E39000014,Q57,Essex,FCE_PrimarySecondary_Obesity_Bariatric,Female,109
+2014/15,CCG,E38000007,99E,NHS Basildon and Brentwood ,FCE_PrimarySecondary_Obesity_Bariatric,Female,15
+2014/15,CCG,E38000030,99F,"NHS Castle Point, Rayleigh and Rochford ",FCE_PrimarySecondary_Obesity_Bariatric,Female,14
+2014/15,CCG,E38000106,06Q,NHS Mid Essex ,FCE_PrimarySecondary_Obesity_Bariatric,Female,11
+2014/15,CCG,E38000117,06T,NHS North East Essex ,FCE_PrimarySecondary_Obesity_Bariatric,Female,12
+2014/15,CCG,E38000168,99G,NHS Southend ,FCE_PrimarySecondary_Obesity_Bariatric,Female,23
+2014/15,CCG,E38000185,07G,NHS Thurrock ,FCE_PrimarySecondary_Obesity_Bariatric,Female,21
+2014/15,CCG,E38000197,07H,NHS West Essex ,FCE_PrimarySecondary_Obesity_Bariatric,Female,13
+2014/15,AreaTeam,E39000015,Q58,Hertfordshire and the South Midlands,FCE_PrimarySecondary_Obesity_Bariatric,Female,159
+2014/15,CCG,E38000010,06F,NHS Bedfordshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,26
+2014/15,CCG,E38000037,03V,NHS Corby,FCE_PrimarySecondary_Obesity_Bariatric,Female,0
+2014/15,CCG,E38000049,06K,NHS East and North Hertfordshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,33
+2014/15,CCG,E38000079,06N,NHS Herts Valleys ,FCE_PrimarySecondary_Obesity_Bariatric,Female,38
+2014/15,CCG,E38000102,06P,NHS Luton ,FCE_PrimarySecondary_Obesity_Bariatric,Female,23
+2014/15,CCG,E38000107,04F,NHS Milton Keynes ,FCE_PrimarySecondary_Obesity_Bariatric,Female,16
+2014/15,CCG,E38000108,04G,NHS Nene ,FCE_PrimarySecondary_Obesity_Bariatric,Female,23
+2014/15,AreaTeam,E39000016,Q59,Leicestershire and Lincolnshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,74
+2014/15,CCG,E38000051,03W,NHS East Leicestershire and Rutland ,FCE_PrimarySecondary_Obesity_Bariatric,Female,6
+2014/15,CCG,E38000097,04C,NHS Leicester City ,FCE_PrimarySecondary_Obesity_Bariatric,Female,7
+2014/15,CCG,E38000099,03T,NHS Lincolnshire East ,FCE_PrimarySecondary_Obesity_Bariatric,Female,21
+2014/15,CCG,E38000100,04D,NHS Lincolnshire West ,FCE_PrimarySecondary_Obesity_Bariatric,Female,15
+2014/15,CCG,E38000157,99D,NHS South Lincolnshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,10
+2014/15,CCG,E38000165,04Q,NHS South West Lincolnshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,6
+2014/15,CCG,E38000201,04V,NHS West Leicestershire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,9
+2014/15,AreaTeam,E39000017,Q60,Shropshire and Staffordshire,FCE_PrimarySecondary_Obesity_Bariatric,Female,330
+2014/15,CCG,E38000028,04Y,NHS Cannock Chase ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,CCG,E38000053,05D,NHS East Staffordshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,CCG,E38000126,05G,NHS North Staffordshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,51
+2014/15,CCG,E38000147,05N,NHS Shropshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,49
+2014/15,CCG,E38000153,05Q,NHS South East Staffs and Seisdon and Peninsular ,FCE_PrimarySecondary_Obesity_Bariatric,Female,11
+2014/15,CCG,E38000173,05V,NHS Stafford and Surrounds ,FCE_PrimarySecondary_Obesity_Bariatric,Female,16
+2014/15,CCG,E38000175,05W,NHS Stoke on Trent ,FCE_PrimarySecondary_Obesity_Bariatric,Female,113
+2014/15,CCG,E38000183,05X,NHS Telford & Wrekin ,FCE_PrimarySecondary_Obesity_Bariatric,Female,80
+2014/15,CommissioningRegion,E40000003,Y56,London,FCE_PrimarySecondary_Obesity_Bariatric,Female,1377
+2014/15,AreaTeam,E39000018,Q71,London,FCE_PrimarySecondary_Obesity_Bariatric,Female,1377
+2014/15,CCG,E38000004,07L,NHS Barking & Dagenham ,FCE_PrimarySecondary_Obesity_Bariatric,Female,31
+2014/15,CCG,E38000005,07M,NHS Barnet ,FCE_PrimarySecondary_Obesity_Bariatric,Female,79
+2014/15,CCG,E38000011,07N,NHS Bexley ,FCE_PrimarySecondary_Obesity_Bariatric,Female,55
+2014/15,CCG,E38000020,07P,NHS Brent ,FCE_PrimarySecondary_Obesity_Bariatric,Female,65
+2014/15,CCG,E38000023,07Q,NHS Bromley ,FCE_PrimarySecondary_Obesity_Bariatric,Female,68
+2014/15,CCG,E38000027,07R,NHS Camden ,FCE_PrimarySecondary_Obesity_Bariatric,Female,43
+2014/15,CCG,E38000031,09A,NHS Central London (Westminster) ,FCE_PrimarySecondary_Obesity_Bariatric,Female,33
+2014/15,CCG,E38000035,07T,NHS City and Hackney ,FCE_PrimarySecondary_Obesity_Bariatric,Female,55
+2014/15,CCG,E38000040,07V,NHS Croydon ,FCE_PrimarySecondary_Obesity_Bariatric,Female,53
+2014/15,CCG,E38000048,07W,NHS Ealing ,FCE_PrimarySecondary_Obesity_Bariatric,Female,68
+2014/15,CCG,E38000057,07X,NHS Enfield ,FCE_PrimarySecondary_Obesity_Bariatric,Female,40
+2014/15,CCG,E38000066,08A,NHS Greenwich ,FCE_PrimarySecondary_Obesity_Bariatric,Female,59
+2014/15,CCG,E38000070,08C,NHS Hammersmith and Fulham ,FCE_PrimarySecondary_Obesity_Bariatric,Female,39
+2014/15,CCG,E38000072,08D,NHS Haringey ,FCE_PrimarySecondary_Obesity_Bariatric,Female,36
+2014/15,CCG,E38000074,08E,NHS Harrow ,FCE_PrimarySecondary_Obesity_Bariatric,Female,39
+2014/15,CCG,E38000077,08F,NHS Havering ,FCE_PrimarySecondary_Obesity_Bariatric,Female,26
+2014/15,CCG,E38000082,08G,NHS Hillingdon ,FCE_PrimarySecondary_Obesity_Bariatric,Female,54
+2014/15,CCG,E38000084,07Y,NHS Hounslow ,FCE_PrimarySecondary_Obesity_Bariatric,Female,51
+2014/15,CCG,E38000088,08H,NHS Islington ,FCE_PrimarySecondary_Obesity_Bariatric,Female,30
+2014/15,CCG,E38000090,08J,NHS Kingston ,FCE_PrimarySecondary_Obesity_Bariatric,Female,10
+2014/15,CCG,E38000092,08K,NHS Lambeth ,FCE_PrimarySecondary_Obesity_Bariatric,Female,55
+2014/15,CCG,E38000098,08L,NHS Lewisham ,FCE_PrimarySecondary_Obesity_Bariatric,Female,71
+2014/15,CCG,E38000105,08R,NHS Merton ,FCE_PrimarySecondary_Obesity_Bariatric,Female,24
+2014/15,CCG,E38000113,08M,NHS Newham ,FCE_PrimarySecondary_Obesity_Bariatric,Female,30
+2014/15,CCG,E38000138,08N,NHS Redbridge ,FCE_PrimarySecondary_Obesity_Bariatric,Female,22
+2014/15,CCG,E38000140,08P,NHS Richmond ,FCE_PrimarySecondary_Obesity_Bariatric,Female,15
+2014/15,CCG,E38000171,08Q,NHS Southwark ,FCE_PrimarySecondary_Obesity_Bariatric,Female,60
+2014/15,CCG,E38000179,08T,NHS Sutton ,FCE_PrimarySecondary_Obesity_Bariatric,Female,28
+2014/15,CCG,E38000186,08V,NHS Tower Hamlets ,FCE_PrimarySecondary_Obesity_Bariatric,Female,31
+2014/15,CCG,E38000192,08W,NHS Waltham Forest ,FCE_PrimarySecondary_Obesity_Bariatric,Female,36
+2014/15,CCG,E38000193,08X,NHS Wandsworth ,FCE_PrimarySecondary_Obesity_Bariatric,Female,34
+2014/15,CCG,E38000202,08Y,"NHS West London (Kensington and Chelsea, Queen’s Park and Paddington) ",FCE_PrimarySecondary_Obesity_Bariatric,Female,37
+2014/15,CommissioningRegion,E40000004,Y57,South of England,FCE_PrimarySecondary_Obesity_Bariatric,Female,1443
+2014/15,AreaTeam,E39000019,Q64,"Bath, Gloucestershire, Swindon and Wiltshire",FCE_PrimarySecondary_Obesity_Bariatric,Female,79
+2014/15,CCG,E38000009,11E,NHS Bath and North East Somerset ,FCE_PrimarySecondary_Obesity_Bariatric,Female,10
+2014/15,CCG,E38000062,11M,NHS Gloucestershire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,28
+2014/15,CCG,E38000181,12D,NHS Swindon ,FCE_PrimarySecondary_Obesity_Bariatric,Female,19
+2014/15,CCG,E38000206,99N,NHS Wiltshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,22
+2014/15,AreaTeam,E39000020,Q65,"Bristol, North Somerset, Somerset and South Gloucestershire",FCE_PrimarySecondary_Obesity_Bariatric,Female,95
+2014/15,CCG,E38000022,11H,NHS Bristol ,FCE_PrimarySecondary_Obesity_Bariatric,Female,30
+2014/15,CCG,E38000125,11T,NHS North Somerset ,FCE_PrimarySecondary_Obesity_Bariatric,Female,8
+2014/15,CCG,E38000150,11X,NHS Somerset ,FCE_PrimarySecondary_Obesity_Bariatric,Female,42
+2014/15,CCG,E38000155,12A,NHS South Gloucestershire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,15
+2014/15,AreaTeam,E39000021,Q66,"Devon, Cornwall and Isles of Scilly",FCE_PrimarySecondary_Obesity_Bariatric,Female,301
+2014/15,CCG,E38000089,11N,NHS Kernow ,FCE_PrimarySecondary_Obesity_Bariatric,Female,129
+2014/15,CCG,E38000129,99P,"NHS North, East, West Devon ",FCE_PrimarySecondary_Obesity_Bariatric,Female,150
+2014/15,CCG,E38000152,99Q,NHS South Devon and Torbay ,FCE_PrimarySecondary_Obesity_Bariatric,Female,22
+2014/15,AreaTeam,E39000022,Q67,Kent and Medway,FCE_PrimarySecondary_Obesity_Bariatric,Female,224
+2014/15,CCG,E38000002,09C,NHS Ashford ,FCE_PrimarySecondary_Obesity_Bariatric,Female,9
+2014/15,CCG,E38000029,09E,NHS Canterbury and Coastal ,FCE_PrimarySecondary_Obesity_Bariatric,Female,14
+2014/15,CCG,E38000043,09J,"NHS Dartford, Gravesham and Swanley ",FCE_PrimarySecondary_Obesity_Bariatric,Female,53
+2014/15,CCG,E38000104,09W,NHS Medway ,FCE_PrimarySecondary_Obesity_Bariatric,Female,46
+2014/15,CCG,E38000156,10A,NHS South Kent Coast ,FCE_PrimarySecondary_Obesity_Bariatric,Female,27
+2014/15,CCG,E38000180,10D,NHS Swale ,FCE_PrimarySecondary_Obesity_Bariatric,Female,23
+2014/15,CCG,E38000184,10E,NHS Thanet ,FCE_PrimarySecondary_Obesity_Bariatric,Female,17
+2014/15,CCG,E38000199,99J,NHS West Kent ,FCE_PrimarySecondary_Obesity_Bariatric,Female,35
+2014/15,AreaTeam,E39000023,Q68,Surrey and Sussex,FCE_PrimarySecondary_Obesity_Bariatric,Female,319
+2014/15,CCG,E38000021,09D,NHS Brighton & Hove ,FCE_PrimarySecondary_Obesity_Bariatric,Female,26
+2014/15,CCG,E38000036,09G,NHS Coastal West Sussex ,FCE_PrimarySecondary_Obesity_Bariatric,Female,67
+2014/15,CCG,E38000039,09H,NHS Crawley ,FCE_PrimarySecondary_Obesity_Bariatric,Female,24
+2014/15,CCG,E38000054,09L,NHS East Surrey ,FCE_PrimarySecondary_Obesity_Bariatric,Female,20
+2014/15,CCG,E38000055,09F,"NHS Eastbourne, Hailsham and Seaford ",FCE_PrimarySecondary_Obesity_Bariatric,Female,28
+2014/15,CCG,E38000067,09N,NHS Guildford and Waverley,FCE_PrimarySecondary_Obesity_Bariatric,Female,18
+2014/15,CCG,E38000076,09P,NHS Hastings & Rother ,FCE_PrimarySecondary_Obesity_Bariatric,Female,16
+2014/15,CCG,E38000081,99K,NHS High Weald Lewes Havens ,FCE_PrimarySecondary_Obesity_Bariatric,Female,23
+2014/15,CCG,E38000083,09X,NHS Horsham and Mid Sussex ,FCE_PrimarySecondary_Obesity_Bariatric,Female,22
+2014/15,CCG,E38000128,09Y,NHS North West Surrey ,FCE_PrimarySecondary_Obesity_Bariatric,Female,43
+2014/15,CCG,E38000177,99H,NHS Surrey Downs ,FCE_PrimarySecondary_Obesity_Bariatric,Female,24
+2014/15,CCG,E38000178,10C,NHS Surrey Heath ,FCE_PrimarySecondary_Obesity_Bariatric,Female,8
+2014/15,AreaTeam,E39000024,Q69,Thames Valley,FCE_PrimarySecondary_Obesity_Bariatric,Female,144
+2014/15,CCG,E38000003,10Y,NHS Aylesbury Vale ,FCE_PrimarySecondary_Obesity_Bariatric,Female,8
+2014/15,CCG,E38000017,10G,NHS Bracknell and Ascot ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,CCG,E38000033,10H,NHS Chiltern2,FCE_PrimarySecondary_Obesity_Bariatric,Female,13
+2014/15,CCG,E38000110,10M,NHS Newbury and District ,FCE_PrimarySecondary_Obesity_Bariatric,Female,13
+2014/15,CCG,E38000114,10N,NHS North & West Reading ,FCE_PrimarySecondary_Obesity_Bariatric,Female,11
+2014/15,CCG,E38000136,10Q,NHS Oxfordshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,56
+2014/15,CCG,E38000148,10T,NHS Slough ,FCE_PrimarySecondary_Obesity_Bariatric,Female,12
+2014/15,CCG,E38000160,10W,NHS South Reading ,FCE_PrimarySecondary_Obesity_Bariatric,Female,11
+2014/15,CCG,E38000207,11C,"NHS Windsor, Ascot and Maidenhead ",FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,CCG,E38000209,11D,NHS Wokingham ,FCE_PrimarySecondary_Obesity_Bariatric,Female,12
+2014/15,AreaTeam,E39000025,Q70,Wessex,FCE_PrimarySecondary_Obesity_Bariatric,Female,281
+2014/15,CCG,E38000045,11J,NHS Dorset ,FCE_PrimarySecondary_Obesity_Bariatric,Female,47
+2014/15,CCG,E38000059,10K,NHS Fareham and Gosport ,FCE_PrimarySecondary_Obesity_Bariatric,Female,21
+2014/15,CCG,E38000087,10L,NHS Isle of Wight ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,CCG,E38000118,99M,NHS North East Hampshire and Farnham ,FCE_PrimarySecondary_Obesity_Bariatric,Female,21
+2014/15,CCG,E38000120,10J,NHS North Hampshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,*
+2014/15,CCG,E38000137,10R,NHS Portsmouth ,FCE_PrimarySecondary_Obesity_Bariatric,Female,65
+2014/15,CCG,E38000154,10V,NHS South Eastern Hampshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,30
+2014/15,CCG,E38000167,10X,NHS Southampton ,FCE_PrimarySecondary_Obesity_Bariatric,Female,32
+2014/15,CCG,E38000198,11A,NHS West Hampshire ,FCE_PrimarySecondary_Obesity_Bariatric,Female,41
