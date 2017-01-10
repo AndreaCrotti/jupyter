@@ -12,3 +12,6 @@ scipy==0.18.1
 SQLAlchemy==1.1.4
 rise==4.0.0b1
 ipyleaflet==0.2.1
+networkx==1.11
+scikit-learn==0.18.1
+scikit-image==0.12.3
