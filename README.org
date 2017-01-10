@@ -6,6 +6,7 @@ notebook extension that can be enabled by doing
 #+BEGIN_SRC sh
   jupyter-nbextension install rise --py --sys-prefix
   jupyter-nbextension enable rise --py --sys-prefix
+  jupyter nbextension enable --py --sys-prefix widgetsnbextension
 #+END_SRC
 
 After all the requirements are installed correctly.
