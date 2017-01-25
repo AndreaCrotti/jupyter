@@ -1,0 +1,7 @@
+#+AUTHOR: Andrea Crotti
+#+EMAIL: @andreacrotti
+#+TITLE: Jupyter and Pandas
+#+OPTIONS: toc:nil num:nil
+
+You can find all the material and the instructions to play with the demo notebooks here:
+https://github.com/AndreaCrotti/jupyter
